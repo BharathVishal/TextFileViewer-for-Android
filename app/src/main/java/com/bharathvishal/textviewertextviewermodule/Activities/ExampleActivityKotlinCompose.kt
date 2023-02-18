@@ -15,7 +15,13 @@ import androidx.compose.ui.unit.dp
 import com.bharathvishal.textviewertextviewermodule.MainComponent.TextReaderModule
 import com.bharathvishal.textviewertextviewermodule.ui.theme.TextViewerAndroidTheme
 
-class ExampleActivity : ComponentActivity() {
+
+/**
+ *
+ * This class shows the implementation of the TextViewer usage in a Kotlin Activity class
+ *
+ */
+class ExampleActivityKotlinCompose : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
@@ -28,10 +34,10 @@ class ExampleActivity : ComponentActivity() {
                     TextViewHere()
                 }
             }
-
-            var mContext = this
-            TextReaderModule().launchTextViewerWithFileChooser()
         }
+
+        var mContext = this
+        TextReaderModule().setContext(mContext).launchTextViewerWithFileChooser ()
     }
 
 

@@ -634,7 +634,6 @@ class TextViewMainActivity : ComponentActivity(), CoroutineScope by MainScope() 
             e.printStackTrace()
         }
 
-        // Always call the superclass so it can save the view hierarchy state
         super.onSaveInstanceState(savedInstanceState)
     }
 

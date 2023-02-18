@@ -1,5 +1,10 @@
 package com.bharathvishal.textviewertextviewermodule.Constants
 
+/**
+ *
+ * Constants
+ *
+ */
 object Constants {
     const val SYMBOL_HYPHEN = "-"
     const val STRING_EMPTY = " "
