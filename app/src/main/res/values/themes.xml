@@ -2,4 +2,13 @@
 <resources>
 
     <style name="Theme.TextViewerAndroid" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.TextViewerAndroid.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.TextViewerAndroid.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.TextViewerAndroid.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 </resources>

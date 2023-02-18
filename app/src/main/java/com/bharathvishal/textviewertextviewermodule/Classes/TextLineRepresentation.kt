@@ -1,4 +1,4 @@
-package com.textviewer.textviewermodule.Classes
+package com.bharathvishal.textviewertextviewermodule.Classes
 
 class TextLineRepresentation {
     var lineNumber: String = "-"

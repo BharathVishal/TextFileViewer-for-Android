@@ -1,4 +1,4 @@
-package com.textviewer.textviewermodule.Activities
+package com.bharathvishal.textviewertextviewermodule.Activities
 
 import android.app.Activity
 import android.content.Context
@@ -14,6 +14,7 @@ import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
 import androidx.compose.foundation.lazy.rememberLazyListState
+import androidx.compose.foundation.text.selection.SelectionContainer
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.ArrowBack
 import androidx.compose.material3.*
@@ -25,11 +26,11 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.core.net.toUri
+import com.bharathvishal.textviewertextviewermodule.Classes.TextLineRepresentation
+import com.bharathvishal.textviewertextviewermodule.Constants.Constants
+import com.bharathvishal.textviewertextviewermodule.Utilities.Utilities
+import com.bharathvishal.textviewertextviewermodule.ui.theme.TextViewerAndroidTheme
 import com.google.android.material.color.DynamicColors
-import com.textviewer.textviewermodule.Classes.TextLineRepresentation
-import com.textviewer.textviewermodule.Constants.Constants
-import com.textviewer.textviewermodule.Utilities.Utilities
-import com.textviewer.textviewermodule.ui.theme.TextViewerAndroidTheme
 import kotlinx.coroutines.*
 import java.io.*
 import java.lang.ref.WeakReference
@@ -93,7 +94,6 @@ class TextViewMainActivity : ComponentActivity(), CoroutineScope by MainScope() 
 
         mContext = this
 
-
         if (savedInstanceState == null) {
             try {
                 if (intent.extras != null) {
@@ -108,15 +108,22 @@ class TextViewMainActivity : ComponentActivity(), CoroutineScope by MainScope() 
                             intent.extras?.getString(Constants.FILE_PATH_FILE_FROM_BUNDLE)
                                 .toString()
 
-                    fileToOpen =
-                        intent.extras?.getString(Constants.FILE_SHOULD_SHOW_LINE_NUMBER).toString()
                     showLineNumber =
                         intent.extras?.getBoolean(Constants.FILE_SHOULD_SHOW_LINE_NUMBER, true)!!
                     showLineNumber =
                         intent.extras?.getBoolean(Constants.FILE_SHOULD_SHOW_LINE_LENGTH, true)!!
 
-                    //Coroutine to open the text file
-                    loadTextFile(mContext, false, isFileTypeUri)
+                    val temp1 =
+                        intent.extras?.getBoolean(Constants.SHOULD_OPEN_TEXT_FILE_SELECTOR, false)!!
+
+                    if (temp1) {
+                        showLineNumber = true
+                        showLineLength = true
+                        openFileTxt()
+                    } else {
+                        //Coroutine to open the text file
+                        loadTextFile(mContext, false, isFileTypeUri)
+                    }
                 } else {
                     showLineNumber = true
                     showLineLength = true
@@ -302,7 +309,7 @@ class TextViewMainActivity : ComponentActivity(), CoroutineScope by MainScope() 
     }
 
     @Composable
-    fun CardViewMain() {
+    fun ViewMain() {
         Column {
             Spacer(modifier = Modifier.padding(top = 1.dp))
             Column(
@@ -339,15 +346,21 @@ class TextViewMainActivity : ComponentActivity(), CoroutineScope by MainScope() 
                 horizontalArrangement = Arrangement.Start,
                 verticalAlignment = Alignment.CenterVertically
             ) {
-                Text(
-                    text = tLineContent,
+                SelectionContainer(
                     modifier = Modifier
-                        .fillMaxWidth()
                         .wrapContentHeight()
-                        .padding(4.dp, 0.dp, 4.dp, 0.dp),
-                    style = MaterialTheme.typography.bodyMedium,
-                    maxLines = 1
-                )
+                        .fillMaxWidth()
+                ) {
+                    Text(
+                        text = tLineContent,
+                        modifier = Modifier
+                            .fillMaxWidth()
+                            .wrapContentHeight()
+                            .padding(4.dp, 0.dp, 4.dp, 0.dp),
+                        style = MaterialTheme.typography.bodyMedium,
+                        maxLines = 1
+                    )
+                }
             }
         }
     }
@@ -372,15 +385,21 @@ class TextViewMainActivity : ComponentActivity(), CoroutineScope by MainScope() 
                 horizontalArrangement = Arrangement.Start,
                 verticalAlignment = Alignment.CenterVertically
             ) {
-                Text(
-                    text = tLineContent,
+                SelectionContainer(
                     modifier = Modifier
                         .wrapContentHeight()
                         .weight(1f)
-                        .padding(4.dp, 0.dp, 4.dp, 0.dp),
-                    style = MaterialTheme.typography.bodyMedium,
-                    maxLines = 1
-                )
+                ) {
+                    Text(
+                        text = tLineContent,
+                        modifier = Modifier
+                            .wrapContentHeight()
+                            .fillMaxWidth()
+                            .padding(4.dp, 0.dp, 4.dp, 0.dp),
+                        style = MaterialTheme.typography.bodyMedium,
+                        maxLines = 1
+                    )
+                }
                 Text(
                     text = tlinelen,
                     modifier = Modifier
@@ -423,15 +442,21 @@ class TextViewMainActivity : ComponentActivity(), CoroutineScope by MainScope() 
                     color = MaterialTheme.colorScheme.outline,
                     maxLines = 1
                 )
-                Text(
-                    text = tLineContent,
+                SelectionContainer(
                     modifier = Modifier
                         .wrapContentHeight()
                         .weight(1f)
-                        .padding(4.dp, 0.dp, 4.dp, 0.dp),
-                    style = MaterialTheme.typography.bodyMedium,
-                    maxLines = 1
-                )
+                ) {
+                    Text(
+                        text = tLineContent,
+                        modifier = Modifier
+                            .wrapContentHeight()
+                            .fillMaxWidth()
+                            .padding(4.dp, 0.dp, 4.dp, 0.dp),
+                        style = MaterialTheme.typography.bodyMedium,
+                        maxLines = 1
+                    )
+                }
             }
         }
     }
@@ -466,15 +491,21 @@ class TextViewMainActivity : ComponentActivity(), CoroutineScope by MainScope() 
                     color = MaterialTheme.colorScheme.outline,
                     maxLines = 1
                 )
-                Text(
-                    text = tLineContent,
+                SelectionContainer(
                     modifier = Modifier
                         .wrapContentHeight()
                         .weight(1f)
-                        .padding(4.dp, 0.dp, 4.dp, 0.dp),
-                    style = MaterialTheme.typography.bodyMedium,
-                    maxLines = 1
-                )
+                ) {
+                    Text(
+                        text = tLineContent,
+                        style = MaterialTheme.typography.bodyMedium,
+                        maxLines = 1,
+                        modifier = Modifier
+                            .wrapContentHeight()
+                            .fillMaxWidth()
+                            .padding(4.dp, 0.dp, 4.dp, 0.dp),
+                    )
+                }
                 Text(
                     text = tLineLen,
                     modifier = Modifier
@@ -570,7 +601,7 @@ class TextViewMainActivity : ComponentActivity(), CoroutineScope by MainScope() 
                 if (showProgressBar.value)
                     showProgressBar()
                 else
-                    CardViewMain()
+                    ViewMain()
             }
         }
     }
@@ -586,18 +617,22 @@ class TextViewMainActivity : ComponentActivity(), CoroutineScope by MainScope() 
 
 
     override fun onSaveInstanceState(savedInstanceState: Bundle) {
-        savedInstanceState.putBoolean("SAVED_INSTANCE_SHOW_LINE_NUMBER_SETTING", showLineNumber)
-        savedInstanceState.putBoolean("SAVED_INSTANCE_SHOW_LINE_LENGTH_SETTING", showLineLength)
+        try {
+            savedInstanceState.putBoolean("SAVED_INSTANCE_SHOW_LINE_NUMBER_SETTING", showLineNumber)
+            savedInstanceState.putBoolean("SAVED_INSTANCE_SHOW_LINE_LENGTH_SETTING", showLineLength)
 
-        if (isFileTypeUri)
-            savedInstanceState.putString(
-                "SAVED_INSTANCE_FILE_URI_LOCATION",
-                fileToOpenUri.toString()
-            )
-        else
-            savedInstanceState.putString("SAVED_INSTANCE_FILE_PATH_LOCATION", fileToOpen)
+            if (isFileTypeUri)
+                savedInstanceState.putString(
+                    "SAVED_INSTANCE_FILE_URI_LOCATION",
+                    fileToOpenUri.toString()
+                )
+            else
+                savedInstanceState.putString("SAVED_INSTANCE_FILE_PATH_LOCATION", fileToOpen)
 
-        savedInstanceState.putString("SAVED_INSTANCE_FILE_NAME", fileNameTextFile.value)
+            savedInstanceState.putString("SAVED_INSTANCE_FILE_NAME", fileNameTextFile.value)
+        } catch (e: Exception) {
+            e.printStackTrace()
+        }
 
         // Always call the superclass so it can save the view hierarchy state
         super.onSaveInstanceState(savedInstanceState)

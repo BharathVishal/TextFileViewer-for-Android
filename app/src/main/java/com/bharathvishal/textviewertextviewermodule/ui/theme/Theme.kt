@@ -1,4 +1,4 @@
-package com.textviewer.textviewermodule.ui.theme
+package com.bharathvishal.textviewertextviewermodule.ui.theme
 
 import android.app.Activity
 import android.os.Build

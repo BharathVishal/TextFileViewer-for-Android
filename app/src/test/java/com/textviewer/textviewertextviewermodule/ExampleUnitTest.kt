@@ -1,4 +1,4 @@
-package com.textviewer.textviewermodule
+package com.bharathvishal.textviewertextviewermodule
 
 import org.junit.Test
 

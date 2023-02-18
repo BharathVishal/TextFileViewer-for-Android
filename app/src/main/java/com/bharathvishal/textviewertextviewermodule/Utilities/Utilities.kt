@@ -1,4 +1,4 @@
-package com.textviewer.textviewermodule.Utilities
+package com.bharathvishal.textviewertextviewermodule.Utilities
 
 import android.annotation.SuppressLint
 import android.content.Context

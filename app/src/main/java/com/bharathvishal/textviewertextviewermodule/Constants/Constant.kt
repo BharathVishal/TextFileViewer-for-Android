@@ -1,4 +1,4 @@
-package com.textviewer.textviewermodule.Constants
+package com.bharathvishal.textviewertextviewermodule.Constants
 
 object Constants {
     const val SYMBOL_HYPHEN = "-"
@@ -9,6 +9,8 @@ object Constants {
     const val FILE_PATH_FILE_FROM_BUNDLE = "FILE_PATH_FILE_FROM_BUNDLE"
     const val FILE_SHOULD_SHOW_LINE_NUMBER = "FILE_SHOULD_SHOW_LINE_NUMBER"
     const val FILE_SHOULD_SHOW_LINE_LENGTH = "FILE_SHOULD_SHOW_LINE_LENGTH"
+
+    const val SHOULD_OPEN_TEXT_FILE_SELECTOR = "SHOULD_OPEN_TEXT_FILE_SELECTOR"
 
     const val SAVED_INSTANCE_SHOW_LINE_NUMBER_SETTING = "SAVED_INSTANCE_SHOW_LINE_NUMBER_SETTING"
     const val SAVED_INSTANCE_SHOW_LINE_LENGTH_SETTING = "SAVED_INSTANCE_SHOW_LINE_LENGTH_SETTING"
