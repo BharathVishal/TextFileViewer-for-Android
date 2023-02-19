@@ -1,13 +1,3 @@
-package com.bharathvishal.textfileviewer.Activities;
-
-import android.content.Context;
-import android.os.Bundle;
-
-import androidx.appcompat.app.AppCompatActivity;
-
-import com.bharathvishal.textfileviewer.MainComponent.TextReaderModule;
-import com.bharathvishal.textfileviewer.R;
-
 /**
  *
  * Copyright 2023 Bharath Vishal G
@@ -25,6 +15,16 @@ import com.bharathvishal.textfileviewer.R;
  * limitations under the License.
  *
  **/
+
+package com.bharathvishal.textfileviewer.Activities;
+
+import android.content.Context;
+import android.os.Bundle;
+
+import androidx.appcompat.app.AppCompatActivity;
+
+import com.bharathvishal.textfileviewer.MainComponent.TextReaderModule;
+import com.bharathvishal.textfileviewer.R;
 
 /*
  *

@@ -1,5 +1,3 @@
-package com.bharathvishal.textfileviewer.Classes
-
 /**
  *
  * Copyright 2023 Bharath Vishal G
@@ -17,6 +15,9 @@ package com.bharathvishal.textfileviewer.Classes
  * limitations under the License.
  *
  **/
+
+package com.bharathvishal.textfileviewer.Classes
+
 class TextLineRepresentation {
     var lineNumber: String = "-"
     var textLine: String = "-"

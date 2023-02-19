@@ -1,13 +1,4 @@
-package com.bharathvishal.textfileviewer.MainComponent
-
-import android.content.Context
-import android.content.Intent
-import android.net.Uri
-import android.os.Bundle
-import com.bharathvishal.textfileviewer.Activities.TextViewMainActivity
-import com.bharathvishal.textfileviewer.Constants.Constants
-
-/*
+/**
  *
  * Copyright 2023 Bharath Vishal G
  *
@@ -23,7 +14,16 @@ import com.bharathvishal.textfileviewer.Constants.Constants
  * See the License for the specific language governing permissions and
  * limitations under the License.
  *
- */
+ **/
+
+package com.bharathvishal.textfileviewer.MainComponent
+
+import android.content.Context
+import android.content.Intent
+import android.net.Uri
+import android.os.Bundle
+import com.bharathvishal.textfileviewer.Activities.TextViewMainActivity
+import com.bharathvishal.textfileviewer.Constants.Constants
 
 /*
  *

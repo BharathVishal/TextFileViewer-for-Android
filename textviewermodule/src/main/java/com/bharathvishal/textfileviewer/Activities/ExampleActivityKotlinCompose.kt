@@ -1,21 +1,3 @@
-package com.bharathvishal.textfileviewer.Activities
-
-import android.os.Bundle
-import androidx.activity.ComponentActivity
-import androidx.activity.compose.setContent
-import androidx.compose.foundation.layout.fillMaxSize
-import androidx.compose.foundation.layout.padding
-import androidx.compose.foundation.layout.wrapContentHeight
-import androidx.compose.material3.MaterialTheme
-import androidx.compose.material3.Surface
-import androidx.compose.material3.Text
-import androidx.compose.runtime.Composable
-import androidx.compose.ui.Modifier
-import androidx.compose.ui.unit.dp
-import com.bharathvishal.textfileviewer.MainComponent.TextReaderModule
-import com.bharathvishal.textfileviewer.ui.theme.TextViewerAndroidTheme
-
-
 /**
  *
  * Copyright 2023 Bharath Vishal G
@@ -33,6 +15,23 @@ import com.bharathvishal.textfileviewer.ui.theme.TextViewerAndroidTheme
  * limitations under the License.
  *
  **/
+
+package com.bharathvishal.textfileviewer.Activities
+
+import android.os.Bundle
+import androidx.activity.ComponentActivity
+import androidx.activity.compose.setContent
+import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.wrapContentHeight
+import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.Surface
+import androidx.compose.material3.Text
+import androidx.compose.runtime.Composable
+import androidx.compose.ui.Modifier
+import androidx.compose.ui.unit.dp
+import com.bharathvishal.textfileviewer.MainComponent.TextReaderModule
+import com.bharathvishal.textfileviewer.ui.theme.TextViewerAndroidTheme
 
 /*
  *

@@ -1,12 +1,4 @@
-package com.bharathvishal.textfileviewer.Utilities
-
-import android.annotation.SuppressLint
-import android.content.Context
-import android.database.Cursor
-import android.net.Uri
-import android.provider.OpenableColumns
-
-/*
+/**
  *
  * Copyright 2023 Bharath Vishal G
  *
@@ -22,7 +14,15 @@ import android.provider.OpenableColumns
  * See the License for the specific language governing permissions and
  * limitations under the License.
  *
- */
+ **/
+
+package com.bharathvishal.textfileviewer.Utilities
+
+import android.annotation.SuppressLint
+import android.content.Context
+import android.database.Cursor
+import android.net.Uri
+import android.provider.OpenableColumns
 
 object Utilities {
     fun getFileNameFromFilePath(stringFileName: String): String {

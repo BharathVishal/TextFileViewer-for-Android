@@ -1,5 +1,3 @@
-package com.bharathvishal.textfileviewer.Constants
-
 /**
  *
  * Copyright 2023 Bharath Vishal G
@@ -17,6 +15,8 @@ package com.bharathvishal.textfileviewer.Constants
  * limitations under the License.
  *
  **/
+
+package com.bharathvishal.textfileviewer.Constants
 
 /*
  *
