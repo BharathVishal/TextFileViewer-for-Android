@@ -32,7 +32,7 @@ allprojects {
 
 ### Usage:
 
-*1*. To launch the text viewer with a given Uri/File path: 
+*1*. To launch the Text viewer with a given Content Uri/File path: 
 ```
 TextReaderModule().setContext(mContext).setFileUri(uri).launchTextViewer()
 
@@ -40,12 +40,11 @@ TextReaderModule().setContext(mContext).useFilePath().setFilePath(path).launchTe
 ```
 &nbsp;
 
-*2*. To launch the Document picker intent:
-This launches the document chooser intent and then dislays the selected text file with the built-in Text Viewer.
+*2*. To launch the Document picker intent. This launches the document chooser intent and then dislays the selected text file with the built-in Text Viewer.
 ```
 TextReaderModule().setContext(mContext).launchTextViewerWithFileChooser()
 ```
-
+&nbsp;
 - To display line length
 ```
 TextReaderModule().shouldShowLineLength(true).setFileUri(uri).launchTextViewer()
@@ -96,8 +95,6 @@ TextReaderModule().setFileUri(uri).launchTextViewer()
 
 
 &nbsp;
-### Usage:
-
 
 ### SDK Info : 
 Min SDK : 23  | Target SDK : 33 | Gradle : 7.4.1  | Kotlin | Jetpack Compose
