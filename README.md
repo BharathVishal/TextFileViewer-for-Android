@@ -1,8 +1,6 @@
-# TextViewerAndroid
+# TextViewerAndroid [![Release](https://jitpack.io/v/BharathVishal/TextFileViewerAndroid.svg)](https://jitpack.io/#BharathVishal/TextFileViewerAndroid)
 
-[![Release](https://jitpack.io/v/BharathVishal/TextFileViewerAndroid.svg)](https://jitpack.io/#BharathVishal/TextFileViewerAndroid)
-
-A Text viewer for Android written in Kotlin. Allows viewing of .txt, .html, .xml, .css file types. Fully implemented in Jetpack compose using Material You 3.0 dynamic theming and also has a separate implementation with xml.
+A Text viewer for Android written in Kotlin. Allows viewing of .txt, .html, .xml, .css file types. Fully implemented in Jetpack compose using Material You 3.0 dynamic theming.
 
 &nbsp;
 ### Usage:
