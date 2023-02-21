@@ -3,7 +3,7 @@
 A Text viewer for Android written in Kotlin. Allows viewing of .txt, .html, .xml, .css file types. Fully implemented in Jetpack compose using Material You 3.0 dynamic theming.
 
 &nbsp;
-### Usage:
+### Adding Dependency:
 
 *Step 1*. Add the JitPack repository to your build file
 
@@ -57,6 +57,8 @@ allprojects {
 
 
 &nbsp;
+### Usage:
+
 
 ### SDK Info : 
 Min SDK : 23  | Target SDK : 33 | Gradle : 7.4.1  | Kotlin | Jetpack Compose
