@@ -21,6 +21,7 @@ package com.bharathvishal.textfileviewer.Activities
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
+import androidx.annotation.Keep
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.wrapContentHeight
@@ -38,6 +39,7 @@ import com.bharathvishal.textfileviewer.ui.theme.TextViewerAndroidTheme
  * This class shows the implementation of the TextViewer usage in a Kotlin Activity class
  *
  */
+@Keep
 class ExampleActivityKotlinCompose : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

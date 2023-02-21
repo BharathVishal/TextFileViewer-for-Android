@@ -22,6 +22,7 @@ import android.content.Context
 import android.content.Intent
 import android.net.Uri
 import android.os.Bundle
+import androidx.annotation.Keep
 import com.bharathvishal.textfileviewer.Activities.TextViewMainActivity
 import com.bharathvishal.textfileviewer.Constants.Constants
 
@@ -30,6 +31,7 @@ import com.bharathvishal.textfileviewer.Constants.Constants
  * Main Initialization Class for TextReaderModule
  *
  */
+@Keep
 public class TextReaderModule() {
     private var mContext: Context? = null
     private var isFileUri: Boolean = false
