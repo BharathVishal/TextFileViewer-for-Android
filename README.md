@@ -110,7 +110,7 @@ Android Studio Electric Eel | 2022.1.1
 
 
 #### License : 
-[Apache License 2.0](https://github.com/TextFileViewerAndroid/TextFileViewerAndroid/blob/master/LICENSE)
+[Apache License 2.0](https://github.com/BharathVishal/TextFileViewerAndroid/blob/main/LICENSE)
 &nbsp;
 
 &nbsp;
