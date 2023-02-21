@@ -47,8 +47,8 @@ allprojects {
 
 &nbsp;
 ### Screenshots : 
-![Screenshot 1](https://github.com/BharathVishal/TextFileViewerAndroid/blob/master/Screenshots/1.png?s=20)
-![Screenshot 2](https://github.com/BharathVishal/TextFileViewerAndroid/blob/master/Screenshots/2.png?s=20)
+![Screenshot 1](https://github.com/BharathVishal/TextFileViewerAndroid/blob/main/Screenshots/1.png?s=20)
+![Screenshot 2](https://github.com/BharathVishal/TextFileViewerAndroid/blob/main/Screenshots/2.png?s=20)
 
 
 &nbsp;
