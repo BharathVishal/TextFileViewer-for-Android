@@ -80,7 +80,7 @@ TextReaderModule().setFileUri(uri).launchTextViewer()
 
 &nbsp;
 ### Preview : 
-![Preview](https://github.com/BharathVishal/TextFileViewerAndroid/blob/master/PreviewGif/PreviewGif.gif)
+![Preview](https://github.com/BharathVishal/TextFileViewerAndroid/blob/main/PreviewGif/PreviewGif.gif)
 
 
 &nbsp;
