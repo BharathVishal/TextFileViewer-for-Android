@@ -25,6 +25,8 @@ import androidx.annotation.Keep
  * Constants
  *
  */
+
+@Keep
 object Constants {
     const val SYMBOL_HYPHEN = "-"
     const val STRING_EMPTY = " "
