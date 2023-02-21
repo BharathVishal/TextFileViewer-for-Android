@@ -1,6 +1,6 @@
 # TextViewerAndroid [![Release](https://jitpack.io/v/BharathVishal/TextFileViewerAndroid.svg)](https://jitpack.io/#BharathVishal/TextFileViewerAndroid)
 
-A Text viewer for Android written in Kotlin. Allows viewing of .txt, .html, .xml, .css file types. Makes use of JetPack Compose's LazyColumn and Fully implemented in Jetpack compose using Material You 3.0 dynamic theming. 
+A Text viewer for Android written in Kotlin. Allows viewing of .txt, .html, .xml, .css file types. Makes use of JetPack Compose's LazyColumn and fully implemented in Jetpack compose using Material You 3.0 dynamic theming. 
 
 &nbsp;
 ### Adding Dependency:
@@ -29,6 +29,44 @@ allprojects {
   ```
 
 &nbsp;
+
+### Usage:
+
+*1*. To launch the Text viewer with a given Content Uri/File path: 
+```
+TextReaderModule().setContext(mContext).setFileUri(uri).launchTextViewer()
+
+TextReaderModule().setContext(mContext).useFilePath().setFilePath(path).launchTextViewer()
+```
+&nbsp;
+
+*2*. To launch the Document picker intent. This launches the document chooser intent and then dislays the selected text file with the built-in Text Viewer.
+```
+TextReaderModule().setContext(mContext).launchTextViewerWithFileChooser()
+```
+&nbsp;
+- To display line length
+```
+TextReaderModule().shouldShowLineLength(true).setFileUri(uri).launchTextViewer()
+```
+
+- To display line number
+```
+TextReaderModule().shouldShowLineNumber(true).setFileUri(uri).launchTextViewer()
+```
+
+- To use File path instead of Content Uri
+```
+TextReaderModule().useFilePath().setFilePath(path).launchTextViewer()
+```
+
+- To use Content Uri instead of File path
+```
+TextReaderModule().setFileUri(uri).launchTextViewer()
+```
+
+&nbsp;
+
 ### Features :
 - Allows viewing of .txt, .html, .xml, .css and .json types.
 - Clean and light weight implementation.
@@ -47,26 +85,24 @@ allprojects {
 
 &nbsp;
 ### Screenshots : 
-![Screenshot 1](https://github.com/BharathVishal/TextFileViewerAndroid/blob/master/Screenshots/1.png?s=20)
-![Screenshot 2](https://github.com/BharathVishal/TextFileViewerAndroid/blob/master/Screenshots/2.png?s=20)
+![Screenshot 1](https://github.com/BharathVishal/TextFileViewerAndroid/blob/main/Screenshots/1.png?s=20)
+![Screenshot 2](https://github.com/BharathVishal/TextFileViewerAndroid/blob/main/Screenshots/2.png?s=20)
 
 
 &nbsp;
-### Year developed : 
+#### Year developed : 
 2023
 
 
 &nbsp;
-### Usage:
 
-
-### SDK Info : 
+#### SDK Info : 
 Min SDK : 23  | Target SDK : 33 | Gradle : 7.4.1  | Kotlin | Jetpack Compose
 
 &nbsp;
 
 
-### Android Studio Version : 
+#### Android Studio Version : 
 Android Studio Electric Eel | 2022.1.1 
 
 
@@ -74,11 +110,11 @@ Android Studio Electric Eel | 2022.1.1
 
 
 #### License : 
-[Apache License 2.0](https://github.com/TextFileViewerAndroid/App-Manager-Android/blob/master/LICENSE)
+[Apache License 2.0](https://github.com/BharathVishal/TextFileViewerAndroid/blob/main/LICENSE)
 &nbsp;
 
 &nbsp;
 
 © 2023. Developed by Bharath Vishal G (https://github.com/BharathVishal).
 
-Thank you. :smile:
+Thank you. :slightly_smiling_face:
