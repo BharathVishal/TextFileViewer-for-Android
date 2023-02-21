@@ -29,6 +29,45 @@ allprojects {
   ```
 
 &nbsp;
+
+### Usage:
+
+*1*. To launch the text viewer with a given Uri/File path: 
+```
+TextReaderModule().setContext(mContext).setFileUri(uri).launchTextViewer()
+
+TextReaderModule().setContext(mContext).useFilePath().setFilePath(path).launchTextViewer()
+```
+
+
+*2*. To launch the Document picker intent:
+This launches the document chooser intent and then dislays the selected text file with the built-in Text Viewer.
+```
+TextReaderModule().setContext(mContext).launchTextViewerWithFileChooser()
+```
+
+- To display line length
+```
+TextReaderModule().shouldShowLineLength(true).setFileUri(uri).launchTextViewer()
+```
+
+- To display line number
+```
+TextReaderModule().shouldShowLineNumber(true).setFileUri(uri).launchTextViewer()
+```
+
+- To use File path instead of Content Uri
+```
+TextReaderModule().useFilePath().setFilePath(path).launchTextViewer()
+```
+
+- To use Content Uri instead of File path
+```
+TextReaderModule().setFileUri(uri).launchTextViewer()
+```
+
+&nbsp;
+
 ### Features :
 - Allows viewing of .txt, .html, .xml, .css and .json types.
 - Clean and light weight implementation.
