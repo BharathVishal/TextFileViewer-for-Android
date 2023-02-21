@@ -38,7 +38,7 @@ TextReaderModule().setContext(mContext).setFileUri(uri).launchTextViewer()
 
 TextReaderModule().setContext(mContext).useFilePath().setFilePath(path).launchTextViewer()
 ```
-
+&nbsp;
 
 *2*. To launch the Document picker intent:
 This launches the document chooser intent and then dislays the selected text file with the built-in Text Viewer.
