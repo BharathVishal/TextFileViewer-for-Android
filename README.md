@@ -90,19 +90,19 @@ TextReaderModule().setFileUri(uri).launchTextViewer()
 
 
 &nbsp;
-### Year developed : 
+#### Year developed : 
 2023
 
 
 &nbsp;
 
-### SDK Info : 
+#### SDK Info : 
 Min SDK : 23  | Target SDK : 33 | Gradle : 7.4.1  | Kotlin | Jetpack Compose
 
 &nbsp;
 
 
-### Android Studio Version : 
+#### Android Studio Version : 
 Android Studio Electric Eel | 2022.1.1 
 
 
