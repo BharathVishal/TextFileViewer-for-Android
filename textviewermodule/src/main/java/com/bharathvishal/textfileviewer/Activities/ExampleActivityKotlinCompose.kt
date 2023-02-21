@@ -39,7 +39,6 @@ import com.bharathvishal.textfileviewer.ui.theme.TextViewerAndroidTheme
  * This class shows the implementation of the TextViewer usage in a Kotlin Activity class
  *
  */
-@Keep
 class ExampleActivityKotlinCompose : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

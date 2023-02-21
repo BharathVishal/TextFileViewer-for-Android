@@ -32,8 +32,7 @@ import com.bharathvishal.textfileviewer.R;
  * This class shows the implementation of the TextViewer usage in a Java Activity class
  *
  */
-@Keep
-public class ExampleActivityJava extends AppCompatActivity {
+class ExampleActivityJava extends AppCompatActivity {
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
