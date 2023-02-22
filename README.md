@@ -1,4 +1,4 @@
-# TextViewerAndroid [![Release](https://jitpack.io/v/BharathVishal/TextFileViewerAndroid.svg)](https://jitpack.io/#BharathVishal/TextFileViewerAndroid)
+# Text File Viewer Android [![Release](https://jitpack.io/v/BharathVishal/TextFileViewerAndroid.svg)](https://jitpack.io/#BharathVishal/TextFileViewerAndroid)
 
 A Text viewer for Android written in Kotlin. Allows viewing of .txt, .html, .xml, .css and .csv file types. Makes use of JetPack Compose's LazyColumn and fully implemented in Jetpack compose using Material You 3.0 dynamic theming. 
 
