@@ -40,7 +40,7 @@ TextReaderModule().setContext(mContext).useFilePath().setFilePath(path).launchTe
 ```
 &nbsp;
 
-*2*. To launch the Document picker intent. This launches the document chooser intent and then dislays the selected text file with the built-in Text Viewer.
+*2*. To launch the Document picker intent. This launches the document chooser intent and then dislays the selected text file using the built-in Text Viewer.
 ```
 TextReaderModule().setContext(mContext).launchTextViewerWithFileChooser()
 ```
@@ -68,7 +68,7 @@ TextReaderModule().setFileUri(uri).launchTextViewer()
 &nbsp;
 
 ### Features :
-- Allows viewing of .txt, .html, .xml, .css and .json types.
+- Allows viewing of .txt, .html, .xml, .css and .csv types.
 - Clean and light weight implementation.
 - Supports night mode.
 - Has options to toggle line number and line length.
