@@ -1,6 +1,6 @@
-# TextViewerAndroid [![Release](https://jitpack.io/v/BharathVishal/TextFileViewerAndroid.svg)](https://jitpack.io/#BharathVishal/TextFileViewerAndroid)
+# Text File Viewer Android [![Release](https://jitpack.io/v/BharathVishal/TextFileViewerAndroid.svg)](https://jitpack.io/#BharathVishal/TextFileViewerAndroid)
 
-A Text viewer for Android written in Kotlin. Allows viewing of .txt, .html, .xml, .css file types. Makes use of JetPack Compose's LazyColumn and fully implemented in Jetpack compose using Material You 3.0 dynamic theming. 
+A Text viewer for Android written in Kotlin. Allows viewing of .txt, .html, .xml, .css and .csv file types. Makes use of JetPack Compose's LazyColumn and fully implemented in Jetpack compose using Material You 3.0 dynamic theming. 
 
 &nbsp;
 ### Adding Dependency:
@@ -40,7 +40,7 @@ TextReaderModule().setContext(mContext).useFilePath().setFilePath(path).launchTe
 ```
 &nbsp;
 
-*2*. To launch the Document picker intent. This launches the document chooser intent and then dislays the selected text file with the built-in Text Viewer.
+*2*. To launch the Document picker intent. This launches the document chooser intent and then dislays the selected text file using the built-in Text Viewer.
 ```
 TextReaderModule().setContext(mContext).launchTextViewerWithFileChooser()
 ```
@@ -68,7 +68,7 @@ TextReaderModule().setFileUri(uri).launchTextViewer()
 &nbsp;
 
 ### Features :
-- Allows viewing of .txt, .html, .xml, .css and .json types.
+- Allows viewing of .txt, .html, .xml, .css and .csv types.
 - Clean and light weight implementation.
 - Supports night mode.
 - Has options to toggle line number and line length.
@@ -80,7 +80,7 @@ TextReaderModule().setFileUri(uri).launchTextViewer()
 
 &nbsp;
 ### Preview : 
-![Preview](https://github.com/BharathVishal/TextFileViewerAndroid/blob/master/PreviewGif/PreviewGif.gif)
+![Preview](https://github.com/BharathVishal/TextFileViewerAndroid/blob/main/PreviewGif/PreviewGif.gif)
 
 
 &nbsp;
@@ -97,7 +97,7 @@ TextReaderModule().setFileUri(uri).launchTextViewer()
 &nbsp;
 
 #### SDK Info : 
-Min SDK : 23  | Target SDK : 33 | Gradle : 7.4.1  | Kotlin | Jetpack Compose
+Min SDK : 22  | Target SDK : 33 | Gradle : 7.4.1  | Kotlin | Jetpack Compose
 
 &nbsp;
 
