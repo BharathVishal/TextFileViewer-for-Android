@@ -23,7 +23,7 @@ allprojects {
 
 ```gradle
 	dependencies {
-  	    implementation 'com.github.BharathVishal:TextFileViewerAndroid:1.0'
+  	    implementation 'com.github.BharathVishal:TextFileViewerAndroid:1.1'
 	}
   
   ```
