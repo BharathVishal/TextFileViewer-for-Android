@@ -39,6 +39,12 @@
             android:label="@string/app_name"
             android:theme="@style/Theme.TextViewerAndroid" />
 
+        <activity
+            android:name=".Activities.TextViewMainActivityWearable"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.TextViewerAndroid" />
+
         <provider
             android:name="androidx.core.content.FileProvider"
             android:authorities="${applicationId}.provider"

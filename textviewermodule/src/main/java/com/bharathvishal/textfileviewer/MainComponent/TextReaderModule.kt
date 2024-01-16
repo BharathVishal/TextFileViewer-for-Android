@@ -24,6 +24,7 @@ import android.net.Uri
 import android.os.Bundle
 import androidx.annotation.Keep
 import com.bharathvishal.textfileviewer.Activities.TextViewMainActivity
+import com.bharathvishal.textfileviewer.Activities.TextViewMainActivityWearable
 import com.bharathvishal.textfileviewer.Constants.Constants
 
 /*
@@ -32,7 +33,7 @@ import com.bharathvishal.textfileviewer.Constants.Constants
  *
  */
 @Keep
-public class TextReaderModule() {
+class TextReaderModule {
     private var mContext: Context? = null
     private var isFileUri: Boolean = false
     private var fileUri: Uri = Uri.EMPTY
@@ -40,6 +41,7 @@ public class TextReaderModule() {
     private var shouldShowLineNumber: Boolean = true
     private var shouldShowLineLength: Boolean = true
     private var shouldOpenFileChooserIntent: Boolean = false
+    private var isDeviceWearable: Boolean = false
 
     /**
      * This method sets the Context.
@@ -49,6 +51,7 @@ public class TextReaderModule() {
         mContext = con
         return this
     }
+
 
     /**
      *
@@ -65,12 +68,25 @@ public class TextReaderModule() {
 
     /**
      *
+     * This method enables/disables displaying of line numbers in the TextViewer.
+     *
+     * @param value of Boolean type. Set to true to show line numbers in the TextViewer.
+     * @return TextReaderModule
+     */
+    private fun setDeviceisWearable(value: Boolean): TextReaderModule {
+        isDeviceWearable = value
+        return this
+    }
+
+
+    /**
+     *
      * This method enables/disables displaying of line content length in the TextViewer.
      *
      * @param value of Boolean type. Set to true to show line content length in the TextViewer.
      * @return TextReaderModule
      */
-    fun shouldShowLineLength(value: Boolean):TextReaderModule {
+    fun shouldShowLineLength(value: Boolean): TextReaderModule {
         shouldShowLineLength = value
         return this
     }
@@ -120,7 +136,7 @@ public class TextReaderModule() {
      * @return TextReaderModule
      */
     fun setFilePath(path: String): TextReaderModule {
-        filePath = filePath
+        filePath = path
         return this
     }
 
@@ -143,11 +159,15 @@ public class TextReaderModule() {
      * The user is presented with an document chooser intent to choose the text file.
      *
      */
-    fun launchTextViewerWithFileChooser()
-    {
+    fun launchTextViewerWithFileChooser() {
         try {
-            val mIntent = Intent(mContext, TextViewMainActivity::class.java)
             val mBundle = Bundle()
+
+            val mIntent: Intent = if (isDeviceWearable)
+                Intent(mContext, TextViewMainActivityWearable::class.java)
+            else
+                Intent(mContext, TextViewMainActivity::class.java)
+
             mBundle.putBoolean(Constants.FILE_SHOULD_SHOW_LINE_NUMBER, shouldShowLineNumber)
             mBundle.putBoolean(Constants.FILE_SHOULD_SHOW_LINE_LENGTH, shouldShowLineLength)
             mBundle.putBoolean(
@@ -155,7 +175,7 @@ public class TextReaderModule() {
                 true
             )
             mIntent.putExtras(mBundle)
-            mContext?.startActivity(mIntent);
+            mContext?.startActivity(mIntent)
         } catch (e: Exception) {
             e.printStackTrace()
         }
@@ -171,7 +191,12 @@ public class TextReaderModule() {
      */
     fun launchTextViewer() {
         try {
-            val mIntent = Intent(mContext, TextViewMainActivity::class.java)
+
+            val mIntent: Intent = if (isDeviceWearable)
+                Intent(mContext, TextViewMainActivityWearable::class.java)
+            else
+                Intent(mContext, TextViewMainActivity::class.java)
+
             val mBundle = Bundle()
             mBundle.putBoolean(Constants.FILE_SHOULD_SHOW_LINE_NUMBER, shouldShowLineNumber)
             mBundle.putBoolean(Constants.FILE_SHOULD_SHOW_LINE_LENGTH, shouldShowLineLength)
