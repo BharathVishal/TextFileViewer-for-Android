@@ -24,7 +24,6 @@ import android.net.Uri
 import android.os.Bundle
 import androidx.annotation.Keep
 import com.bharathvishal.textfileviewer.Activities.TextViewMainActivity
-import com.bharathvishal.textfileviewer.Activities.TextViewMainActivityWearable
 import com.bharathvishal.textfileviewer.Constants.Constants
 
 /*
@@ -163,10 +162,7 @@ class TextReaderModule {
         try {
             val mBundle = Bundle()
 
-            val mIntent: Intent = if (isDeviceWearable)
-                Intent(mContext, TextViewMainActivityWearable::class.java)
-            else
-                Intent(mContext, TextViewMainActivity::class.java)
+            val mIntent: Intent = Intent(mContext, TextViewMainActivity::class.java)
 
             mBundle.putBoolean(Constants.FILE_SHOULD_SHOW_LINE_NUMBER, shouldShowLineNumber)
             mBundle.putBoolean(Constants.FILE_SHOULD_SHOW_LINE_LENGTH, shouldShowLineLength)
@@ -192,10 +188,7 @@ class TextReaderModule {
     fun launchTextViewer() {
         try {
 
-            val mIntent: Intent = if (isDeviceWearable)
-                Intent(mContext, TextViewMainActivityWearable::class.java)
-            else
-                Intent(mContext, TextViewMainActivity::class.java)
+            val mIntent: Intent = Intent(mContext, TextViewMainActivity::class.java)
 
             val mBundle = Bundle()
             mBundle.putBoolean(Constants.FILE_SHOULD_SHOW_LINE_NUMBER, shouldShowLineNumber)
