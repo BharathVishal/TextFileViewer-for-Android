@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.bharathvishal.textfileviewer.textviewermodule-release-64:/layout-v21/notification_template_icon_group.xml",
+        "source": "com.bharathvishal.textfileviewer.textviewermodule-core-1.13.1-38:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "com.bharathvishal.textfileviewer.textviewermodule-release-64:/layout-v21/notification_action.xml",
+        "source": "com.bharathvishal.textfileviewer.textviewermodule-core-1.13.1-38:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "com.bharathvishal.textfileviewer.textviewermodule-release-64:/layout-v21/notification_action_tombstone.xml",
+        "source": "com.bharathvishal.textfileviewer.textviewermodule-core-1.13.1-38:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.bharathvishal.textfileviewer.textviewermodule-release-64:/layout-v21/notification_template_custom_big.xml",
+        "source": "com.bharathvishal.textfileviewer.textviewermodule-core-1.13.1-38:/layout-v21/notification_template_custom_big.xml"
+    }
+]

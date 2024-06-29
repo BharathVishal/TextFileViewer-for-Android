@@ -1,0 +1,69 @@
+com.bharathvishal.textfileviewer.Activities.ExampleActivityKotlinCompose:
+    public static final int $stable
+com.bharathvishal.textfileviewer.Activities.TextViewMainActivity$DefaultPreview$1
+com.bharathvishal.textfileviewer.Activities.TextViewMainActivity$LazyColumnView$lambda$19$$inlined$items$default$2
+com.bharathvishal.textfileviewer.Activities.TextViewMainActivity:
+    public final void DefaultPreview(androidx.compose.runtime.Composer,int)
+    private static final kotlin.Unit DefaultPreview$lambda$26(com.bharathvishal.textfileviewer.Activities.TextViewMainActivity,int,androidx.compose.runtime.Composer,int)
+    public final androidx.activity.result.ActivityResultLauncher getResultLauncherPickTextFile()
+    public final void setTextLineListSnapShot(androidx.compose.runtime.snapshots.SnapshotStateList)
+com.bharathvishal.textfileviewer.BuildConfig
+com.bharathvishal.textfileviewer.Utilities.Utilities:
+    public static final int $stable
+com.bharathvishal.textfileviewer.databinding.MainlayoutBinding
+com.bharathvishal.textfileviewer.Activities.ComposableSingletons$TextViewMainActivityKt$lambda-1$1:
+    public static void invoke()
+com.bharathvishal.textfileviewer.Activities.ComposableSingletons$TextViewMainActivityKt:
+    public static final com.bharathvishal.textfileviewer.Activities.ComposableSingletons$TextViewMainActivityKt INSTANCE
+    public void <init>()
+    public static kotlin.jvm.functions.Function2 getLambda-1$textviewermodule_release()
+com.bharathvishal.textfileviewer.Activities.ExampleActivityKotlinCompose$onCreate$1$1$1:
+    public static void invoke()
+com.bharathvishal.textfileviewer.Activities.ExampleActivityKotlinCompose$onCreate$1$1:
+    public static void invoke()
+com.bharathvishal.textfileviewer.Activities.ExampleActivityKotlinCompose$onCreate$1:
+    public static void invoke()
+com.bharathvishal.textfileviewer.Activities.ExampleActivityKotlinCompose:
+    static void <clinit>()
+com.bharathvishal.textfileviewer.Activities.TextViewMainActivity$ComposableCardViewApp$1$1$1:
+    public static void invoke()
+com.bharathvishal.textfileviewer.Activities.TextViewMainActivity$ComposableCardViewApp$3$1$1:
+    public static void invoke()
+com.bharathvishal.textfileviewer.Activities.TextViewMainActivity$ComposableCardViewApp$5$1$1:
+    public static void invoke()
+com.bharathvishal.textfileviewer.Activities.TextViewMainActivity$ComposableCardViewAppCustom$1$1$1:
+    public static void invoke()
+com.bharathvishal.textfileviewer.Activities.TextViewMainActivity$LazyColumnView$lambda$19$$inlined$items$default$1:
+    public static java.lang.Void invoke()
+com.bharathvishal.textfileviewer.Activities.TextViewMainActivity$LazyColumnView$lambda$19$$inlined$items$default$4:
+    public static void invoke()
+com.bharathvishal.textfileviewer.Activities.TextViewMainActivity$TopAppBarMain$1:
+    public static void invoke()
+com.bharathvishal.textfileviewer.Activities.TextViewMainActivity$loadTextFile$1$3:
+    public int label
+    public static java.lang.Object invoke()
+com.bharathvishal.textfileviewer.Activities.TextViewMainActivity$loadTextFile$1:
+    public static java.lang.Object invoke()
+com.bharathvishal.textfileviewer.Activities.TextViewMainActivity$onCreate$1$1$1:
+    public static void invoke()
+com.bharathvishal.textfileviewer.Activities.TextViewMainActivity$onCreate$1$1:
+    public static void invoke()
+com.bharathvishal.textfileviewer.Activities.TextViewMainActivity$onCreate$1:
+    public static void invoke()
+com.bharathvishal.textfileviewer.Activities.TextViewMainActivity:
+    public static final int $stable
+    static void <clinit>()
+    public static androidx.compose.runtime.snapshots.SnapshotStateList getTextLineListSnapShot()
+    public final void loadTextFile(android.content.Context,boolean)
+com.bharathvishal.textfileviewer.Classes.TextLineRepresentation:
+    public static final int $stable
+    static void <clinit>()
+    public static java.lang.String getLineNumber()
+    public static java.lang.String getTextLine()
+    public static java.lang.String getTextNoOfCharacters()
+com.bharathvishal.textfileviewer.MainComponent.TextReaderModule:
+    static void <clinit>()
+com.bharathvishal.textfileviewer.Utilities.Utilities:
+    public static final com.bharathvishal.textfileviewer.Utilities.Utilities INSTANCE
+    static void <clinit>()
+    public void <init>()

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.bharathvishal.textfileviewer.textviewermodule-release-64:/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "com.bharathvishal.textfileviewer.textviewermodule-appcompat-1.7.0-15:/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "com.bharathvishal.textfileviewer.textviewermodule-release-64:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "com.bharathvishal.textfileviewer.textviewermodule-appcompat-1.7.0-15:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    }
+]

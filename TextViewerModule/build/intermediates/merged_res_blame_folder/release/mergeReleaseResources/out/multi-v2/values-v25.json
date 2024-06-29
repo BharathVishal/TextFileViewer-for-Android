@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.bharathvishal.textfileviewer.textviewermodule-release-64:/values-v25/values-v25.xml",
+            "map": [
+                {
+                    "source": "/Users/vishal/.gradle/caches/transforms-4/3defc8259c752c33e3d5176767ad0c95/transformed/appcompat-1.7.0/res/values-v25/values-v25.xml",
+                    "from": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,126,209,308",
+                        "endLines": "2,3,5,7",
+                        "endColumns": "70,82,12,12",
+                        "endOffsets": "121,204,303,414"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.bharathvishal.textfileviewer.textviewermodule-mergeReleaseResources-62:/values-v25/values-v25.xml",
+            "map": [
+                {
+                    "source": "/Users/vishal/.gradle/caches/transforms-4/3defc8259c752c33e3d5176767ad0c95/transformed/appcompat-1.7.0/res/values-v25/values-v25.xml",
+                    "from": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,126,209,308",
+                        "endLines": "2,3,5,7",
+                        "endColumns": "70,82,12,12",
+                        "endOffsets": "121,204,303,414"
+                    }
+                }
+            ]
+        }
+    ]
+}
