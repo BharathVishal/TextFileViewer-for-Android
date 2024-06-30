@@ -103,14 +103,15 @@ dependencies {
     androidTestImplementation(platform(libs.androidx.compose.bom))
 }
 
-afterEvaluate {
-    publishing {
-        publications {
-            create<MavenPublication>("maven") {
-                from (components["release"])
-                groupId = "com.github.BharathVishal"
-                artifactId = "TextFileViewerAndroid"
-                version = "1.3.6"
+publishing {
+    publications {
+        create<MavenPublication>("maven") {
+            groupId = "com.github.BharathVishal"
+            artifactId = "TextFileViewerAndroid"
+            version = "1.3.7"
+
+            afterEvaluate {
+                from(components["release"])
             }
         }
     }
