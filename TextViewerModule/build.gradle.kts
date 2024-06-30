@@ -103,24 +103,15 @@ dependencies {
     androidTestImplementation(platform(libs.androidx.compose.bom))
 }
 
-
-publishing {
-    publications {
-        register("release", MavenPublication::class) {
-            afterEvaluate {
-                // Applies the component for the release build variant.
-                // NOTE : Delete this line code if you publish Native Java / Kotlin Library
-                from(components["release"])
-
-                // Library Package Name (Example : "com.frogobox.androidfirstlib")
+afterEvaluate {
+    publishing {
+        publications {
+            create<MavenPublication>("maven") {
+                from (components["release"])
                 groupId = "com.github.BharathVishal"
-
-                // Library Name / Module Name (Example : "androidfirstlib")
                 artifactId = "TextFileViewerAndroid"
-
-                // Version Library Name
-                version = "1.3.5"
+                version = "1.3.6"
+            }
         }
     }
-}
 }
