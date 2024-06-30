@@ -1,90 +1,90 @@
-com.bharathvishal.textfileviewer.R$mipmap
-com.bharathvishal.textfileviewer.Activities.ExampleActivityJava
-com.bharathvishal.textfileviewer.MainComponent.TextReaderModule
-com.bharathvishal.textfileviewer.Activities.TextViewMainActivity
-com.bharathvishal.textfileviewer.R$drawable
-com.bharathvishal.textfileviewer.R$string
-com.bharathvishal.textfileviewer.R$style
-com.bharathvishal.textfileviewer.R$xml
-com.bharathvishal.textfileviewer.R$dimen
-com.bharathvishal.textfileviewer.R
-com.bharathvishal.textfileviewer.Constants.Constants
-com.bharathvishal.textfileviewer.R$layout
-com.bharathvishal.textfileviewer.Activities.ExampleActivityKotlinCompose
 com.bharathvishal.textfileviewer.R$color
-com.bharathvishal.textfileviewer.Constants.Constants: java.lang.String FILE_SHOULD_SHOW_LINE_NUMBER
+com.bharathvishal.textfileviewer.Activities.ExampleActivityKotlinCompose
+com.bharathvishal.textfileviewer.R$xml
+com.bharathvishal.textfileviewer.R
+com.bharathvishal.textfileviewer.Activities.ExampleActivityJava
+com.bharathvishal.textfileviewer.R$style
+com.bharathvishal.textfileviewer.R$drawable
+com.bharathvishal.textfileviewer.R$dimen
+com.bharathvishal.textfileviewer.MainComponent.TextReaderModule
+com.bharathvishal.textfileviewer.R$string
+com.bharathvishal.textfileviewer.R$mipmap
+com.bharathvishal.textfileviewer.Constants.Constants
+com.bharathvishal.textfileviewer.Activities.TextViewMainActivity
+com.bharathvishal.textfileviewer.R$layout
 com.bharathvishal.textfileviewer.Constants.Constants: java.lang.String FILE_PATH_URI_FROM_BUNDLE
-com.bharathvishal.textfileviewer.R$xml: int backup_rules
-com.bharathvishal.textfileviewer.R$color: int teal_700
-com.bharathvishal.textfileviewer.R$string: int title_activity_sample
-com.bharathvishal.textfileviewer.Constants.Constants: java.lang.String SHOULD_OPEN_TEXT_FILE_SELECTOR
-com.bharathvishal.textfileviewer.Constants.Constants: java.lang.String SAVED_INSTANCE_SHOW_LINE_LENGTH_SETTING
-com.bharathvishal.textfileviewer.R$mipmap: int ic_launcher_round
 com.bharathvishal.textfileviewer.MainComponent.TextReaderModule: java.lang.String filePath
-com.bharathvishal.textfileviewer.R$style: int Theme_TextViewerAndroid_PopupOverlay
-com.bharathvishal.textfileviewer.R$style: int Theme_TextViewerAndroid_NoActionBar
-com.bharathvishal.textfileviewer.R$mipmap: int ic_launcher
-com.bharathvishal.textfileviewer.Constants.Constants: java.lang.String SAVED_INSTANCE_FILE_PATH_LOCATION
-com.bharathvishal.textfileviewer.MainComponent.TextReaderModule: int $stable
-com.bharathvishal.textfileviewer.MainComponent.TextReaderModule: boolean shouldShowLineNumber
-com.bharathvishal.textfileviewer.Constants.Constants: java.lang.String SAVED_INSTANCE_SHOW_LINE_NUMBER_SETTING
-com.bharathvishal.textfileviewer.Constants.Constants: java.lang.String SAVED_INSTANCE_SCROLL_RC_SETTING
-com.bharathvishal.textfileviewer.MainComponent.TextReaderModule: boolean shouldOpenFileChooserIntent
-com.bharathvishal.textfileviewer.MainComponent.TextReaderModule: boolean isFileUri
-com.bharathvishal.textfileviewer.R$string: int second_fragment_label
-com.bharathvishal.textfileviewer.R$color: int black
-com.bharathvishal.textfileviewer.R$string: int first_fragment_label
-com.bharathvishal.textfileviewer.Constants.Constants: com.bharathvishal.textfileviewer.Constants.Constants INSTANCE
-com.bharathvishal.textfileviewer.R$xml: int providerpaths
-com.bharathvishal.textfileviewer.R$color: int purple_200
-com.bharathvishal.textfileviewer.Constants.Constants: java.lang.String SYMBOL_HYPHEN
-com.bharathvishal.textfileviewer.R$color: int purple_500
-com.bharathvishal.textfileviewer.R$string: int previous
-com.bharathvishal.textfileviewer.R$color: int white
-com.bharathvishal.textfileviewer.MainComponent.TextReaderModule: boolean isDeviceWearable
-com.bharathvishal.textfileviewer.R$string: int next
-com.bharathvishal.textfileviewer.R$color: int teal_200
 com.bharathvishal.textfileviewer.MainComponent.TextReaderModule: android.content.Context mContext
-com.bharathvishal.textfileviewer.R$color: int purple_700
-com.bharathvishal.textfileviewer.R$style: int Theme_TextViewerAndroid_AppBarOverlay
-com.bharathvishal.textfileviewer.R$layout: int mainlayout
-com.bharathvishal.textfileviewer.Constants.Constants: java.lang.String SAVED_INSTANCE_FILE_NAME
-com.bharathvishal.textfileviewer.Constants.Constants: java.lang.String SAVED_INSTANCE_FILE_URI_LOCATION
-com.bharathvishal.textfileviewer.Constants.Constants: java.lang.String FILE_SHOULD_SHOW_LINE_LENGTH
-com.bharathvishal.textfileviewer.Constants.Constants: java.lang.String FILE_PATH_FILE_FROM_BUNDLE
-com.bharathvishal.textfileviewer.R$drawable: int ic_launcher_background
-com.bharathvishal.textfileviewer.R$style: int Theme_TextViewerAndroid
-com.bharathvishal.textfileviewer.Constants.Constants: int $stable
-com.bharathvishal.textfileviewer.Constants.Constants: java.lang.String FILE_PATH_TYPE_URI
-com.bharathvishal.textfileviewer.R$dimen: int fab_margin
-com.bharathvishal.textfileviewer.R$drawable: int ic_launcher_foreground
-com.bharathvishal.textfileviewer.R$string: int app_name
-com.bharathvishal.textfileviewer.R$style: int Base_Theme_TextViewerAndroid
+com.bharathvishal.textfileviewer.MainComponent.TextReaderModule: boolean isFileUri
 com.bharathvishal.textfileviewer.MainComponent.TextReaderModule: boolean shouldShowLineLength
-com.bharathvishal.textfileviewer.MainComponent.TextReaderModule: android.net.Uri fileUri
+com.bharathvishal.textfileviewer.R$color: int purple_500
+com.bharathvishal.textfileviewer.R$color: int white
+com.bharathvishal.textfileviewer.R$color: int teal_200
+com.bharathvishal.textfileviewer.MainComponent.TextReaderModule: boolean isDeviceWearable
+com.bharathvishal.textfileviewer.Constants.Constants: int $stable
+com.bharathvishal.textfileviewer.MainComponent.TextReaderModule: boolean shouldOpenFileChooserIntent
+com.bharathvishal.textfileviewer.R$style: int Theme_TextViewerAndroid_AppBarOverlay
+com.bharathvishal.textfileviewer.Constants.Constants: java.lang.String FILE_PATH_FILE_FROM_BUNDLE
+com.bharathvishal.textfileviewer.R$color: int purple_200
+com.bharathvishal.textfileviewer.Constants.Constants: java.lang.String SAVED_INSTANCE_FILE_PATH_LOCATION
+com.bharathvishal.textfileviewer.Constants.Constants: java.lang.String SHOULD_OPEN_TEXT_FILE_SELECTOR
+com.bharathvishal.textfileviewer.Constants.Constants: java.lang.String FILE_PATH_TYPE_URI
+com.bharathvishal.textfileviewer.R$drawable: int ic_launcher_foreground
+com.bharathvishal.textfileviewer.R$color: int purple_700
+com.bharathvishal.textfileviewer.R$layout: int mainlayout
+com.bharathvishal.textfileviewer.R$xml: int backup_rules
+com.bharathvishal.textfileviewer.Constants.Constants: java.lang.String SAVED_INSTANCE_SCROLL_RC_SETTING
+com.bharathvishal.textfileviewer.MainComponent.TextReaderModule: boolean shouldShowLineNumber
+com.bharathvishal.textfileviewer.R$style: int Theme_TextViewerAndroid_NoActionBar
+com.bharathvishal.textfileviewer.R$string: int app_name
+com.bharathvishal.textfileviewer.R$color: int teal_700
+com.bharathvishal.textfileviewer.Constants.Constants: java.lang.String SAVED_INSTANCE_SHOW_LINE_LENGTH_SETTING
+com.bharathvishal.textfileviewer.R$style: int Theme_TextViewerAndroid_PopupOverlay
+com.bharathvishal.textfileviewer.MainComponent.TextReaderModule: int $stable
+com.bharathvishal.textfileviewer.R$string: int first_fragment_label
+com.bharathvishal.textfileviewer.R$color: int black
 com.bharathvishal.textfileviewer.Constants.Constants: java.lang.String STRING_EMPTY
-com.bharathvishal.textfileviewer.Activities.TextViewMainActivity: TextViewMainActivity()
-com.bharathvishal.textfileviewer.MainComponent.TextReaderModule: com.bharathvishal.textfileviewer.MainComponent.TextReaderModule setFileUri(android.net.Uri)
-com.bharathvishal.textfileviewer.Activities.ExampleActivityJava: ExampleActivityJava()
-com.bharathvishal.textfileviewer.MainComponent.TextReaderModule: com.bharathvishal.textfileviewer.MainComponent.TextReaderModule setContext(android.content.Context)
-com.bharathvishal.textfileviewer.R$drawable: R$drawable()
-com.bharathvishal.textfileviewer.MainComponent.TextReaderModule: TextReaderModule()
-com.bharathvishal.textfileviewer.MainComponent.TextReaderModule: void launchTextViewer()
-com.bharathvishal.textfileviewer.Activities.ExampleActivityKotlinCompose: ExampleActivityKotlinCompose()
-com.bharathvishal.textfileviewer.MainComponent.TextReaderModule: com.bharathvishal.textfileviewer.MainComponent.TextReaderModule useFilePath()
-com.bharathvishal.textfileviewer.R$color: R$color()
-com.bharathvishal.textfileviewer.MainComponent.TextReaderModule: com.bharathvishal.textfileviewer.MainComponent.TextReaderModule shouldShowLineLength(boolean)
-com.bharathvishal.textfileviewer.R$layout: R$layout()
-com.bharathvishal.textfileviewer.R: R()
-com.bharathvishal.textfileviewer.MainComponent.TextReaderModule: com.bharathvishal.textfileviewer.MainComponent.TextReaderModule shouldShowLineNumber(boolean)
+com.bharathvishal.textfileviewer.R$string: int second_fragment_label
+com.bharathvishal.textfileviewer.R$mipmap: int ic_launcher_round
+com.bharathvishal.textfileviewer.Constants.Constants: java.lang.String FILE_SHOULD_SHOW_LINE_LENGTH
+com.bharathvishal.textfileviewer.R$string: int next
+com.bharathvishal.textfileviewer.MainComponent.TextReaderModule: android.net.Uri fileUri
+com.bharathvishal.textfileviewer.Constants.Constants: java.lang.String SAVED_INSTANCE_SHOW_LINE_NUMBER_SETTING
+com.bharathvishal.textfileviewer.R$style: int Theme_TextViewerAndroid
+com.bharathvishal.textfileviewer.R$mipmap: int ic_launcher
+com.bharathvishal.textfileviewer.Constants.Constants: com.bharathvishal.textfileviewer.Constants.Constants INSTANCE
+com.bharathvishal.textfileviewer.Constants.Constants: java.lang.String SAVED_INSTANCE_FILE_URI_LOCATION
+com.bharathvishal.textfileviewer.Constants.Constants: java.lang.String FILE_SHOULD_SHOW_LINE_NUMBER
+com.bharathvishal.textfileviewer.R$drawable: int ic_launcher_background
+com.bharathvishal.textfileviewer.R$string: int previous
+com.bharathvishal.textfileviewer.Constants.Constants: java.lang.String SYMBOL_HYPHEN
+com.bharathvishal.textfileviewer.R$xml: int providerpaths
+com.bharathvishal.textfileviewer.R$dimen: int fab_margin
+com.bharathvishal.textfileviewer.R$string: int title_activity_sample
+com.bharathvishal.textfileviewer.Constants.Constants: java.lang.String SAVED_INSTANCE_FILE_NAME
+com.bharathvishal.textfileviewer.R$style: int Base_Theme_TextViewerAndroid
 com.bharathvishal.textfileviewer.R$dimen: R$dimen()
-com.bharathvishal.textfileviewer.R$string: R$string()
-com.bharathvishal.textfileviewer.MainComponent.TextReaderModule: com.bharathvishal.textfileviewer.MainComponent.TextReaderModule setFilePath(java.lang.String)
-com.bharathvishal.textfileviewer.Constants.Constants: Constants()
-com.bharathvishal.textfileviewer.MainComponent.TextReaderModule: void launchTextViewerWithFileChooser()
-com.bharathvishal.textfileviewer.MainComponent.TextReaderModule: com.bharathvishal.textfileviewer.MainComponent.TextReaderModule setDeviceisWearable(boolean)
 com.bharathvishal.textfileviewer.MainComponent.TextReaderModule: com.bharathvishal.textfileviewer.MainComponent.TextReaderModule shouldOpenFileChooserIntent()
-com.bharathvishal.textfileviewer.MainComponent.TextReaderModule: com.bharathvishal.textfileviewer.MainComponent.TextReaderModule useFileUri()
+com.bharathvishal.textfileviewer.R$color: R$color()
+com.bharathvishal.textfileviewer.MainComponent.TextReaderModule: com.bharathvishal.textfileviewer.MainComponent.TextReaderModule setFileUri(android.net.Uri)
+com.bharathvishal.textfileviewer.R$drawable: R$drawable()
+com.bharathvishal.textfileviewer.MainComponent.TextReaderModule: com.bharathvishal.textfileviewer.MainComponent.TextReaderModule setDeviceisWearable(boolean)
 com.bharathvishal.textfileviewer.R$style: R$style()
+com.bharathvishal.textfileviewer.MainComponent.TextReaderModule: com.bharathvishal.textfileviewer.MainComponent.TextReaderModule setContext(android.content.Context)
 com.bharathvishal.textfileviewer.R$xml: R$xml()
+com.bharathvishal.textfileviewer.MainComponent.TextReaderModule: TextReaderModule()
 com.bharathvishal.textfileviewer.R$mipmap: R$mipmap()
+com.bharathvishal.textfileviewer.Activities.TextViewMainActivity: TextViewMainActivity()
+com.bharathvishal.textfileviewer.R$string: R$string()
+com.bharathvishal.textfileviewer.Constants.Constants: Constants()
+com.bharathvishal.textfileviewer.R$layout: R$layout()
+com.bharathvishal.textfileviewer.MainComponent.TextReaderModule: com.bharathvishal.textfileviewer.MainComponent.TextReaderModule shouldShowLineNumber(boolean)
+com.bharathvishal.textfileviewer.MainComponent.TextReaderModule: com.bharathvishal.textfileviewer.MainComponent.TextReaderModule useFilePath()
+com.bharathvishal.textfileviewer.MainComponent.TextReaderModule: com.bharathvishal.textfileviewer.MainComponent.TextReaderModule shouldShowLineLength(boolean)
+com.bharathvishal.textfileviewer.MainComponent.TextReaderModule: com.bharathvishal.textfileviewer.MainComponent.TextReaderModule setFilePath(java.lang.String)
+com.bharathvishal.textfileviewer.MainComponent.TextReaderModule: void launchTextViewer()
+com.bharathvishal.textfileviewer.MainComponent.TextReaderModule: com.bharathvishal.textfileviewer.MainComponent.TextReaderModule useFileUri()
+com.bharathvishal.textfileviewer.Activities.ExampleActivityKotlinCompose: ExampleActivityKotlinCompose()
+com.bharathvishal.textfileviewer.Activities.ExampleActivityJava: ExampleActivityJava()
+com.bharathvishal.textfileviewer.R: R()
+com.bharathvishal.textfileviewer.MainComponent.TextReaderModule: void launchTextViewerWithFileChooser()

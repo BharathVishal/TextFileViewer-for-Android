@@ -108,7 +108,7 @@ publishing {
         create<MavenPublication>("maven") {
             groupId = "com.github.BharathVishal"
             artifactId = "TextFileViewerAndroid"
-            version = "1.3.7"
+            version = "1.3.8"
 
             afterEvaluate {
                 from(components["release"])
