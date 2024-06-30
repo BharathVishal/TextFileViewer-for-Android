@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.bharathvishal.textfileviewer.test.textviewermodule-mergeDebugAndroidTestResources-70:/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "/Users/vishal/.gradle/caches/transforms-4/fcffe8aa93cf07688a2368185a58e56f/transformed/appcompat-1.7.0/res/values-watch-v21/values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -99,15 +99,15 @@ dependencies {
     implementation(libs.androidx.compose.ui)
     implementation(libs.androidx.composeuigraphics)
     implementation(libs.androidx.core.ktx)
-    implementation(platform (libs.androidx.compose.bom))
-    androidTestImplementation(platform (libs.androidx.compose.bom))
+    implementation(platform(libs.androidx.compose.bom))
+    androidTestImplementation(platform(libs.androidx.compose.bom))
 }
 
-afterEvaluate {
-    publishing {
-        publications {
-            register("release", MavenPublication::class) {
 
+publishing {
+    publications {
+        register("release", MavenPublication::class) {
+            afterEvaluate {
                 // Applies the component for the release build variant.
                 // NOTE : Delete this line code if you publish Native Java / Kotlin Library
                 from(components["release"])
@@ -119,8 +119,8 @@ afterEvaluate {
                 artifactId = "TextFileViewerAndroid"
 
                 // Version Library Name
-                version = "1.3.3"
-            }
+                version = "1.3.4"
         }
     }
+}
 }

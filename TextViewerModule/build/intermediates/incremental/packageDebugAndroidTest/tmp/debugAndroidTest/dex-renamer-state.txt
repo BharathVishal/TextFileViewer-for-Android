@@ -1,0 +1,25 @@
+#Sun Jun 30 15:05:43 IST 2024
+base.0=/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/dex/debugAndroidTest/mergeExtDexDebugAndroidTest/classes.dex
+base.1=/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/dex/debugAndroidTest/mergeLibDexDebugAndroidTest/0/classes.dex
+base.2=/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+base.3=/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/7/classes.dex
+base.4=/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/8/classes.dex
+base.5=/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/dex/debugAndroidTest/mergeExtDexDebugAndroidTest/classes2.dex
+base.6=/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/dex/debugAndroidTest/mergeExtDexDebugAndroidTest/classes3.dex
+base.7=/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/dex/debugAndroidTest/mergeExtDexDebugAndroidTest/classes4.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=0/classes.dex
+path.3=7/classes.dex
+path.4=8/classes.dex
+path.5=classes2.dex
+path.6=classes3.dex
+path.7=classes4.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
+renamed.3=classes4.dex
+renamed.4=classes5.dex
+renamed.5=classes6.dex
+renamed.6=classes7.dex
+renamed.7=classes8.dex
