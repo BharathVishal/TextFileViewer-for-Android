@@ -4,7 +4,7 @@
             "outputFile": "com.bharathvishal.textfileviewer.textviewermodule-mergeReleaseResources-62:/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
-                    "source": "/Users/vishal/.gradle/caches/transforms-4/3defc8259c752c33e3d5176767ad0c95/transformed/appcompat-1.7.0/res/values-watch-v20/values-watch-v20.xml",
+                    "source": "/Users/vishal/.gradle/caches/transforms-4/5f1f91997329e9772ab9cc3ac11bd571/transformed/appcompat-1.7.0/res/values-watch-v20/values-watch-v20.xml",
                     "from": {
                         "startLines": "2,5,8",
                         "startColumns": "4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/Users/vishal/.gradle/caches/transforms-4/15b73b5674396af860b78c5f3c3242a3/transformed/jetified-core-splashscreen-1.0.1/res/values-watch-v20/values-watch-v20.xml",
+                    "source": "/Users/vishal/.gradle/caches/transforms-4/085d64baed4305070c80e322c083af21/transformed/jetified-core-splashscreen-1.0.1/res/values-watch-v20/values-watch-v20.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -38,7 +38,7 @@
             "outputFile": "com.bharathvishal.textfileviewer.textviewermodule-release-64:/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
-                    "source": "/Users/vishal/.gradle/caches/transforms-4/3defc8259c752c33e3d5176767ad0c95/transformed/appcompat-1.7.0/res/values-watch-v20/values-watch-v20.xml",
+                    "source": "/Users/vishal/.gradle/caches/transforms-4/5f1f91997329e9772ab9cc3ac11bd571/transformed/appcompat-1.7.0/res/values-watch-v20/values-watch-v20.xml",
                     "from": {
                         "startLines": "2,5,8",
                         "startColumns": "4,4,4",
@@ -57,7 +57,7 @@
                     }
                 },
                 {
-                    "source": "/Users/vishal/.gradle/caches/transforms-4/15b73b5674396af860b78c5f3c3242a3/transformed/jetified-core-splashscreen-1.0.1/res/values-watch-v20/values-watch-v20.xml",
+                    "source": "/Users/vishal/.gradle/caches/transforms-4/085d64baed4305070c80e322c083af21/transformed/jetified-core-splashscreen-1.0.1/res/values-watch-v20/values-watch-v20.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

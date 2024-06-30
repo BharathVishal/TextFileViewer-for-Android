@@ -3,24 +3,24 @@
 3    package="com.bharathvishal.textfileviewer.test" >
 4
 5    <uses-sdk
-5-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest15131272556526105842.xml:5:5-74
+5-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2184618230283387803.xml:5:5-74
 6        android:minSdkVersion="22"
-6-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest15131272556526105842.xml:5:15-41
+6-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2184618230283387803.xml:5:15-41
 7        android:targetSdkVersion="34" />
-7-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest15131272556526105842.xml:5:42-71
+7-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2184618230283387803.xml:5:42-71
 8
 9    <instrumentation
-9-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest15131272556526105842.xml:11:5-15:87
+9-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2184618230283387803.xml:11:5-15:87
 10        android:name="androidx.test.runner.AndroidJUnitRunner"
-10-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest15131272556526105842.xml:11:22-76
+10-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2184618230283387803.xml:11:22-76
 11        android:functionalTest="false"
-11-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest15131272556526105842.xml:14:22-52
+11-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2184618230283387803.xml:14:22-52
 12        android:handleProfiling="false"
-12-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest15131272556526105842.xml:13:22-53
+12-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2184618230283387803.xml:13:22-53
 13        android:label="Tests for com.bharathvishal.textfileviewer.test"
-13-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest15131272556526105842.xml:15:22-85
+13-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2184618230283387803.xml:15:22-85
 14        android:targetPackage="com.bharathvishal.textfileviewer.test" />
-14-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest15131272556526105842.xml:12:22-83
+14-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2184618230283387803.xml:12:22-83
 15    <!-- Required permission for App measurement to run. -->
 16    <uses-permission android:name="android.permission.INTERNET" />
 16-->[com.google.android.gms:play-services-measurement:22.0.2] /Users/vishal/.gradle/caches/transforms-4/ffe8c139ff7ea94422e841bcd5bf2be6/transformed/jetified-play-services-measurement-22.0.2/AndroidManifest.xml:23:5-67
@@ -72,14 +72,14 @@
 35    </queries>
 36
 37    <application
-37-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest15131272556526105842.xml:7:5-9:19
+37-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2184618230283387803.xml:7:5-9:19
 38        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 38-->[androidx.core:core:1.13.1] /Users/vishal/.gradle/caches/transforms-4/a99eab1da080c2a590c3893a9b8f93af/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
 39        android:debuggable="true"
 40        android:extractNativeLibs="true" >
 41        <uses-library android:name="android.test.runner" />
-41-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest15131272556526105842.xml:8:9-60
-41-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest15131272556526105842.xml:8:23-57
+41-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2184618230283387803.xml:8:9-60
+41-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2184618230283387803.xml:8:23-57
 42
 43        <activity
 43-->[:textviewermodule] /Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:23:9-27:62

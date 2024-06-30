@@ -1,26 +1,26 @@
 [
     {
         "merged": "com.bharathvishal.textfileviewer.textviewermodule-release-64:/drawable-ldpi-v4/ic_call_answer_video.png",
-        "source": "com.bharathvishal.textfileviewer.textviewermodule-core-1.13.1-38:/drawable-ldpi-v4/ic_call_answer_video.png"
+        "source": "com.bharathvishal.textfileviewer.textviewermodule-core-1.13.1-6:/drawable-ldpi-v4/ic_call_answer_video.png"
     },
     {
         "merged": "com.bharathvishal.textfileviewer.textviewermodule-release-64:/drawable-ldpi-v4/ic_call_decline_low.png",
-        "source": "com.bharathvishal.textfileviewer.textviewermodule-core-1.13.1-38:/drawable-ldpi-v4/ic_call_decline_low.png"
+        "source": "com.bharathvishal.textfileviewer.textviewermodule-core-1.13.1-6:/drawable-ldpi-v4/ic_call_decline_low.png"
     },
     {
         "merged": "com.bharathvishal.textfileviewer.textviewermodule-release-64:/drawable-ldpi-v4/ic_call_decline.png",
-        "source": "com.bharathvishal.textfileviewer.textviewermodule-core-1.13.1-38:/drawable-ldpi-v4/ic_call_decline.png"
+        "source": "com.bharathvishal.textfileviewer.textviewermodule-core-1.13.1-6:/drawable-ldpi-v4/ic_call_decline.png"
     },
     {
         "merged": "com.bharathvishal.textfileviewer.textviewermodule-release-64:/drawable-ldpi-v4/ic_call_answer.png",
-        "source": "com.bharathvishal.textfileviewer.textviewermodule-core-1.13.1-38:/drawable-ldpi-v4/ic_call_answer.png"
+        "source": "com.bharathvishal.textfileviewer.textviewermodule-core-1.13.1-6:/drawable-ldpi-v4/ic_call_answer.png"
     },
     {
         "merged": "com.bharathvishal.textfileviewer.textviewermodule-release-64:/drawable-ldpi-v4/ic_call_answer_video_low.png",
-        "source": "com.bharathvishal.textfileviewer.textviewermodule-core-1.13.1-38:/drawable-ldpi-v4/ic_call_answer_video_low.png"
+        "source": "com.bharathvishal.textfileviewer.textviewermodule-core-1.13.1-6:/drawable-ldpi-v4/ic_call_answer_video_low.png"
     },
     {
         "merged": "com.bharathvishal.textfileviewer.textviewermodule-release-64:/drawable-ldpi-v4/ic_call_answer_low.png",
-        "source": "com.bharathvishal.textfileviewer.textviewermodule-core-1.13.1-38:/drawable-ldpi-v4/ic_call_answer_low.png"
+        "source": "com.bharathvishal.textfileviewer.textviewermodule-core-1.13.1-6:/drawable-ldpi-v4/ic_call_answer_low.png"
     }
 ]

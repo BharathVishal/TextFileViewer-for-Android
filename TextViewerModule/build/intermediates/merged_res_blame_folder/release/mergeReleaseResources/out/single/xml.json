@@ -5,7 +5,7 @@
     },
     {
         "merged": "com.bharathvishal.textfileviewer.textviewermodule-release-64:/xml/ga_ad_services_config.xml",
-        "source": "com.bharathvishal.textfileviewer.textviewermodule-jetified-play-services-measurement-api-22.0.2-55:/xml/ga_ad_services_config.xml"
+        "source": "com.bharathvishal.textfileviewer.textviewermodule-jetified-play-services-measurement-api-22.0.2-33:/xml/ga_ad_services_config.xml"
     },
     {
         "merged": "com.bharathvishal.textfileviewer.textviewermodule-release-64:/xml/backup_rules.xml",

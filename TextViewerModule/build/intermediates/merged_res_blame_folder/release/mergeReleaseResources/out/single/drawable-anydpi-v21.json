@@ -1,26 +1,26 @@
 [
     {
         "merged": "com.bharathvishal.textfileviewer.textviewermodule-release-64:/drawable-anydpi-v21/ic_call_decline_low.xml",
-        "source": "com.bharathvishal.textfileviewer.textviewermodule-core-1.13.1-38:/drawable-anydpi-v21/ic_call_decline_low.xml"
+        "source": "com.bharathvishal.textfileviewer.textviewermodule-core-1.13.1-6:/drawable-anydpi-v21/ic_call_decline_low.xml"
     },
     {
         "merged": "com.bharathvishal.textfileviewer.textviewermodule-release-64:/drawable-anydpi-v21/ic_call_decline.xml",
-        "source": "com.bharathvishal.textfileviewer.textviewermodule-core-1.13.1-38:/drawable-anydpi-v21/ic_call_decline.xml"
+        "source": "com.bharathvishal.textfileviewer.textviewermodule-core-1.13.1-6:/drawable-anydpi-v21/ic_call_decline.xml"
     },
     {
         "merged": "com.bharathvishal.textfileviewer.textviewermodule-release-64:/drawable-anydpi-v21/ic_call_answer.xml",
-        "source": "com.bharathvishal.textfileviewer.textviewermodule-core-1.13.1-38:/drawable-anydpi-v21/ic_call_answer.xml"
+        "source": "com.bharathvishal.textfileviewer.textviewermodule-core-1.13.1-6:/drawable-anydpi-v21/ic_call_answer.xml"
     },
     {
         "merged": "com.bharathvishal.textfileviewer.textviewermodule-release-64:/drawable-anydpi-v21/ic_call_answer_video.xml",
-        "source": "com.bharathvishal.textfileviewer.textviewermodule-core-1.13.1-38:/drawable-anydpi-v21/ic_call_answer_video.xml"
+        "source": "com.bharathvishal.textfileviewer.textviewermodule-core-1.13.1-6:/drawable-anydpi-v21/ic_call_answer_video.xml"
     },
     {
         "merged": "com.bharathvishal.textfileviewer.textviewermodule-release-64:/drawable-anydpi-v21/ic_call_answer_video_low.xml",
-        "source": "com.bharathvishal.textfileviewer.textviewermodule-core-1.13.1-38:/drawable-anydpi-v21/ic_call_answer_video_low.xml"
+        "source": "com.bharathvishal.textfileviewer.textviewermodule-core-1.13.1-6:/drawable-anydpi-v21/ic_call_answer_video_low.xml"
     },
     {
         "merged": "com.bharathvishal.textfileviewer.textviewermodule-release-64:/drawable-anydpi-v21/ic_call_answer_low.xml",
-        "source": "com.bharathvishal.textfileviewer.textviewermodule-core-1.13.1-38:/drawable-anydpi-v21/ic_call_answer_low.xml"
+        "source": "com.bharathvishal.textfileviewer.textviewermodule-core-1.13.1-6:/drawable-anydpi-v21/ic_call_answer_low.xml"
     }
 ]

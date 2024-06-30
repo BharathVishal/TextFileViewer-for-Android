@@ -25,6 +25,7 @@ admobVer="23.2.0"
 firebaseAnalyticsVer="22.0.2"
 composeuiversion="1.6.8"
 composeBomVersion="2024.04.00"
+releaseversion="1.3.2"
 
 [libraries]
 androidx-appcompat = { group = "androidx.appcompat", name = "appcompat", version.ref = "appCompatVer" }
