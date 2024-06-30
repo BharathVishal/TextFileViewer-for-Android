@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.bharathvishal.textfileviewer.test.textviewermodule-mergeDebugAndroidTestResources-70:/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/vishal/.gradle/caches/transforms-4/fcffe8aa93cf07688a2368185a58e56f/transformed/appcompat-1.7.0/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}

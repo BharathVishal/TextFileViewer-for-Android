@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+dimen fab_margin
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+layout mainlayout
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string first_fragment_label
+string next
+string previous
+string second_fragment_label
+string title_activity_sample
+style Base.Theme.TextViewerAndroid
+style Theme.TextViewerAndroid
+style Theme.TextViewerAndroid.AppBarOverlay
+style Theme.TextViewerAndroid.NoActionBar
+style Theme.TextViewerAndroid.PopupOverlay
+xml backup_rules
+xml providerpaths
