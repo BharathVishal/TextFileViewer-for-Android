@@ -4,7 +4,7 @@
             "outputFile": "com.bharathvishal.textfileviewer.textviewermodule-release-64:/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "/Users/vishal/.gradle/caches/transforms-4/5f1f91997329e9772ab9cc3ac11bd571/transformed/appcompat-1.7.0/res/values-v24/values-v24.xml",
+                    "source": "/Users/vishal/.gradle/caches/transforms-4/fcffe8aa93cf07688a2368185a58e56f/transformed/appcompat-1.7.0/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/vishal/.gradle/caches/transforms-4/e5f79025133ada723b5a3d9135ab1132/transformed/material-1.12.0/res/values-v24/values-v24.xml",
+                    "source": "/Users/vishal/.gradle/caches/transforms-4/0042a3714db7ce665246d6289496ff68/transformed/material-1.12.0/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,9,12,15",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -38,7 +38,7 @@
             "outputFile": "com.bharathvishal.textfileviewer.textviewermodule-mergeReleaseResources-62:/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "/Users/vishal/.gradle/caches/transforms-4/5f1f91997329e9772ab9cc3ac11bd571/transformed/appcompat-1.7.0/res/values-v24/values-v24.xml",
+                    "source": "/Users/vishal/.gradle/caches/transforms-4/fcffe8aa93cf07688a2368185a58e56f/transformed/appcompat-1.7.0/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -48,7 +48,7 @@
                     }
                 },
                 {
-                    "source": "/Users/vishal/.gradle/caches/transforms-4/e5f79025133ada723b5a3d9135ab1132/transformed/material-1.12.0/res/values-v24/values-v24.xml",
+                    "source": "/Users/vishal/.gradle/caches/transforms-4/0042a3714db7ce665246d6289496ff68/transformed/material-1.12.0/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,9,12,15",
                         "startColumns": "4,4,4,4,4,4,4,4",

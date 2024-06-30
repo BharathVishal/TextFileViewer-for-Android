@@ -1,10 +1,10 @@
 [
     {
         "merged": "com.bharathvishal.textfileviewer.textviewermodule-release-64:/layout-sw600dp-v13/design_layout_snackbar.xml",
-        "source": "com.bharathvishal.textfileviewer.textviewermodule-material-1.12.0-48:/layout-sw600dp-v13/design_layout_snackbar.xml"
+        "source": "com.bharathvishal.textfileviewer.textviewermodule-material-1.12.0-0:/layout-sw600dp-v13/design_layout_snackbar.xml"
     },
     {
         "merged": "com.bharathvishal.textfileviewer.textviewermodule-release-64:/layout-sw600dp-v13/mtrl_layout_snackbar.xml",
-        "source": "com.bharathvishal.textfileviewer.textviewermodule-material-1.12.0-48:/layout-sw600dp-v13/mtrl_layout_snackbar.xml"
+        "source": "com.bharathvishal.textfileviewer.textviewermodule-material-1.12.0-0:/layout-sw600dp-v13/mtrl_layout_snackbar.xml"
     }
 ]

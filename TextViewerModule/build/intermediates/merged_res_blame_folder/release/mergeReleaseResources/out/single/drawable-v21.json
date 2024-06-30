@@ -1,38 +1,38 @@
 [
     {
         "merged": "com.bharathvishal.textfileviewer.textviewermodule-release-64:/drawable-v21/m3_tabs_background.xml",
-        "source": "com.bharathvishal.textfileviewer.textviewermodule-material-1.12.0-48:/drawable-v21/m3_tabs_background.xml"
+        "source": "com.bharathvishal.textfileviewer.textviewermodule-material-1.12.0-0:/drawable-v21/m3_tabs_background.xml"
     },
     {
         "merged": "com.bharathvishal.textfileviewer.textviewermodule-release-64:/drawable-v21/mtrl_navigation_bar_item_background.xml",
-        "source": "com.bharathvishal.textfileviewer.textviewermodule-material-1.12.0-48:/drawable-v21/mtrl_navigation_bar_item_background.xml"
+        "source": "com.bharathvishal.textfileviewer.textviewermodule-material-1.12.0-0:/drawable-v21/mtrl_navigation_bar_item_background.xml"
     },
     {
         "merged": "com.bharathvishal.textfileviewer.textviewermodule-release-64:/drawable-v21/abc_dialog_material_background.xml",
-        "source": "com.bharathvishal.textfileviewer.textviewermodule-appcompat-1.7.0-23:/drawable-v21/abc_dialog_material_background.xml"
+        "source": "com.bharathvishal.textfileviewer.textviewermodule-appcompat-1.7.0-59:/drawable-v21/abc_dialog_material_background.xml"
     },
     {
         "merged": "com.bharathvishal.textfileviewer.textviewermodule-release-64:/drawable-v21/abc_btn_colored_material.xml",
-        "source": "com.bharathvishal.textfileviewer.textviewermodule-appcompat-1.7.0-23:/drawable-v21/abc_btn_colored_material.xml"
+        "source": "com.bharathvishal.textfileviewer.textviewermodule-appcompat-1.7.0-59:/drawable-v21/abc_btn_colored_material.xml"
     },
     {
         "merged": "com.bharathvishal.textfileviewer.textviewermodule-release-64:/drawable-v21/abc_action_bar_item_background_material.xml",
-        "source": "com.bharathvishal.textfileviewer.textviewermodule-appcompat-1.7.0-23:/drawable-v21/abc_action_bar_item_background_material.xml"
+        "source": "com.bharathvishal.textfileviewer.textviewermodule-appcompat-1.7.0-59:/drawable-v21/abc_action_bar_item_background_material.xml"
     },
     {
         "merged": "com.bharathvishal.textfileviewer.textviewermodule-release-64:/drawable-v21/notification_action_background.xml",
-        "source": "com.bharathvishal.textfileviewer.textviewermodule-core-1.13.1-6:/drawable-v21/notification_action_background.xml"
+        "source": "com.bharathvishal.textfileviewer.textviewermodule-core-1.13.1-13:/drawable-v21/notification_action_background.xml"
     },
     {
         "merged": "com.bharathvishal.textfileviewer.textviewermodule-release-64:/drawable-v21/material_cursor_drawable.xml",
-        "source": "com.bharathvishal.textfileviewer.textviewermodule-material-1.12.0-48:/drawable-v21/material_cursor_drawable.xml"
+        "source": "com.bharathvishal.textfileviewer.textviewermodule-material-1.12.0-0:/drawable-v21/material_cursor_drawable.xml"
     },
     {
         "merged": "com.bharathvishal.textfileviewer.textviewermodule-release-64:/drawable-v21/abc_edit_text_material.xml",
-        "source": "com.bharathvishal.textfileviewer.textviewermodule-appcompat-1.7.0-23:/drawable-v21/abc_edit_text_material.xml"
+        "source": "com.bharathvishal.textfileviewer.textviewermodule-appcompat-1.7.0-59:/drawable-v21/abc_edit_text_material.xml"
     },
     {
         "merged": "com.bharathvishal.textfileviewer.textviewermodule-release-64:/drawable-v21/abc_list_divider_material.xml",
-        "source": "com.bharathvishal.textfileviewer.textviewermodule-appcompat-1.7.0-23:/drawable-v21/abc_list_divider_material.xml"
+        "source": "com.bharathvishal.textfileviewer.textviewermodule-appcompat-1.7.0-59:/drawable-v21/abc_list_divider_material.xml"
     }
 ]

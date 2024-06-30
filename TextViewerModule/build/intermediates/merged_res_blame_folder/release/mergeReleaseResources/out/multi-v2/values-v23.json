@@ -4,18 +4,7 @@
             "outputFile": "com.bharathvishal.textfileviewer.textviewermodule-release-64:/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "/Users/vishal/.gradle/caches/transforms-4/5f1f91997329e9772ab9cc3ac11bd571/transformed/appcompat-1.7.0/res/values-v23/values-v23.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,20,34,35,36,39,43,44,45,46",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,190,325,400,487,1225,1975,2094,2221,2443,2667,2782,2889,3002",
-                        "endLines": "2,3,4,5,19,33,34,35,38,42,43,44,45,49",
-                        "endColumns": "134,134,74,86,12,12,118,126,12,12,114,106,112,12",
-                        "endOffsets": "185,320,395,482,1220,1970,2089,2216,2438,2662,2777,2884,2997,3227"
-                    }
-                },
-                {
-                    "source": "/Users/vishal/.gradle/caches/transforms-4/2add0c83aed14ea8562538ddaa830222/transformed/cardview-1.0.0/res/values-v23/values-v23.xml",
+                    "source": "/Users/vishal/.gradle/caches/transforms-4/46a9c1330c01408ab92dbef1dc5ca933/transformed/cardview-1.0.0/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -34,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/Users/vishal/.gradle/caches/transforms-4/e5f79025133ada723b5a3d9135ab1132/transformed/material-1.12.0/res/values-v23/values-v23.xml",
+                    "source": "/Users/vishal/.gradle/caches/transforms-4/0042a3714db7ce665246d6289496ff68/transformed/material-1.12.0/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,5,9,13,16,19,22,25,28,32",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
@@ -50,6 +39,17 @@
                         "endLines": "55,59,63,66,69,72,75,78,82,86",
                         "endColumns": "10,10,10,10,10,10,10,10,10,10",
                         "endOffsets": "3593,3735,3896,4106,4313,4520,4723,4925,5190,5463"
+                    }
+                },
+                {
+                    "source": "/Users/vishal/.gradle/caches/transforms-4/fcffe8aa93cf07688a2368185a58e56f/transformed/appcompat-1.7.0/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,20,34,35,36,39,43,44,45,46",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,190,325,400,487,1225,1975,2094,2221,2443,2667,2782,2889,3002",
+                        "endLines": "2,3,4,5,19,33,34,35,38,42,43,44,45,49",
+                        "endColumns": "134,134,74,86,12,12,118,126,12,12,114,106,112,12",
+                        "endOffsets": "185,320,395,482,1220,1970,2089,2216,2438,2662,2777,2884,2997,3227"
                     }
                 }
             ]
@@ -58,18 +58,7 @@
             "outputFile": "com.bharathvishal.textfileviewer.textviewermodule-mergeReleaseResources-62:/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "/Users/vishal/.gradle/caches/transforms-4/5f1f91997329e9772ab9cc3ac11bd571/transformed/appcompat-1.7.0/res/values-v23/values-v23.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,20,34,35,36,39,43,44,45,46",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,190,325,400,487,1225,1975,2094,2221,2443,2667,2782,2889,3002",
-                        "endLines": "2,3,4,5,19,33,34,35,38,42,43,44,45,49",
-                        "endColumns": "134,134,74,86,12,12,118,126,12,12,114,106,112,12",
-                        "endOffsets": "185,320,395,482,1220,1970,2089,2216,2438,2662,2777,2884,2997,3227"
-                    }
-                },
-                {
-                    "source": "/Users/vishal/.gradle/caches/transforms-4/2add0c83aed14ea8562538ddaa830222/transformed/cardview-1.0.0/res/values-v23/values-v23.xml",
+                    "source": "/Users/vishal/.gradle/caches/transforms-4/46a9c1330c01408ab92dbef1dc5ca933/transformed/cardview-1.0.0/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -88,7 +77,7 @@
                     }
                 },
                 {
-                    "source": "/Users/vishal/.gradle/caches/transforms-4/e5f79025133ada723b5a3d9135ab1132/transformed/material-1.12.0/res/values-v23/values-v23.xml",
+                    "source": "/Users/vishal/.gradle/caches/transforms-4/0042a3714db7ce665246d6289496ff68/transformed/material-1.12.0/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,5,9,13,16,19,22,25,28,32",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
@@ -104,6 +93,17 @@
                         "endLines": "55,59,63,66,69,72,75,78,82,86",
                         "endColumns": "10,10,10,10,10,10,10,10,10,10",
                         "endOffsets": "3593,3735,3896,4106,4313,4520,4723,4925,5190,5463"
+                    }
+                },
+                {
+                    "source": "/Users/vishal/.gradle/caches/transforms-4/fcffe8aa93cf07688a2368185a58e56f/transformed/appcompat-1.7.0/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,20,34,35,36,39,43,44,45,46",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,190,325,400,487,1225,1975,2094,2221,2443,2667,2782,2889,3002",
+                        "endLines": "2,3,4,5,19,33,34,35,38,42,43,44,45,49",
+                        "endColumns": "134,134,74,86,12,12,118,126,12,12,114,106,112,12",
+                        "endOffsets": "185,320,395,482,1220,1970,2089,2216,2438,2662,2777,2884,2997,3227"
                     }
                 }
             ]

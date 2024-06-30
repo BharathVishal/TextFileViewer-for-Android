@@ -27,7 +27,9 @@ pluginManagement {
         }
         mavenCentral()
         gradlePluginPortal()
-        maven { setUrl("https://jitpack.io") }
+        maven {
+            url = uri("https://jitpack.io")
+        }
     }
 }
 dependencyResolutionManagement {
@@ -35,7 +37,9 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
-        maven { setUrl("https://jitpack.io") }
+        maven {
+            url = uri("https://jitpack.io")
+        }
     }
 }
 rootProject.name = "TextFileViewerAndroid"
