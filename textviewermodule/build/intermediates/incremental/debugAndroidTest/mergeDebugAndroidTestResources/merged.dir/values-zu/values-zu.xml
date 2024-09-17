@@ -98,6 +98,7 @@
     <string msgid="7617233117134790350" name="m3c_dialog">"Ibhokisi"</string>
     <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"Kugoqiwe"</string>
     <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"Kunwetshiwe"</string>
+    <string msgid="8687821690726149911" name="m3c_dropdown_menu_toggle">"Guqula imenyu yokwehlayo"</string>
     <string msgid="6152806324422087846" name="m3c_search_bar_search">"Sesha"</string>
     <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"Chitha"</string>
     <string msgid="7655536806087401899" name="m3c_suggestions_available">"Iziphakamiso ngezansi"</string>
@@ -175,8 +176,6 @@
     <string name="mtrl_timepicker_confirm">KULUNGILE</string>
     <string msgid="542007171693138492" name="navigation_menu">"Imenyu yokuzulazula"</string>
     <string msgid="6610465462668679431" name="not_selected">"Ayikhethiwe"</string>
-    <string msgid="875452955155264703" name="off">"Valiwe"</string>
-    <string msgid="8655164131929253426" name="on">"Vuliwe"</string>
     <string name="password_toggle_content_description">Bonisa iphasiwedi</string>
     <string msgid="5941395253238309765" name="range_end">"Umkhawulo wobubanzi"</string>
     <string msgid="7097486360902471446" name="range_start">"Ukuqala kobubanzi"</string>
@@ -185,6 +184,9 @@
     <string name="searchview_navigation_content_description">Emuva</string>
     <string msgid="6043586758067023" name="selected">"Okukhethiwe"</string>
     <string name="side_sheet_accessibility_pane_title">Ishidi Eliseceleni</string>
+    <string msgid="4139871816613051306" name="state_empty">"Akunalutho"</string>
+    <string msgid="5834637030682409883" name="state_off">"Ivaliwe"</string>
+    <string msgid="1490883874751719580" name="state_on">"Ivuliwe"</string>
     <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
     <string msgid="2561197295334830845" name="switch_role">"Shintsha"</string>
     <string msgid="1672349317127674378" name="tab">"Ithebhu"</string>

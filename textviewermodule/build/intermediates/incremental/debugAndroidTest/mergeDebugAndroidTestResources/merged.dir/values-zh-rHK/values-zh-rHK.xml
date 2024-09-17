@@ -98,6 +98,7 @@
     <string msgid="7617233117134790350" name="m3c_dialog">"對話框"</string>
     <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"已收合"</string>
     <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"已展開"</string>
+    <string msgid="8687821690726149911" name="m3c_dropdown_menu_toggle">"切換下拉式選單"</string>
     <string msgid="6152806324422087846" name="m3c_search_bar_search">"搜尋"</string>
     <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"關閉"</string>
     <string msgid="7655536806087401899" name="m3c_suggestions_available">"建議如下"</string>
@@ -175,8 +176,6 @@
     <string name="mtrl_timepicker_confirm">確定</string>
     <string msgid="542007171693138492" name="navigation_menu">"導覽選單"</string>
     <string msgid="6610465462668679431" name="not_selected">"未揀"</string>
-    <string msgid="875452955155264703" name="off">"閂"</string>
-    <string msgid="8655164131929253426" name="on">"開"</string>
     <string name="password_toggle_content_description">顯示密碼</string>
     <string msgid="5941395253238309765" name="range_end">"範圍結束"</string>
     <string msgid="7097486360902471446" name="range_start">"範圍開始"</string>
@@ -185,6 +184,9 @@
     <string name="searchview_navigation_content_description">返回</string>
     <string msgid="6043586758067023" name="selected">"揀咗"</string>
     <string name="side_sheet_accessibility_pane_title">側邊工作表</string>
+    <string msgid="4139871816613051306" name="state_empty">"空白"</string>
+    <string msgid="5834637030682409883" name="state_off">"閂"</string>
+    <string msgid="1490883874751719580" name="state_on">"開"</string>
     <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
     <string msgid="2561197295334830845" name="switch_role">"按鈕裝置"</string>
     <string msgid="1672349317127674378" name="tab">"分頁"</string>

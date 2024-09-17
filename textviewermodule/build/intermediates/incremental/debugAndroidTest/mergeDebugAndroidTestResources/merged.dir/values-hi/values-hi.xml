@@ -98,6 +98,7 @@
     <string msgid="7617233117134790350" name="m3c_dialog">"डायलॉग"</string>
     <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"छोटा किया गया"</string>
     <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"बड़ा किया गया"</string>
+    <string msgid="8687821690726149911" name="m3c_dropdown_menu_toggle">"ड्रॉपडाउन मेन्यू टॉगल करें"</string>
     <string msgid="6152806324422087846" name="m3c_search_bar_search">"खोजें"</string>
     <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"खारिज करें"</string>
     <string msgid="7655536806087401899" name="m3c_suggestions_available">"सुझाव यहां मौजूद हैं"</string>
@@ -175,8 +176,6 @@
     <string name="mtrl_timepicker_confirm">ठीक है</string>
     <string msgid="542007171693138492" name="navigation_menu">"नेविगेशन मेन्यू"</string>
     <string msgid="6610465462668679431" name="not_selected">"नहीं चुना गया"</string>
-    <string msgid="875452955155264703" name="off">"बंद है"</string>
-    <string msgid="8655164131929253426" name="on">"चालू है"</string>
     <string name="password_toggle_content_description">पासवर्ड दिखाएं</string>
     <string msgid="5941395253238309765" name="range_end">"रेंज की सीमा"</string>
     <string msgid="7097486360902471446" name="range_start">"रेंज की शुरुआत"</string>
@@ -185,6 +184,9 @@
     <string name="searchview_navigation_content_description">वापस जाएं</string>
     <string msgid="6043586758067023" name="selected">"चुना गया"</string>
     <string name="side_sheet_accessibility_pane_title">साइड शीट</string>
+    <string msgid="4139871816613051306" name="state_empty">"कोई भी तार नहीं लगा है"</string>
+    <string msgid="5834637030682409883" name="state_off">"बंद है"</string>
+    <string msgid="1490883874751719580" name="state_on">"चालू है"</string>
     <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
     <string msgid="2561197295334830845" name="switch_role">"स्विच करें"</string>
     <string msgid="1672349317127674378" name="tab">"टैब"</string>

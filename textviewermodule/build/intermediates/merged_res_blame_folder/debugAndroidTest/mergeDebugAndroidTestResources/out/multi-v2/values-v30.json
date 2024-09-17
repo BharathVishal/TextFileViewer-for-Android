@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.bharathvishal.textfileviewer.test.textviewermodule-mergeDebugAndroidTestResources-72:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "/Users/vishal/.gradle/caches/transforms-4/059a30a221d70f5d4f5191fdf511ddc2/transformed/jetified-material3-release/res/values-v30/values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}

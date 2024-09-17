@@ -98,6 +98,7 @@
     <string msgid="7617233117134790350" name="m3c_dialog">"Kidirisha"</string>
     <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"Imekunjwa"</string>
     <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"Imepanuliwa"</string>
+    <string msgid="8687821690726149911" name="m3c_dropdown_menu_toggle">"Badilisha hali ya menyu kunjuzi"</string>
     <string msgid="6152806324422087846" name="m3c_search_bar_search">"Tafuta"</string>
     <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"Ondoa"</string>
     <string msgid="7655536806087401899" name="m3c_suggestions_available">"Mapendekezo yaliyo hapa chini"</string>
@@ -175,8 +176,6 @@
     <string name="mtrl_timepicker_confirm">Sawa</string>
     <string msgid="542007171693138492" name="navigation_menu">"Menyu ya kusogeza"</string>
     <string msgid="6610465462668679431" name="not_selected">"Hujachagua"</string>
-    <string msgid="875452955155264703" name="off">"Imezimwa"</string>
-    <string msgid="8655164131929253426" name="on">"Imewashwa"</string>
     <string name="password_toggle_content_description">Onyesha nenosiri</string>
     <string msgid="5941395253238309765" name="range_end">"Mwisho wa masafa"</string>
     <string msgid="7097486360902471446" name="range_start">"Mwanzo wa masafa"</string>
@@ -185,6 +184,9 @@
     <string name="searchview_navigation_content_description">Rudi nyuma</string>
     <string msgid="6043586758067023" name="selected">"Umechagua"</string>
     <string name="side_sheet_accessibility_pane_title">Laha ya Pembeni</string>
+    <string msgid="4139871816613051306" name="state_empty">"Tupu"</string>
+    <string msgid="5834637030682409883" name="state_off">"Imezimwa"</string>
+    <string msgid="1490883874751719580" name="state_on">"Imewashwa"</string>
     <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
     <string msgid="2561197295334830845" name="switch_role">"Swichi"</string>
     <string msgid="1672349317127674378" name="tab">"Kichupo"</string>

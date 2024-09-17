@@ -80,6 +80,7 @@
     <string msgid="7617233117134790350" name="m3c_dialog">"Caixa de diálogo"</string>
     <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"Fechado"</string>
     <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"Aberto"</string>
+    <string msgid="8687821690726149911" name="m3c_dropdown_menu_toggle">"Ativar/desativar o menu suspenso"</string>
     <string msgid="6152806324422087846" name="m3c_search_bar_search">"Pesquisar"</string>
     <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"Dispensar"</string>
     <string msgid="7655536806087401899" name="m3c_suggestions_available">"Sugestões abaixo"</string>
@@ -99,12 +100,13 @@
     <string msgid="5460405025248574620" name="m3c_tooltip_pane_description">"Dica"</string>
     <string msgid="542007171693138492" name="navigation_menu">"Menu de navegação"</string>
     <string msgid="6610465462668679431" name="not_selected">"Não selecionado"</string>
-    <string msgid="875452955155264703" name="off">"Desativado"</string>
-    <string msgid="8655164131929253426" name="on">"Ativado"</string>
     <string msgid="5941395253238309765" name="range_end">"Fim do intervalo"</string>
     <string msgid="7097486360902471446" name="range_start">"Início do intervalo"</string>
     <string msgid="6264217191555673260" name="search_menu_title">"Pesquisar"</string>
     <string msgid="6043586758067023" name="selected">"Selecionado"</string>
+    <string msgid="4139871816613051306" name="state_empty">"Vazio"</string>
+    <string msgid="5834637030682409883" name="state_off">"Desativado"</string>
+    <string msgid="1490883874751719580" name="state_on">"Ativado"</string>
     <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
     <string msgid="2561197295334830845" name="switch_role">"Chave"</string>
     <string msgid="1672349317127674378" name="tab">"Guia"</string>

@@ -98,6 +98,7 @@
     <string msgid="7617233117134790350" name="m3c_dialog">"Valintaikkuna"</string>
     <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"Tiivistetty"</string>
     <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"Laajennettu"</string>
+    <string msgid="8687821690726149911" name="m3c_dropdown_menu_toggle">"Laita avattava valikko päälle"</string>
     <string msgid="6152806324422087846" name="m3c_search_bar_search">"Hae"</string>
     <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"Ohita"</string>
     <string msgid="7655536806087401899" name="m3c_suggestions_available">"Ehdotuksia alla"</string>
@@ -175,8 +176,6 @@
     <string name="mtrl_timepicker_confirm">OK</string>
     <string msgid="542007171693138492" name="navigation_menu">"Navigointivalikko"</string>
     <string msgid="6610465462668679431" name="not_selected">"Ei valittu"</string>
-    <string msgid="875452955155264703" name="off">"Pois"</string>
-    <string msgid="8655164131929253426" name="on">"Päällä"</string>
     <string name="password_toggle_content_description">Näytä salasana</string>
     <string msgid="5941395253238309765" name="range_end">"Alueen loppu"</string>
     <string msgid="7097486360902471446" name="range_start">"Alueen alku"</string>
@@ -185,6 +184,9 @@
     <string name="searchview_navigation_content_description">Takaisin</string>
     <string msgid="6043586758067023" name="selected">"Valittu"</string>
     <string name="side_sheet_accessibility_pane_title">Sivupalkki</string>
+    <string msgid="4139871816613051306" name="state_empty">"Tyhjä"</string>
+    <string msgid="5834637030682409883" name="state_off">"Pois päältä"</string>
+    <string msgid="1490883874751719580" name="state_on">"Päällä"</string>
     <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
     <string msgid="2561197295334830845" name="switch_role">"Vaihda"</string>
     <string msgid="1672349317127674378" name="tab">"Välilehti"</string>

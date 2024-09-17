@@ -25,13 +25,13 @@ plugins {
 
 android {
     namespace = "com.bharathvishal.textfileviewer"
-    compileSdk = 34
+    compileSdk = 35
     defaultConfig {
         vectorDrawables {
             useSupportLibrary = true
         }
         minSdk = 22
-        testOptions.targetSdk = 34
+        testOptions.targetSdk = 35
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
     buildFeatures {
@@ -56,7 +56,7 @@ android {
         jvmTarget = "17"
     }
     composeOptions {
-        kotlinCompilerExtensionVersion = "1.5.14"
+        kotlinCompilerExtensionVersion = "1.5.15"
     }
 
     packaging {
@@ -111,7 +111,7 @@ afterEvaluate {
                 from(components["release"])
                 groupId = "com.github.BharathVishal"
                 artifactId = "TextFileViewerAndroid"
-                version = "1.4.0"
+                version = "1.4.1"
             }
         }
     }

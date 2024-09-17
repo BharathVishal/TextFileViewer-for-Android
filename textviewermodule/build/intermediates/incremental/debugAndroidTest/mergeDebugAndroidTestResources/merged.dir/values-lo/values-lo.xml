@@ -98,6 +98,7 @@
     <string msgid="7617233117134790350" name="m3c_dialog">"ກ່ອງໂຕ້ຕອບ"</string>
     <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"ຫຍໍ້ລົງແລ້ວ"</string>
     <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"ຂະຫຍາຍແລ້ວ"</string>
+    <string msgid="8687821690726149911" name="m3c_dropdown_menu_toggle">"ສະ​ຫຼັບເມນູແບບເລື່ອນລົງ"</string>
     <string msgid="6152806324422087846" name="m3c_search_bar_search">"ຊອກຫາ"</string>
     <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"ປິດໄວ້"</string>
     <string msgid="7655536806087401899" name="m3c_suggestions_available">"ມີຄຳແນະນຳຢູ່ຂ້າງລຸ່ມ"</string>
@@ -175,8 +176,6 @@
     <string name="mtrl_timepicker_confirm">ຕົກລົງ</string>
     <string msgid="542007171693138492" name="navigation_menu">"ເມນູການນຳທາງ"</string>
     <string msgid="6610465462668679431" name="not_selected">"ບໍ່ໄດ້ເລືອກ"</string>
-    <string msgid="875452955155264703" name="off">"ປິດ"</string>
-    <string msgid="8655164131929253426" name="on">"ເປີດ"</string>
     <string name="password_toggle_content_description">ສະແດງລະຫັດຜ່ານ</string>
     <string msgid="5941395253238309765" name="range_end">"ສິ້ນສຸດໄລຍະ"</string>
     <string msgid="7097486360902471446" name="range_start">"ເລີ່ມຕົ້ນໄລຍະ"</string>
@@ -185,6 +184,9 @@
     <string name="searchview_navigation_content_description">ກັບຄືນ</string>
     <string msgid="6043586758067023" name="selected">"ເລືອກແລ້ວ"</string>
     <string name="side_sheet_accessibility_pane_title">ຊີດດ້ານຂ້າງ</string>
+    <string msgid="4139871816613051306" name="state_empty">"ຫວ່າງເປົ່າ"</string>
+    <string msgid="5834637030682409883" name="state_off">"ປິດຢູ່"</string>
+    <string msgid="1490883874751719580" name="state_on">"ເປີດຢູ່"</string>
     <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
     <string msgid="2561197295334830845" name="switch_role">"ປຸ່ມກົດ"</string>
     <string msgid="1672349317127674378" name="tab">"ແຖບ"</string>

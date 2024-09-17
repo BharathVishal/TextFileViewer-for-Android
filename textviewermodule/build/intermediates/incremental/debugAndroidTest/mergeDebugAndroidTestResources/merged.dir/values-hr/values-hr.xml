@@ -99,6 +99,7 @@
     <string msgid="7617233117134790350" name="m3c_dialog">"Dijaloški okvir"</string>
     <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"Sažeto"</string>
     <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"Prošireno"</string>
+    <string msgid="8687821690726149911" name="m3c_dropdown_menu_toggle">"Prekidač za padajući izbornik"</string>
     <string msgid="6152806324422087846" name="m3c_search_bar_search">"Pretraživanje"</string>
     <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"Odbaci"</string>
     <string msgid="7655536806087401899" name="m3c_suggestions_available">"Prijedlozi su u nastavku"</string>
@@ -176,8 +177,6 @@
     <string name="mtrl_timepicker_confirm">U redu</string>
     <string msgid="542007171693138492" name="navigation_menu">"Navigacijski izbornik"</string>
     <string msgid="6610465462668679431" name="not_selected">"Nije odabrano"</string>
-    <string msgid="875452955155264703" name="off">"Isključeno"</string>
-    <string msgid="8655164131929253426" name="on">"Uključeno"</string>
     <string name="password_toggle_content_description">Prikaži zaporku</string>
     <string msgid="5941395253238309765" name="range_end">"Kraj raspona"</string>
     <string msgid="7097486360902471446" name="range_start">"Početak raspona"</string>
@@ -186,6 +185,9 @@
     <string name="searchview_navigation_content_description">Natrag</string>
     <string msgid="6043586758067023" name="selected">"Odabrano"</string>
     <string name="side_sheet_accessibility_pane_title">Bočni list</string>
+    <string msgid="4139871816613051306" name="state_empty">"Prazno"</string>
+    <string msgid="5834637030682409883" name="state_off">"Isključeno"</string>
+    <string msgid="1490883874751719580" name="state_on">"Uključeno"</string>
     <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
     <string msgid="2561197295334830845" name="switch_role">"Prekidač"</string>
     <string msgid="1672349317127674378" name="tab">"Kartica"</string>

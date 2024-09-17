@@ -6,14 +6,14 @@ plugins {
 
 android {
     namespace="com.example.textviewerexamplemobile"
-    compileSdk = 34
+    compileSdk = 35
     defaultConfig {
         applicationId ="com.example.textviewerexamplemobile"
         vectorDrawables {
             useSupportLibrary = true
         }
         minSdk = 23
-        targetSdk = 34
+        targetSdk = 35
         versionCode = 1
         versionName = "1.0"
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
@@ -49,7 +49,7 @@ android {
         jvmTarget = "17"
     }
     composeOptions {
-        kotlinCompilerExtensionVersion = "1.5.14"
+        kotlinCompilerExtensionVersion = "1.5.15"
     }
 
     packaging {

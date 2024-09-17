@@ -98,6 +98,7 @@
     <string msgid="7617233117134790350" name="m3c_dialog">"Dialoog"</string>
     <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"Ahendatud"</string>
     <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"Laiendatud"</string>
+    <string msgid="8687821690726149911" name="m3c_dropdown_menu_toggle">"Rippmenüü lülitamine"</string>
     <string msgid="6152806324422087846" name="m3c_search_bar_search">"Otsing"</string>
     <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"Loobu"</string>
     <string msgid="7655536806087401899" name="m3c_suggestions_available">"Soovitused on allpool"</string>
@@ -175,8 +176,6 @@
     <string name="mtrl_timepicker_confirm">OK</string>
     <string msgid="542007171693138492" name="navigation_menu">"Navigeerimismenüü"</string>
     <string msgid="6610465462668679431" name="not_selected">"Pole valitud"</string>
-    <string msgid="875452955155264703" name="off">"Väljas"</string>
-    <string msgid="8655164131929253426" name="on">"Sees"</string>
     <string name="password_toggle_content_description">Parooli kuvamine</string>
     <string msgid="5941395253238309765" name="range_end">"Vahemiku lõpp"</string>
     <string msgid="7097486360902471446" name="range_start">"Vahemiku algus"</string>
@@ -185,6 +184,9 @@
     <string name="searchview_navigation_content_description">Tagasi</string>
     <string msgid="6043586758067023" name="selected">"Valitud"</string>
     <string name="side_sheet_accessibility_pane_title">Külgmine leht</string>
+    <string msgid="4139871816613051306" name="state_empty">"Tühi"</string>
+    <string msgid="5834637030682409883" name="state_off">"Väljas"</string>
+    <string msgid="1490883874751719580" name="state_on">"Sees"</string>
     <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
     <string msgid="2561197295334830845" name="switch_role">"Lüliti"</string>
     <string msgid="1672349317127674378" name="tab">"Vaheleht"</string>
