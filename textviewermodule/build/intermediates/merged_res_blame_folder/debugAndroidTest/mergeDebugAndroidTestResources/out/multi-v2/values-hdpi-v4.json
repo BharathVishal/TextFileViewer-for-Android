@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.bharathvishal.textfileviewer.test.textviewermodule-mergeDebugAndroidTestResources-72:/values-hdpi-v4/values-hdpi-v4.xml",
+            "outputFile": "com.bharathvishal.textfileviewer.test.textviewermodule-mergeDebugAndroidTestResources-73:/values-hdpi-v4/values-hdpi-v4.xml",
             "map": [
                 {
-                    "source": "/Users/vishal/.gradle/caches/transforms-4/a0dfd20b56b965003900baf9a4396754/transformed/appcompat-1.7.0/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "source": "/Users/vishal/.gradle/caches/8.9/transforms/270b1308e42d94b73355a509d40ff68d/transformed/appcompat-1.7.0/res/values-hdpi-v4/values-hdpi-v4.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

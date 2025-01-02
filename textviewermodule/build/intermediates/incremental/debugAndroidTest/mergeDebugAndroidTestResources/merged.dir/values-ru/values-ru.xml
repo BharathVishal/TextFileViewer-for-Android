@@ -50,7 +50,24 @@
     <string name="clear_text_end_icon_content_description">Очистить текстовое поле</string>
     <string msgid="406453423630273620" name="close_drawer">"Закрыть меню навигации"</string>
     <string msgid="7573152094250666567" name="close_sheet">"Закрыть лист"</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Включить</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">Для работы приложения \"%1$s\" требуется включить сервисы Google Play.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Включите сервисы Google Play</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Установить</string>
+    <string name="common_google_play_services_install_text">Для работы приложения \"%1$s\" требуется установить сервисы Google Play.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Установите сервисы Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Доступность сервисов Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Ошибка сервисов Google Play</string>
     <string name="common_google_play_services_unknown_issue">Приложению \"%1$s\" не удается подключиться к сервисам Google Play. Повторите попытку.</string>
+    <string name="common_google_play_services_unsupported_text">Для работы с приложением \"%1$s\" требуются сервисы Google Play. Они не поддерживаются на вашем устройстве.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Обновить</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">Чтобы запустить приложение \"%1$s\", обновите сервисы Google Play.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Обновите сервисы Google Play</string>
+    <string name="common_google_play_services_updating_text">Сервисы Google Play, необходимые для работы приложения \"%1$s\", в настоящий момент обновляются.</string>
+    <string name="common_google_play_services_wear_update_text">Версия сервисов Google Play устарела. Они автоматически обновятся в ближайшее время.</string>
+    <string name="common_open_on_phone">Открыть на телефоне</string>
+    <string name="common_signin_button_text">Войти</string>
+    <string name="common_signin_button_text_long">Войти через аккаунт Google</string>
     <string msgid="8038256446254964252" name="default_error_message">"Неправильный ввод"</string>
     <string msgid="6312721426453364202" name="default_popup_window_title">"Всплывающее окно"</string>
     <string msgid="1890207353314751437" name="dropdown_menu">"Раскрывающееся меню"</string>

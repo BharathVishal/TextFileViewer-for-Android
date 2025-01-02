@@ -481,6 +481,8 @@
         <enum name="startVertical" value="1"/>
         <enum name="startHorizontal" value="2"/>
         <enum name="flip" value="3"/>
+        <enum name="below" value="4"/>
+        <enum name="above" value="5"/>
     </attr>
     <attr format="float" name="path_percent"/>
     <attr format="float" name="perpendicularPath_percent"/>
@@ -668,6 +670,14 @@
     <color name="cardview_light_background">#FFFFFFFF</color>
     <color name="cardview_shadow_end_color">#03000000</color>
     <color name="cardview_shadow_start_color">#37000000</color>
+    <color name="common_google_signin_btn_text_dark_default">@android:color/white</color>
+    <color name="common_google_signin_btn_text_dark_disabled">#1F000000</color>
+    <color name="common_google_signin_btn_text_dark_focused">@android:color/black</color>
+    <color name="common_google_signin_btn_text_dark_pressed">@android:color/white</color>
+    <color name="common_google_signin_btn_text_light_default">#90000000</color>
+    <color name="common_google_signin_btn_text_light_disabled">#1F000000</color>
+    <color name="common_google_signin_btn_text_light_focused">#90000000</color>
+    <color name="common_google_signin_btn_text_light_pressed">#DE000000</color>
     <color name="design_bottom_navigation_shadow_color">#14000000</color>
     <color name="design_dark_default_color_background">#121212</color>
     <color name="design_dark_default_color_error">#CF6679</color>
@@ -2040,7 +2050,24 @@
     <string name="clear_text_end_icon_content_description">Clear text</string>
     <string name="close_drawer">"Close navigation menu"</string>
     <string name="close_sheet">"Close sheet"</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text"><ns2:g id="app_name">%1$s</ns2:g> won\'t work unless you enable Google Play services.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text"><ns2:g id="app_name">%1$s</ns2:g> won\'t run without Google Play services, which are missing from your device.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play services availability</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
     <string name="common_google_play_services_unknown_issue"><ns2:g id="app_name">%1$s</ns2:g> is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text"><ns2:g id="app_name">%1$s</ns2:g> won\'t run without Google Play services, which are not supported by your device.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Update</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text"><ns2:g id="app_name">%1$s</ns2:g> won\'t run unless you update Google Play services.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text"><ns2:g id="app_name">%1$s</ns2:g> won\'t run without Google Play services, which are currently updating.</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
     <string name="default_error_message">"Invalid input"</string>
     <string name="default_popup_window_title" ns1:ignore="ExtraTranslation">"Pop-Up Window"</string>
     <string name="dropdown_menu">"Dropdown menu"</string>
@@ -11274,6 +11301,7 @@
     </declare-styleable>
     <declare-styleable name="ConstraintSet">
         <attr format="reference" name="deriveConstraintsFrom"/>
+        <attr format="string" name="stateLabels"/>
         <attr format="enum" name="constraintRotate">
             <enum name="none" value="0"/>
             <enum name="right" value="1"/>
@@ -11633,6 +11661,8 @@
         
         <attr format="string" name="fontProviderQuery"/>
         
+        <attr format="string" name="fontProviderFallbackQuery"/>
+        
         <attr format="reference" name="fontProviderCerts"/>
         
         <attr name="fontProviderFetchStrategy">
@@ -11643,7 +11673,7 @@
               default typeface will be used instead. -->
             <enum name="blocking" value="0"/>
             <!-- The async font fetch works as follows.
-              First, check the local cache, then if the requeted font is not cached, trigger a
+              First, check the local cache, then if the requested font is not cached, trigger a
               request the font and continue with layout inflation. Once the font fetch succeeds, the
               target text view will be refreshed with the downloaded font data. The
               fontProviderFetchTimeout will be ignored if async loading is specified. -->
@@ -11732,6 +11762,22 @@
         <attr name="android:offset"/>
         
         <attr name="android:color"/>
+    </declare-styleable>
+    <declare-styleable name="Grid">
+        <attr format="integer" name="grid_rows"/>
+        <attr format="integer" name="grid_columns"/>
+        <attr format="string" name="grid_spans"/>
+        <attr format="string" name="grid_skips"/>
+        <attr format="string" name="grid_rowWeights"/>
+        <attr format="string" name="grid_columnWeights"/>
+        <attr format="enum" name="grid_orientation">
+            <enum name="horizontal" value="0"/>
+            <enum name="vertical" value="1"/>
+        </attr>
+        <attr format="dimension" name="grid_horizontalGaps"/>
+        <attr format="dimension" name="grid_verticalGaps"/>
+        <attr format="boolean" name="grid_validateInputs"/>
+        <attr format="boolean" name="grid_useRtl"/>
     </declare-styleable>
     <declare-styleable name="ImageFilterView">
         <attr format="reference" name="blendSrc"/>
@@ -11823,6 +11869,7 @@
             <enum name="deltaRelative" value="0"/>
             <enum name="pathRelative" value="1"/>
             <enum name="parentRelative" value="2"/>
+            <enum name="axisRelative" value="3"/>
         </attr>
 
         
@@ -12044,6 +12091,19 @@
         
         <attr name="android:dropDownHorizontalOffset"/>
     </declare-styleable>
+    <declare-styleable name="LoadingImageView"><attr name="imageAspectRatioAdjust">
+<enum name="none" value="0"/>
+
+<enum name="adjust_width" value="1"/>
+
+<enum name="adjust_height" value="2"/>
+
+</attr>
+
+<attr format="float" name="imageAspectRatio"/>
+
+<attr format="boolean" name="circleCrop"/>
+</declare-styleable>
     <declare-styleable name="MaterialAlertDialog">
     <attr name="backgroundTint"/>
     <attr format="dimension" name="backgroundInsetStart"/>
@@ -13022,6 +13082,25 @@
     <attr format="reference" name="coplanarSiblingViewId"/>
 
   </declare-styleable>
+    <declare-styleable name="SignInButton"><attr format="reference" name="buttonSize">
+<enum name="standard" value="0"/>
+
+<enum name="wide" value="1"/>
+
+<enum name="icon_only" value="2"/>
+
+</attr>
+<attr format="reference" name="colorScheme">
+<enum name="dark" value="0"/>
+
+<enum name="light" value="1"/>
+
+<enum name="auto" value="2"/>
+
+</attr>
+
+<attr format="reference|string" name="scopeUris"/>
+</declare-styleable>
     <declare-styleable name="Slider">
     <attr name="android:value"/>
     <attr name="android:valueFrom"/>

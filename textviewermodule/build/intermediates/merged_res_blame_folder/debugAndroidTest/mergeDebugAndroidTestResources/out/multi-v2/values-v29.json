@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.bharathvishal.textfileviewer.test.textviewermodule-mergeDebugAndroidTestResources-72:/values-v29/values-v29.xml",
+            "outputFile": "com.bharathvishal.textfileviewer.test.textviewermodule-mergeDebugAndroidTestResources-73:/values-v29/values-v29.xml",
             "map": [
                 {
                     "source": "/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/packaged_res/debug/packageDebugResources/values-v29/values-v29.xml",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/Users/vishal/.gradle/caches/transforms-4/a916479b5da7b54d46ae694601d8c8c1/transformed/jetified-core-splashscreen-1.0.1/res/values-v29/values-v29.xml",
+                    "source": "/Users/vishal/.gradle/caches/8.9/transforms/cf41d75b71eaf2aed832c3d76f996c7a/transformed/jetified-core-splashscreen-1.0.1/res/values-v29/values-v29.xml",
                     "from": {
                         "startLines": "2,7",
                         "startColumns": "4,4",

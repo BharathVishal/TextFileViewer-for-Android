@@ -1,6 +1,6 @@
 /*
  *
- * Copyright 2023-2024 Bharath Vishal G
+ * Copyright 2023-2025 Bharath Vishal G
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -111,7 +111,7 @@ afterEvaluate {
                 from(components["release"])
                 groupId = "com.github.BharathVishal"
                 artifactId = "TextFileViewerAndroid"
-                version = "1.4.1"
+                version = "1.4.2"
             }
         }
     }

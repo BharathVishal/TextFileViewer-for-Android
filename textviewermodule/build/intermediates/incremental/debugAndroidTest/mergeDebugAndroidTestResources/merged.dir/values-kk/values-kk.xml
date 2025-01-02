@@ -36,7 +36,7 @@
     <string name="bottomsheet_action_expand_halfway">Жартылай кеңейту</string>
     <string name="bottomsheet_drag_handle_clicked">Сүйрейтін тетік екі рет түртілді.</string>
     <string name="bottomsheet_drag_handle_content_description">Сүйрейтін тетік</string>
-    <string msgid="881409763997275156" name="call_notification_answer_action">"Жауап"</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Жауап беру"</string>
     <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Бейне"</string>
     <string msgid="3229508546291798546" name="call_notification_decline_action">"Қабылдамау"</string>
     <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Тұтқаны қою"</string>
@@ -48,7 +48,24 @@
     <string name="clear_text_end_icon_content_description">Мәтінді өшіру</string>
     <string msgid="406453423630273620" name="close_drawer">"Навигация мәзірін жабу"</string>
     <string msgid="7573152094250666567" name="close_sheet">"Парақты жабу"</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Қосу</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">Google Play қызметтерін қоспасаңыз, %1$s жұмыс істемейді.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Google Play қызметтерін қосу</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Орнату</string>
+    <string name="common_google_play_services_install_text">Google Play қызметтері құрылғыда болмағандықтан, %1$s іске қосылмайды.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Google Play қызметтерін алу</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play қызметтерінің қолжетімділігі</string>
+    <string name="common_google_play_services_notification_ticker">Google Play қызметтерінің қатесі</string>
     <string name="common_google_play_services_unknown_issue">%1$s қолданбасында Google Play қызметіне байланысты белгісіз қате шықты. Әрекетті қайталаңыз.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s қолданбасы құрылғыңызда қолдау көрсетілмейтін Google Play қызметінсіз жұмыс істемейді.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Жаңарту</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">Google Play қызметтерін жаңартпасаңыз, %1$s іске қосылмайды.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Google Play қызметтерін жаңарту</string>
+    <string name="common_google_play_services_updating_text">Қазіргі уақытта жаңартылып жатқан Google Play қызметтерінсіз %1$s іске қосылмайды.</string>
+    <string name="common_google_play_services_wear_update_text">Google Play қызметтерінің жаңа нұсқасы қажет. Ол қысқа уақыттан кейін өзі жаңарады.</string>
+    <string name="common_open_on_phone">Телефонда ашу</string>
+    <string name="common_signin_button_text">Кіру</string>
+    <string name="common_signin_button_text_long">Google арқылы кіру</string>
     <string msgid="8038256446254964252" name="default_error_message">"Енгізілген мән жарамсыз."</string>
     <string msgid="6312721426453364202" name="default_popup_window_title">"Қалқымалы терезе"</string>
     <string msgid="1890207353314751437" name="dropdown_menu">"Ашылмалы мәзір"</string>

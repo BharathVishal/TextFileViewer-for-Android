@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.bharathvishal.textfileviewer.test.textviewermodule-mergeDebugAndroidTestResources-72:/values-land/values-land.xml",
+            "outputFile": "com.bharathvishal.textfileviewer.test.textviewermodule-mergeDebugAndroidTestResources-73:/values-land/values-land.xml",
             "map": [
                 {
                     "source": "/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/packaged_res/debug/packageDebugResources/values-land/values-land.xml",
@@ -21,17 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/vishal/.gradle/caches/transforms-4/a0dfd20b56b965003900baf9a4396754/transformed/appcompat-1.7.0/res/values-land/values-land.xml",
-                    "from": {
-                        "startLines": "2,3,4",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,125,196",
-                        "endColumns": "69,70,67",
-                        "endOffsets": "120,191,259"
-                    }
-                },
-                {
-                    "source": "/Users/vishal/.gradle/caches/transforms-4/7226df40621a6ff31d5cbbe66cb6ada2/transformed/material-1.12.0/res/values-land/values-land.xml",
+                    "source": "/Users/vishal/.gradle/caches/8.9/transforms/28a42e8a8348fd758449140aefeabe8a/transformed/material-1.12.0/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,26,35,40",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -47,6 +37,16 @@
                         "endLines": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,29,38,43,46",
                         "endColumns": "74,73,72,69,71,69,64,66,69,71,68,68,81,89,75,67,66,77,64,66,10,10,10,10",
                         "endOffsets": "376,450,523,593,665,735,800,867,937,1009,1078,1147,1229,1319,1395,1463,1530,1608,1673,1740,1912,2481,2750,2978"
+                    }
+                },
+                {
+                    "source": "/Users/vishal/.gradle/caches/8.9/transforms/270b1308e42d94b73355a509d40ff68d/transformed/appcompat-1.7.0/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
                     }
                 }
             ]
