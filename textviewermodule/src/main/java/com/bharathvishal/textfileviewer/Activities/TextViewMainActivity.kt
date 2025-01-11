@@ -22,11 +22,13 @@ import android.app.Activity
 import android.content.Context
 import android.content.Intent
 import android.net.Uri
+import android.os.Build
 import android.os.Bundle
 import android.util.Log
 import android.widget.Toast
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
+import androidx.activity.enableEdgeToEdge
 import androidx.activity.result.contract.ActivityResultContracts
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyColumn
@@ -99,6 +101,14 @@ class TextViewMainActivity : ComponentActivity(), CoroutineScope by MainScope() 
         }
 
     override fun onCreate(savedInstanceState: Bundle?) {
+        try {
+            if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.VANILLA_ICE_CREAM) {
+                enableEdgeToEdge()
+            }
+        } catch (e: Exception) {
+            e.printStackTrace()
+        }
+
         super.onCreate(savedInstanceState)
 
         //Applies Material dynamic theming

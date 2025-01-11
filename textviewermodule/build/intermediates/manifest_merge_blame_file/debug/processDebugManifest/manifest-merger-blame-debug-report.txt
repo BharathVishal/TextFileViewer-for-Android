@@ -20,75 +20,75 @@
 20    <uses-sdk android:minSdkVersion="22" />
 21
 22    <application>
-22-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:18:5-57:19
+22-->/Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:18:5-57:19
 23        <activity
-23-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:19:9-23:62
+23-->/Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:19:9-23:62
 24            android:name="com.bharathvishal.textfileviewer.Activities.ExampleActivityJava"
-24-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:20:13-59
+24-->/Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:20:13-59
 25            android:exported="true"
-25-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:21:13-36
+25-->/Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:21:13-36
 26            android:label="@string/app_name"
-26-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:22:13-45
+26-->/Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:22:13-45
 27            android:theme="@style/Theme.TextViewerAndroid" />
-27-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:23:13-59
+27-->/Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:23:13-59
 28        <activity
-28-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:25:9-34:20
+28-->/Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:25:9-34:20
 29            android:name="com.bharathvishal.textfileviewer.Activities.ExampleActivityKotlinCompose"
-29-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:26:13-68
+29-->/Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:26:13-68
 30            android:exported="true"
-30-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:27:13-36
+30-->/Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:27:13-36
 31            android:label="@string/app_name"
-31-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:28:13-45
+31-->/Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:28:13-45
 32            android:theme="@style/Theme.TextViewerAndroid" >
-32-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:29:13-59
+32-->/Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:29:13-59
 33            <intent-filter>
-33-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:30:13-33:29
+33-->/Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:30:13-33:29
 34                <action android:name="android.intent.action.MAIN" />
-34-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:31:17-69
-34-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:31:25-66
+34-->/Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:31:17-69
+34-->/Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:31:25-66
 35
 36                <category android:name="android.intent.category.LAUNCHER" />
-36-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:32:17-77
-36-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:32:27-74
+36-->/Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:32:17-77
+36-->/Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:32:27-74
 37            </intent-filter>
 38        </activity>
 39        <activity
-39-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:36:9-40:62
+39-->/Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:36:9-40:62
 40            android:name="com.bharathvishal.textfileviewer.Activities.TextViewMainActivity"
-40-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:37:13-60
+40-->/Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:37:13-60
 41            android:exported="true"
-41-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:38:13-36
+41-->/Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:38:13-36
 42            android:label="@string/app_name"
-42-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:39:13-45
+42-->/Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:39:13-45
 43            android:theme="@style/Theme.TextViewerAndroid" />
-43-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:40:13-59
+43-->/Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:40:13-59
 44        <activity
-44-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:42:9-46:62
+44-->/Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:42:9-46:62
 45            android:name="com.bharathvishal.textfileviewer.Activities.TextViewMainActivityWearable"
-45-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:43:13-68
+45-->/Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:43:13-68
 46            android:exported="true"
-46-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:44:13-36
+46-->/Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:44:13-36
 47            android:label="@string/app_name"
-47-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:45:13-45
+47-->/Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:45:13-45
 48            android:theme="@style/Theme.TextViewerAndroid" />
-48-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:46:13-59
+48-->/Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:46:13-59
 49
 50        <provider
-50-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:48:9-56:20
+50-->/Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:48:9-56:20
 51            android:name="androidx.core.content.FileProvider"
-51-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:49:13-62
+51-->/Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:49:13-62
 52            android:authorities="${applicationId}.provider"
-52-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:50:13-60
+52-->/Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:50:13-60
 53            android:exported="false"
-53-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:51:13-37
+53-->/Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:51:13-37
 54            android:grantUriPermissions="true" >
-54-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:52:13-47
+54-->/Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:52:13-47
 55            <meta-data
-55-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:53:13-55:57
+55-->/Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:53:13-55:57
 56                android:name="android.support.FILE_PROVIDER_PATHS"
-56-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:54:17-67
+56-->/Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:54:17-67
 57                android:resource="@xml/providerpaths" />
-57-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:55:17-54
+57-->/Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:55:17-54
 58        </provider>
 59    </application>
 60
