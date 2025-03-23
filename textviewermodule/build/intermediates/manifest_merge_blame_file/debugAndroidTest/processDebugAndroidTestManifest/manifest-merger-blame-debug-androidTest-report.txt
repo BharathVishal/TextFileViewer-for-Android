@@ -3,399 +3,391 @@
 3    package="com.bharathvishal.textfileviewer.test" >
 4
 5    <uses-sdk
-5-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5015004886448166001.xml:5:5-74
+5-->/Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest6020199236266927655.xml:5:5-74
 6        android:minSdkVersion="22"
-6-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5015004886448166001.xml:5:15-41
+6-->/Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest6020199236266927655.xml:5:15-41
 7        android:targetSdkVersion="35" />
-7-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5015004886448166001.xml:5:42-71
+7-->/Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest6020199236266927655.xml:5:42-71
 8
 9    <instrumentation
-9-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5015004886448166001.xml:11:5-15:87
+9-->/Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest6020199236266927655.xml:11:5-15:87
 10        android:name="androidx.test.runner.AndroidJUnitRunner"
-10-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5015004886448166001.xml:11:22-76
+10-->/Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest6020199236266927655.xml:11:22-76
 11        android:functionalTest="false"
-11-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5015004886448166001.xml:14:22-52
+11-->/Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest6020199236266927655.xml:14:22-52
 12        android:handleProfiling="false"
-12-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5015004886448166001.xml:13:22-53
+12-->/Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest6020199236266927655.xml:13:22-53
 13        android:label="Tests for com.bharathvishal.textfileviewer.test"
-13-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5015004886448166001.xml:15:22-85
+13-->/Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest6020199236266927655.xml:15:22-85
 14        android:targetPackage="com.bharathvishal.textfileviewer.test" />
-14-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5015004886448166001.xml:12:22-83
+14-->/Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest6020199236266927655.xml:12:22-83
 15    <!-- Required permission for App measurement to run. -->
 16    <uses-permission android:name="android.permission.INTERNET" />
-16-->[com.google.android.gms:play-services-measurement:22.1.2] /Users/vishal/.gradle/caches/8.9/transforms/112e577d0d8ab8fa495e0a80473ee541/transformed/jetified-play-services-measurement-22.1.2/AndroidManifest.xml:23:5-67
-16-->[com.google.android.gms:play-services-measurement:22.1.2] /Users/vishal/.gradle/caches/8.9/transforms/112e577d0d8ab8fa495e0a80473ee541/transformed/jetified-play-services-measurement-22.1.2/AndroidManifest.xml:23:22-64
+16-->[com.google.android.gms:play-services-measurement:22.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/05bca33ceb9de124a3ec8ddaedec69ca/transformed/jetified-play-services-measurement-22.4.0/AndroidManifest.xml:23:5-67
+16-->[com.google.android.gms:play-services-measurement:22.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/05bca33ceb9de124a3ec8ddaedec69ca/transformed/jetified-play-services-measurement-22.4.0/AndroidManifest.xml:23:22-64
 17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-17-->[com.google.android.gms:play-services-measurement:22.1.2] /Users/vishal/.gradle/caches/8.9/transforms/112e577d0d8ab8fa495e0a80473ee541/transformed/jetified-play-services-measurement-22.1.2/AndroidManifest.xml:24:5-79
-17-->[com.google.android.gms:play-services-measurement:22.1.2] /Users/vishal/.gradle/caches/8.9/transforms/112e577d0d8ab8fa495e0a80473ee541/transformed/jetified-play-services-measurement-22.1.2/AndroidManifest.xml:24:22-76
+17-->[com.google.android.gms:play-services-measurement:22.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/05bca33ceb9de124a3ec8ddaedec69ca/transformed/jetified-play-services-measurement-22.4.0/AndroidManifest.xml:24:5-79
+17-->[com.google.android.gms:play-services-measurement:22.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/05bca33ceb9de124a3ec8ddaedec69ca/transformed/jetified-play-services-measurement-22.4.0/AndroidManifest.xml:24:22-76
 18    <uses-permission android:name="android.permission.WAKE_LOCK" />
-18-->[com.google.android.gms:play-services-measurement:22.1.2] /Users/vishal/.gradle/caches/8.9/transforms/112e577d0d8ab8fa495e0a80473ee541/transformed/jetified-play-services-measurement-22.1.2/AndroidManifest.xml:25:5-68
-18-->[com.google.android.gms:play-services-measurement:22.1.2] /Users/vishal/.gradle/caches/8.9/transforms/112e577d0d8ab8fa495e0a80473ee541/transformed/jetified-play-services-measurement-22.1.2/AndroidManifest.xml:25:22-65
+18-->[com.google.android.gms:play-services-measurement:22.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/05bca33ceb9de124a3ec8ddaedec69ca/transformed/jetified-play-services-measurement-22.4.0/AndroidManifest.xml:25:5-68
+18-->[com.google.android.gms:play-services-measurement:22.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/05bca33ceb9de124a3ec8ddaedec69ca/transformed/jetified-play-services-measurement-22.4.0/AndroidManifest.xml:25:22-65
 19    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
-19-->[com.google.android.gms:play-services-measurement:22.1.2] /Users/vishal/.gradle/caches/8.9/transforms/112e577d0d8ab8fa495e0a80473ee541/transformed/jetified-play-services-measurement-22.1.2/AndroidManifest.xml:26:5-110
-19-->[com.google.android.gms:play-services-measurement:22.1.2] /Users/vishal/.gradle/caches/8.9/transforms/112e577d0d8ab8fa495e0a80473ee541/transformed/jetified-play-services-measurement-22.1.2/AndroidManifest.xml:26:22-107
+19-->[com.google.android.gms:play-services-measurement:22.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/05bca33ceb9de124a3ec8ddaedec69ca/transformed/jetified-play-services-measurement-22.4.0/AndroidManifest.xml:26:5-110
+19-->[com.google.android.gms:play-services-measurement:22.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/05bca33ceb9de124a3ec8ddaedec69ca/transformed/jetified-play-services-measurement-22.4.0/AndroidManifest.xml:26:22-107
 20    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
-20-->[com.google.android.gms:play-services-measurement-api:22.1.2] /Users/vishal/.gradle/caches/8.9/transforms/0d74cff6744b1988d87bb34f205e7e85/transformed/jetified-play-services-measurement-api-22.1.2/AndroidManifest.xml:25:5-79
-20-->[com.google.android.gms:play-services-measurement-api:22.1.2] /Users/vishal/.gradle/caches/8.9/transforms/0d74cff6744b1988d87bb34f205e7e85/transformed/jetified-play-services-measurement-api-22.1.2/AndroidManifest.xml:25:22-76
+20-->[com.google.android.gms:play-services-measurement-api:22.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/30964b15bfe1f02b19208bfec0ae91dc/transformed/jetified-play-services-measurement-api-22.4.0/AndroidManifest.xml:25:5-79
+20-->[com.google.android.gms:play-services-measurement-api:22.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/30964b15bfe1f02b19208bfec0ae91dc/transformed/jetified-play-services-measurement-api-22.4.0/AndroidManifest.xml:25:22-76
 21    <uses-permission android:name="android.permission.ACCESS_ADSERVICES_ATTRIBUTION" />
-21-->[com.google.android.gms:play-services-measurement-api:22.1.2] /Users/vishal/.gradle/caches/8.9/transforms/0d74cff6744b1988d87bb34f205e7e85/transformed/jetified-play-services-measurement-api-22.1.2/AndroidManifest.xml:26:5-88
-21-->[com.google.android.gms:play-services-measurement-api:22.1.2] /Users/vishal/.gradle/caches/8.9/transforms/0d74cff6744b1988d87bb34f205e7e85/transformed/jetified-play-services-measurement-api-22.1.2/AndroidManifest.xml:26:22-85
+21-->[com.google.android.gms:play-services-measurement-api:22.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/30964b15bfe1f02b19208bfec0ae91dc/transformed/jetified-play-services-measurement-api-22.4.0/AndroidManifest.xml:26:5-88
+21-->[com.google.android.gms:play-services-measurement-api:22.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/30964b15bfe1f02b19208bfec0ae91dc/transformed/jetified-play-services-measurement-api-22.4.0/AndroidManifest.xml:26:22-85
 22    <uses-permission android:name="android.permission.ACCESS_ADSERVICES_AD_ID" />
-22-->[com.google.android.gms:play-services-measurement-api:22.1.2] /Users/vishal/.gradle/caches/8.9/transforms/0d74cff6744b1988d87bb34f205e7e85/transformed/jetified-play-services-measurement-api-22.1.2/AndroidManifest.xml:27:5-82
-22-->[com.google.android.gms:play-services-measurement-api:22.1.2] /Users/vishal/.gradle/caches/8.9/transforms/0d74cff6744b1988d87bb34f205e7e85/transformed/jetified-play-services-measurement-api-22.1.2/AndroidManifest.xml:27:22-79
+22-->[com.google.android.gms:play-services-measurement-api:22.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/30964b15bfe1f02b19208bfec0ae91dc/transformed/jetified-play-services-measurement-api-22.4.0/AndroidManifest.xml:27:5-82
+22-->[com.google.android.gms:play-services-measurement-api:22.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/30964b15bfe1f02b19208bfec0ae91dc/transformed/jetified-play-services-measurement-api-22.4.0/AndroidManifest.xml:27:22-79
 23
 24    <permission
-24-->[androidx.core:core:1.15.0] /Users/vishal/.gradle/caches/8.9/transforms/17170e6592037dee2f40e50fa6ffee1d/transformed/core-1.15.0/AndroidManifest.xml:22:5-24:47
+24-->[androidx.core:core:1.15.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/b520956bd19364e35e6fb5f41a19880d/transformed/core-1.15.0/AndroidManifest.xml:22:5-24:47
 25        android:name="com.bharathvishal.textfileviewer.test.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-25-->[androidx.core:core:1.15.0] /Users/vishal/.gradle/caches/8.9/transforms/17170e6592037dee2f40e50fa6ffee1d/transformed/core-1.15.0/AndroidManifest.xml:23:9-81
+25-->[androidx.core:core:1.15.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/b520956bd19364e35e6fb5f41a19880d/transformed/core-1.15.0/AndroidManifest.xml:23:9-81
 26        android:protectionLevel="signature" />
-26-->[androidx.core:core:1.15.0] /Users/vishal/.gradle/caches/8.9/transforms/17170e6592037dee2f40e50fa6ffee1d/transformed/core-1.15.0/AndroidManifest.xml:24:9-44
+26-->[androidx.core:core:1.15.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/b520956bd19364e35e6fb5f41a19880d/transformed/core-1.15.0/AndroidManifest.xml:24:9-44
 27
 28    <uses-permission android:name="com.bharathvishal.textfileviewer.test.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
-28-->[androidx.core:core:1.15.0] /Users/vishal/.gradle/caches/8.9/transforms/17170e6592037dee2f40e50fa6ffee1d/transformed/core-1.15.0/AndroidManifest.xml:26:5-97
-28-->[androidx.core:core:1.15.0] /Users/vishal/.gradle/caches/8.9/transforms/17170e6592037dee2f40e50fa6ffee1d/transformed/core-1.15.0/AndroidManifest.xml:26:22-94
+28-->[androidx.core:core:1.15.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/b520956bd19364e35e6fb5f41a19880d/transformed/core-1.15.0/AndroidManifest.xml:26:5-97
+28-->[androidx.core:core:1.15.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/b520956bd19364e35e6fb5f41a19880d/transformed/core-1.15.0/AndroidManifest.xml:26:22-94
 29    <uses-permission android:name="android.permission.REORDER_TASKS" />
-29-->[androidx.test:core:1.6.1] /Users/vishal/.gradle/caches/8.9/transforms/2e40396e9c9e5f803f27536a8f6a0562/transformed/jetified-core-1.6.1/AndroidManifest.xml:24:5-72
-29-->[androidx.test:core:1.6.1] /Users/vishal/.gradle/caches/8.9/transforms/2e40396e9c9e5f803f27536a8f6a0562/transformed/jetified-core-1.6.1/AndroidManifest.xml:24:22-69
+29-->[androidx.test:core:1.6.1] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/966c58bc548e152168c4cc0a50ff8bea/transformed/jetified-core-1.6.1/AndroidManifest.xml:24:5-72
+29-->[androidx.test:core:1.6.1] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/966c58bc548e152168c4cc0a50ff8bea/transformed/jetified-core-1.6.1/AndroidManifest.xml:24:22-69
 30
 31    <queries>
-31-->[androidx.test:runner:1.6.1] /Users/vishal/.gradle/caches/8.9/transforms/83e8bd052ece967254305b9c84236853/transformed/runner-1.6.1/AndroidManifest.xml:24:5-28:15
+31-->[androidx.test:runner:1.6.1] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/1fb169943f87fff4a956cb4189b098be/transformed/runner-1.6.1/AndroidManifest.xml:24:5-28:15
 32        <package android:name="androidx.test.orchestrator" />
-32-->[androidx.test:runner:1.6.1] /Users/vishal/.gradle/caches/8.9/transforms/83e8bd052ece967254305b9c84236853/transformed/runner-1.6.1/AndroidManifest.xml:25:9-62
-32-->[androidx.test:runner:1.6.1] /Users/vishal/.gradle/caches/8.9/transforms/83e8bd052ece967254305b9c84236853/transformed/runner-1.6.1/AndroidManifest.xml:25:18-59
+32-->[androidx.test:runner:1.6.1] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/1fb169943f87fff4a956cb4189b098be/transformed/runner-1.6.1/AndroidManifest.xml:25:9-62
+32-->[androidx.test:runner:1.6.1] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/1fb169943f87fff4a956cb4189b098be/transformed/runner-1.6.1/AndroidManifest.xml:25:18-59
 33        <package android:name="androidx.test.services" />
-33-->[androidx.test:runner:1.6.1] /Users/vishal/.gradle/caches/8.9/transforms/83e8bd052ece967254305b9c84236853/transformed/runner-1.6.1/AndroidManifest.xml:26:9-58
-33-->[androidx.test:runner:1.6.1] /Users/vishal/.gradle/caches/8.9/transforms/83e8bd052ece967254305b9c84236853/transformed/runner-1.6.1/AndroidManifest.xml:26:18-55
+33-->[androidx.test:runner:1.6.1] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/1fb169943f87fff4a956cb4189b098be/transformed/runner-1.6.1/AndroidManifest.xml:26:9-58
+33-->[androidx.test:runner:1.6.1] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/1fb169943f87fff4a956cb4189b098be/transformed/runner-1.6.1/AndroidManifest.xml:26:18-55
 34        <package android:name="com.google.android.apps.common.testing.services" />
-34-->[androidx.test:runner:1.6.1] /Users/vishal/.gradle/caches/8.9/transforms/83e8bd052ece967254305b9c84236853/transformed/runner-1.6.1/AndroidManifest.xml:27:9-83
-34-->[androidx.test:runner:1.6.1] /Users/vishal/.gradle/caches/8.9/transforms/83e8bd052ece967254305b9c84236853/transformed/runner-1.6.1/AndroidManifest.xml:27:18-80
+34-->[androidx.test:runner:1.6.1] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/1fb169943f87fff4a956cb4189b098be/transformed/runner-1.6.1/AndroidManifest.xml:27:9-83
+34-->[androidx.test:runner:1.6.1] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/1fb169943f87fff4a956cb4189b098be/transformed/runner-1.6.1/AndroidManifest.xml:27:18-80
 35    </queries>
 36
 37    <application
-37-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5015004886448166001.xml:7:5-9:19
+37-->/Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest6020199236266927655.xml:7:5-9:19
 38        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-38-->[androidx.core:core:1.15.0] /Users/vishal/.gradle/caches/8.9/transforms/17170e6592037dee2f40e50fa6ffee1d/transformed/core-1.15.0/AndroidManifest.xml:28:18-86
+38-->[androidx.core:core:1.15.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/b520956bd19364e35e6fb5f41a19880d/transformed/core-1.15.0/AndroidManifest.xml:28:18-86
 39        android:debuggable="true"
 40        android:extractNativeLibs="true" >
 41        <uses-library android:name="android.test.runner" />
-41-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5015004886448166001.xml:8:9-60
-41-->/Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5015004886448166001.xml:8:23-57
+41-->/Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest6020199236266927655.xml:8:9-60
+41-->/Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest6020199236266927655.xml:8:23-57
 42
 43        <activity
-43-->[:textviewermodule] /Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:23:9-27:62
+43-->[:textviewermodule] /Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:23:9-27:62
 44            android:name="com.bharathvishal.textfileviewer.Activities.ExampleActivityJava"
-44-->[:textviewermodule] /Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:24:13-91
+44-->[:textviewermodule] /Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:24:13-91
 45            android:exported="true"
-45-->[:textviewermodule] /Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:25:13-36
+45-->[:textviewermodule] /Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:25:13-36
 46            android:label="@string/app_name"
-46-->[:textviewermodule] /Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:26:13-45
+46-->[:textviewermodule] /Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:26:13-45
 47            android:theme="@style/Theme.TextViewerAndroid" />
-47-->[:textviewermodule] /Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:27:13-59
+47-->[:textviewermodule] /Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:27:13-59
 48        <activity
-48-->[:textviewermodule] /Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:28:9-38:20
+48-->[:textviewermodule] /Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:28:9-38:20
 49            android:name="com.bharathvishal.textfileviewer.Activities.ExampleActivityKotlinCompose"
-49-->[:textviewermodule] /Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:29:13-100
+49-->[:textviewermodule] /Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:29:13-100
 50            android:exported="true"
-50-->[:textviewermodule] /Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:30:13-36
+50-->[:textviewermodule] /Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:30:13-36
 51            android:label="@string/app_name"
-51-->[:textviewermodule] /Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:31:13-45
+51-->[:textviewermodule] /Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:31:13-45
 52            android:theme="@style/Theme.TextViewerAndroid" >
-52-->[:textviewermodule] /Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:32:13-59
+52-->[:textviewermodule] /Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:32:13-59
 53            <intent-filter>
-53-->[:textviewermodule] /Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:33:13-37:29
+53-->[:textviewermodule] /Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:33:13-37:29
 54                <action android:name="android.intent.action.MAIN" />
-54-->[:textviewermodule] /Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:34:17-69
-54-->[:textviewermodule] /Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:34:25-66
+54-->[:textviewermodule] /Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:34:17-69
+54-->[:textviewermodule] /Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:34:25-66
 55
 56                <category android:name="android.intent.category.LAUNCHER" />
-56-->[:textviewermodule] /Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:36:17-77
-56-->[:textviewermodule] /Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:36:27-74
+56-->[:textviewermodule] /Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:36:17-77
+56-->[:textviewermodule] /Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:36:27-74
 57            </intent-filter>
 58        </activity>
 59        <activity
-59-->[:textviewermodule] /Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:39:9-43:62
+59-->[:textviewermodule] /Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:39:9-43:62
 60            android:name="com.bharathvishal.textfileviewer.Activities.TextViewMainActivity"
-60-->[:textviewermodule] /Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:40:13-92
+60-->[:textviewermodule] /Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:40:13-92
 61            android:exported="true"
-61-->[:textviewermodule] /Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:41:13-36
+61-->[:textviewermodule] /Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:41:13-36
 62            android:label="@string/app_name"
-62-->[:textviewermodule] /Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:42:13-45
+62-->[:textviewermodule] /Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:42:13-45
 63            android:theme="@style/Theme.TextViewerAndroid" />
-63-->[:textviewermodule] /Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:43:13-59
+63-->[:textviewermodule] /Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:43:13-59
 64        <activity
-64-->[:textviewermodule] /Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:44:9-48:62
+64-->[:textviewermodule] /Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:44:9-48:62
 65            android:name="com.bharathvishal.textfileviewer.Activities.TextViewMainActivityWearable"
-65-->[:textviewermodule] /Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:45:13-100
+65-->[:textviewermodule] /Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:45:13-100
 66            android:exported="true"
-66-->[:textviewermodule] /Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:46:13-36
+66-->[:textviewermodule] /Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:46:13-36
 67            android:label="@string/app_name"
-67-->[:textviewermodule] /Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:47:13-45
+67-->[:textviewermodule] /Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:47:13-45
 68            android:theme="@style/Theme.TextViewerAndroid" />
-68-->[:textviewermodule] /Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:48:13-59
+68-->[:textviewermodule] /Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:48:13-59
 69
 70        <provider
-70-->[:textviewermodule] /Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:50:9-58:20
+70-->[:textviewermodule] /Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:50:9-58:20
 71            android:name="androidx.core.content.FileProvider"
-71-->[:textviewermodule] /Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:51:13-62
+71-->[:textviewermodule] /Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:51:13-62
 72            android:authorities="com.bharathvishal.textfileviewer.test.provider"
-72-->[:textviewermodule] /Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:52:13-60
+72-->[:textviewermodule] /Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:52:13-60
 73            android:exported="false"
-73-->[:textviewermodule] /Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:53:13-37
+73-->[:textviewermodule] /Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:53:13-37
 74            android:grantUriPermissions="true" >
-74-->[:textviewermodule] /Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:54:13-47
+74-->[:textviewermodule] /Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:54:13-47
 75            <meta-data
-75-->[:textviewermodule] /Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:55:13-57:57
+75-->[:textviewermodule] /Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:55:13-57:57
 76                android:name="android.support.FILE_PROVIDER_PATHS"
-76-->[:textviewermodule] /Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:56:17-67
+76-->[:textviewermodule] /Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:56:17-67
 77                android:resource="@xml/providerpaths" />
-77-->[:textviewermodule] /Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:57:17-54
+77-->[:textviewermodule] /Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:57:17-54
 78        </provider>
 79
 80        <receiver
-80-->[com.google.android.gms:play-services-measurement:22.1.2] /Users/vishal/.gradle/caches/8.9/transforms/112e577d0d8ab8fa495e0a80473ee541/transformed/jetified-play-services-measurement-22.1.2/AndroidManifest.xml:29:9-33:20
+80-->[com.google.android.gms:play-services-measurement:22.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/05bca33ceb9de124a3ec8ddaedec69ca/transformed/jetified-play-services-measurement-22.4.0/AndroidManifest.xml:29:9-33:20
 81            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
-81-->[com.google.android.gms:play-services-measurement:22.1.2] /Users/vishal/.gradle/caches/8.9/transforms/112e577d0d8ab8fa495e0a80473ee541/transformed/jetified-play-services-measurement-22.1.2/AndroidManifest.xml:30:13-85
+81-->[com.google.android.gms:play-services-measurement:22.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/05bca33ceb9de124a3ec8ddaedec69ca/transformed/jetified-play-services-measurement-22.4.0/AndroidManifest.xml:30:13-85
 82            android:enabled="true"
-82-->[com.google.android.gms:play-services-measurement:22.1.2] /Users/vishal/.gradle/caches/8.9/transforms/112e577d0d8ab8fa495e0a80473ee541/transformed/jetified-play-services-measurement-22.1.2/AndroidManifest.xml:31:13-35
+82-->[com.google.android.gms:play-services-measurement:22.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/05bca33ceb9de124a3ec8ddaedec69ca/transformed/jetified-play-services-measurement-22.4.0/AndroidManifest.xml:31:13-35
 83            android:exported="false" >
-83-->[com.google.android.gms:play-services-measurement:22.1.2] /Users/vishal/.gradle/caches/8.9/transforms/112e577d0d8ab8fa495e0a80473ee541/transformed/jetified-play-services-measurement-22.1.2/AndroidManifest.xml:32:13-37
+83-->[com.google.android.gms:play-services-measurement:22.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/05bca33ceb9de124a3ec8ddaedec69ca/transformed/jetified-play-services-measurement-22.4.0/AndroidManifest.xml:32:13-37
 84        </receiver>
 85
 86        <service
-86-->[com.google.android.gms:play-services-measurement:22.1.2] /Users/vishal/.gradle/caches/8.9/transforms/112e577d0d8ab8fa495e0a80473ee541/transformed/jetified-play-services-measurement-22.1.2/AndroidManifest.xml:35:9-38:40
+86-->[com.google.android.gms:play-services-measurement:22.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/05bca33ceb9de124a3ec8ddaedec69ca/transformed/jetified-play-services-measurement-22.4.0/AndroidManifest.xml:35:9-38:40
 87            android:name="com.google.android.gms.measurement.AppMeasurementService"
-87-->[com.google.android.gms:play-services-measurement:22.1.2] /Users/vishal/.gradle/caches/8.9/transforms/112e577d0d8ab8fa495e0a80473ee541/transformed/jetified-play-services-measurement-22.1.2/AndroidManifest.xml:36:13-84
+87-->[com.google.android.gms:play-services-measurement:22.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/05bca33ceb9de124a3ec8ddaedec69ca/transformed/jetified-play-services-measurement-22.4.0/AndroidManifest.xml:36:13-84
 88            android:enabled="true"
-88-->[com.google.android.gms:play-services-measurement:22.1.2] /Users/vishal/.gradle/caches/8.9/transforms/112e577d0d8ab8fa495e0a80473ee541/transformed/jetified-play-services-measurement-22.1.2/AndroidManifest.xml:37:13-35
+88-->[com.google.android.gms:play-services-measurement:22.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/05bca33ceb9de124a3ec8ddaedec69ca/transformed/jetified-play-services-measurement-22.4.0/AndroidManifest.xml:37:13-35
 89            android:exported="false" />
-89-->[com.google.android.gms:play-services-measurement:22.1.2] /Users/vishal/.gradle/caches/8.9/transforms/112e577d0d8ab8fa495e0a80473ee541/transformed/jetified-play-services-measurement-22.1.2/AndroidManifest.xml:38:13-37
+89-->[com.google.android.gms:play-services-measurement:22.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/05bca33ceb9de124a3ec8ddaedec69ca/transformed/jetified-play-services-measurement-22.4.0/AndroidManifest.xml:38:13-37
 90        <service
-90-->[com.google.android.gms:play-services-measurement:22.1.2] /Users/vishal/.gradle/caches/8.9/transforms/112e577d0d8ab8fa495e0a80473ee541/transformed/jetified-play-services-measurement-22.1.2/AndroidManifest.xml:39:9-43:72
+90-->[com.google.android.gms:play-services-measurement:22.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/05bca33ceb9de124a3ec8ddaedec69ca/transformed/jetified-play-services-measurement-22.4.0/AndroidManifest.xml:39:9-43:72
 91            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
-91-->[com.google.android.gms:play-services-measurement:22.1.2] /Users/vishal/.gradle/caches/8.9/transforms/112e577d0d8ab8fa495e0a80473ee541/transformed/jetified-play-services-measurement-22.1.2/AndroidManifest.xml:40:13-87
+91-->[com.google.android.gms:play-services-measurement:22.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/05bca33ceb9de124a3ec8ddaedec69ca/transformed/jetified-play-services-measurement-22.4.0/AndroidManifest.xml:40:13-87
 92            android:enabled="true"
-92-->[com.google.android.gms:play-services-measurement:22.1.2] /Users/vishal/.gradle/caches/8.9/transforms/112e577d0d8ab8fa495e0a80473ee541/transformed/jetified-play-services-measurement-22.1.2/AndroidManifest.xml:41:13-35
+92-->[com.google.android.gms:play-services-measurement:22.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/05bca33ceb9de124a3ec8ddaedec69ca/transformed/jetified-play-services-measurement-22.4.0/AndroidManifest.xml:41:13-35
 93            android:exported="false"
-93-->[com.google.android.gms:play-services-measurement:22.1.2] /Users/vishal/.gradle/caches/8.9/transforms/112e577d0d8ab8fa495e0a80473ee541/transformed/jetified-play-services-measurement-22.1.2/AndroidManifest.xml:42:13-37
+93-->[com.google.android.gms:play-services-measurement:22.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/05bca33ceb9de124a3ec8ddaedec69ca/transformed/jetified-play-services-measurement-22.4.0/AndroidManifest.xml:42:13-37
 94            android:permission="android.permission.BIND_JOB_SERVICE" />
-94-->[com.google.android.gms:play-services-measurement:22.1.2] /Users/vishal/.gradle/caches/8.9/transforms/112e577d0d8ab8fa495e0a80473ee541/transformed/jetified-play-services-measurement-22.1.2/AndroidManifest.xml:43:13-69
-95
-96        <property
-96-->[com.google.android.gms:play-services-measurement-api:22.1.2] /Users/vishal/.gradle/caches/8.9/transforms/0d74cff6744b1988d87bb34f205e7e85/transformed/jetified-play-services-measurement-api-22.1.2/AndroidManifest.xml:30:9-32:61
-97            android:name="android.adservices.AD_SERVICES_CONFIG"
-97-->[com.google.android.gms:play-services-measurement-api:22.1.2] /Users/vishal/.gradle/caches/8.9/transforms/0d74cff6744b1988d87bb34f205e7e85/transformed/jetified-play-services-measurement-api-22.1.2/AndroidManifest.xml:31:13-65
-98            android:resource="@xml/ga_ad_services_config" />
-98-->[com.google.android.gms:play-services-measurement-api:22.1.2] /Users/vishal/.gradle/caches/8.9/transforms/0d74cff6744b1988d87bb34f205e7e85/transformed/jetified-play-services-measurement-api-22.1.2/AndroidManifest.xml:32:13-58
-99
-100        <service
-100-->[com.google.android.gms:play-services-measurement-api:22.1.2] /Users/vishal/.gradle/caches/8.9/transforms/0d74cff6744b1988d87bb34f205e7e85/transformed/jetified-play-services-measurement-api-22.1.2/AndroidManifest.xml:34:9-40:19
-101            android:name="com.google.firebase.components.ComponentDiscoveryService"
-101-->[com.google.android.gms:play-services-measurement-api:22.1.2] /Users/vishal/.gradle/caches/8.9/transforms/0d74cff6744b1988d87bb34f205e7e85/transformed/jetified-play-services-measurement-api-22.1.2/AndroidManifest.xml:35:13-84
-102            android:directBootAware="true"
-102-->[com.google.firebase:firebase-common:21.0.0] /Users/vishal/.gradle/caches/8.9/transforms/a105a983f0a9963c7f69ee80827451ff/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:32:13-43
-103            android:exported="false" >
-103-->[com.google.android.gms:play-services-measurement-api:22.1.2] /Users/vishal/.gradle/caches/8.9/transforms/0d74cff6744b1988d87bb34f205e7e85/transformed/jetified-play-services-measurement-api-22.1.2/AndroidManifest.xml:36:13-37
-104            <meta-data
-104-->[com.google.android.gms:play-services-measurement-api:22.1.2] /Users/vishal/.gradle/caches/8.9/transforms/0d74cff6744b1988d87bb34f205e7e85/transformed/jetified-play-services-measurement-api-22.1.2/AndroidManifest.xml:37:13-39:85
-105                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
-105-->[com.google.android.gms:play-services-measurement-api:22.1.2] /Users/vishal/.gradle/caches/8.9/transforms/0d74cff6744b1988d87bb34f205e7e85/transformed/jetified-play-services-measurement-api-22.1.2/AndroidManifest.xml:38:17-139
-106                android:value="com.google.firebase.components.ComponentRegistrar" />
-106-->[com.google.android.gms:play-services-measurement-api:22.1.2] /Users/vishal/.gradle/caches/8.9/transforms/0d74cff6744b1988d87bb34f205e7e85/transformed/jetified-play-services-measurement-api-22.1.2/AndroidManifest.xml:39:17-82
-107            <meta-data
-107-->[com.google.firebase:firebase-common-ktx:21.0.0] /Users/vishal/.gradle/caches/8.9/transforms/7211432d8b92cccecd1af146af2fa63e/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:12:13-14:85
-108                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar"
-108-->[com.google.firebase:firebase-common-ktx:21.0.0] /Users/vishal/.gradle/caches/8.9/transforms/7211432d8b92cccecd1af146af2fa63e/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:13:17-116
-109                android:value="com.google.firebase.components.ComponentRegistrar" />
-109-->[com.google.firebase:firebase-common-ktx:21.0.0] /Users/vishal/.gradle/caches/8.9/transforms/7211432d8b92cccecd1af146af2fa63e/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:14:17-82
-110            <meta-data
-110-->[com.google.firebase:firebase-installations:17.0.1] /Users/vishal/.gradle/caches/8.9/transforms/e0ceacb4954ec49b3a6c7258ba7c2c2c/transformed/jetified-firebase-installations-17.0.1/AndroidManifest.xml:18:13-20:85
-111                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
-111-->[com.google.firebase:firebase-installations:17.0.1] /Users/vishal/.gradle/caches/8.9/transforms/e0ceacb4954ec49b3a6c7258ba7c2c2c/transformed/jetified-firebase-installations-17.0.1/AndroidManifest.xml:19:17-127
-112                android:value="com.google.firebase.components.ComponentRegistrar" />
-112-->[com.google.firebase:firebase-installations:17.0.1] /Users/vishal/.gradle/caches/8.9/transforms/e0ceacb4954ec49b3a6c7258ba7c2c2c/transformed/jetified-firebase-installations-17.0.1/AndroidManifest.xml:20:17-82
-113            <meta-data
-113-->[com.google.firebase:firebase-common:21.0.0] /Users/vishal/.gradle/caches/8.9/transforms/a105a983f0a9963c7f69ee80827451ff/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:35:13-37:85
-114                android:name="com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar"
-114-->[com.google.firebase:firebase-common:21.0.0] /Users/vishal/.gradle/caches/8.9/transforms/a105a983f0a9963c7f69ee80827451ff/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:36:17-109
-115                android:value="com.google.firebase.components.ComponentRegistrar" />
-115-->[com.google.firebase:firebase-common:21.0.0] /Users/vishal/.gradle/caches/8.9/transforms/a105a983f0a9963c7f69ee80827451ff/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:37:17-82
-116        </service>
-117
-118        <provider
-118-->[com.google.firebase:firebase-common:21.0.0] /Users/vishal/.gradle/caches/8.9/transforms/a105a983f0a9963c7f69ee80827451ff/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:23:9-28:39
-119            android:name="com.google.firebase.provider.FirebaseInitProvider"
-119-->[com.google.firebase:firebase-common:21.0.0] /Users/vishal/.gradle/caches/8.9/transforms/a105a983f0a9963c7f69ee80827451ff/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:24:13-77
-120            android:authorities="com.bharathvishal.textfileviewer.test.firebaseinitprovider"
-120-->[com.google.firebase:firebase-common:21.0.0] /Users/vishal/.gradle/caches/8.9/transforms/a105a983f0a9963c7f69ee80827451ff/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:25:13-72
-121            android:directBootAware="true"
-121-->[com.google.firebase:firebase-common:21.0.0] /Users/vishal/.gradle/caches/8.9/transforms/a105a983f0a9963c7f69ee80827451ff/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:26:13-43
+94-->[com.google.android.gms:play-services-measurement:22.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/05bca33ceb9de124a3ec8ddaedec69ca/transformed/jetified-play-services-measurement-22.4.0/AndroidManifest.xml:43:13-69
+95        <service
+95-->[com.google.android.gms:play-services-measurement-api:22.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/30964b15bfe1f02b19208bfec0ae91dc/transformed/jetified-play-services-measurement-api-22.4.0/AndroidManifest.xml:30:9-36:19
+96            android:name="com.google.firebase.components.ComponentDiscoveryService"
+96-->[com.google.android.gms:play-services-measurement-api:22.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/30964b15bfe1f02b19208bfec0ae91dc/transformed/jetified-play-services-measurement-api-22.4.0/AndroidManifest.xml:31:13-84
+97            android:directBootAware="true"
+97-->[com.google.firebase:firebase-common:21.0.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/8da16a3b2c577b12e92a045281c3bba9/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:32:13-43
+98            android:exported="false" >
+98-->[com.google.android.gms:play-services-measurement-api:22.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/30964b15bfe1f02b19208bfec0ae91dc/transformed/jetified-play-services-measurement-api-22.4.0/AndroidManifest.xml:32:13-37
+99            <meta-data
+99-->[com.google.android.gms:play-services-measurement-api:22.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/30964b15bfe1f02b19208bfec0ae91dc/transformed/jetified-play-services-measurement-api-22.4.0/AndroidManifest.xml:33:13-35:85
+100                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+100-->[com.google.android.gms:play-services-measurement-api:22.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/30964b15bfe1f02b19208bfec0ae91dc/transformed/jetified-play-services-measurement-api-22.4.0/AndroidManifest.xml:34:17-139
+101                android:value="com.google.firebase.components.ComponentRegistrar" />
+101-->[com.google.android.gms:play-services-measurement-api:22.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/30964b15bfe1f02b19208bfec0ae91dc/transformed/jetified-play-services-measurement-api-22.4.0/AndroidManifest.xml:35:17-82
+102            <meta-data
+102-->[com.google.firebase:firebase-common-ktx:21.0.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/66ea0f5243ba473a32d366a6e1638962/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:12:13-14:85
+103                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar"
+103-->[com.google.firebase:firebase-common-ktx:21.0.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/66ea0f5243ba473a32d366a6e1638962/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:13:17-116
+104                android:value="com.google.firebase.components.ComponentRegistrar" />
+104-->[com.google.firebase:firebase-common-ktx:21.0.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/66ea0f5243ba473a32d366a6e1638962/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:14:17-82
+105            <meta-data
+105-->[com.google.firebase:firebase-installations:17.0.1] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/ba25fc798c84b61f28fe2efb97719783/transformed/jetified-firebase-installations-17.0.1/AndroidManifest.xml:18:13-20:85
+106                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+106-->[com.google.firebase:firebase-installations:17.0.1] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/ba25fc798c84b61f28fe2efb97719783/transformed/jetified-firebase-installations-17.0.1/AndroidManifest.xml:19:17-127
+107                android:value="com.google.firebase.components.ComponentRegistrar" />
+107-->[com.google.firebase:firebase-installations:17.0.1] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/ba25fc798c84b61f28fe2efb97719783/transformed/jetified-firebase-installations-17.0.1/AndroidManifest.xml:20:17-82
+108            <meta-data
+108-->[com.google.firebase:firebase-common:21.0.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/8da16a3b2c577b12e92a045281c3bba9/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:35:13-37:85
+109                android:name="com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar"
+109-->[com.google.firebase:firebase-common:21.0.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/8da16a3b2c577b12e92a045281c3bba9/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:36:17-109
+110                android:value="com.google.firebase.components.ComponentRegistrar" />
+110-->[com.google.firebase:firebase-common:21.0.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/8da16a3b2c577b12e92a045281c3bba9/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:37:17-82
+111        </service>
+112
+113        <provider
+113-->[com.google.firebase:firebase-common:21.0.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/8da16a3b2c577b12e92a045281c3bba9/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:23:9-28:39
+114            android:name="com.google.firebase.provider.FirebaseInitProvider"
+114-->[com.google.firebase:firebase-common:21.0.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/8da16a3b2c577b12e92a045281c3bba9/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:24:13-77
+115            android:authorities="com.bharathvishal.textfileviewer.test.firebaseinitprovider"
+115-->[com.google.firebase:firebase-common:21.0.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/8da16a3b2c577b12e92a045281c3bba9/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:25:13-72
+116            android:directBootAware="true"
+116-->[com.google.firebase:firebase-common:21.0.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/8da16a3b2c577b12e92a045281c3bba9/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:26:13-43
+117            android:exported="false"
+117-->[com.google.firebase:firebase-common:21.0.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/8da16a3b2c577b12e92a045281c3bba9/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:27:13-37
+118            android:initOrder="100" />
+118-->[com.google.firebase:firebase-common:21.0.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/8da16a3b2c577b12e92a045281c3bba9/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:28:13-36
+119
+120        <activity
+120-->[com.google.android.gms:play-services-base:18.5.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/d8fcd0b363b09f167cf9d2871a536e30/transformed/jetified-play-services-base-18.5.0/AndroidManifest.xml:5:9-173
+121            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+121-->[com.google.android.gms:play-services-base:18.5.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/d8fcd0b363b09f167cf9d2871a536e30/transformed/jetified-play-services-base-18.5.0/AndroidManifest.xml:5:19-85
 122            android:exported="false"
-122-->[com.google.firebase:firebase-common:21.0.0] /Users/vishal/.gradle/caches/8.9/transforms/a105a983f0a9963c7f69ee80827451ff/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:27:13-37
-123            android:initOrder="100" />
-123-->[com.google.firebase:firebase-common:21.0.0] /Users/vishal/.gradle/caches/8.9/transforms/a105a983f0a9963c7f69ee80827451ff/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:28:13-36
+122-->[com.google.android.gms:play-services-base:18.5.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/d8fcd0b363b09f167cf9d2871a536e30/transformed/jetified-play-services-base-18.5.0/AndroidManifest.xml:5:146-170
+123            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+123-->[com.google.android.gms:play-services-base:18.5.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/d8fcd0b363b09f167cf9d2871a536e30/transformed/jetified-play-services-base-18.5.0/AndroidManifest.xml:5:86-145
 124
-125        <activity
-125-->[com.google.android.gms:play-services-base:18.5.0] /Users/vishal/.gradle/caches/8.9/transforms/aa10e930831df6296208f40d8e346906/transformed/jetified-play-services-base-18.5.0/AndroidManifest.xml:5:9-173
-126            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-126-->[com.google.android.gms:play-services-base:18.5.0] /Users/vishal/.gradle/caches/8.9/transforms/aa10e930831df6296208f40d8e346906/transformed/jetified-play-services-base-18.5.0/AndroidManifest.xml:5:19-85
-127            android:exported="false"
-127-->[com.google.android.gms:play-services-base:18.5.0] /Users/vishal/.gradle/caches/8.9/transforms/aa10e930831df6296208f40d8e346906/transformed/jetified-play-services-base-18.5.0/AndroidManifest.xml:5:146-170
-128            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-128-->[com.google.android.gms:play-services-base:18.5.0] /Users/vishal/.gradle/caches/8.9/transforms/aa10e930831df6296208f40d8e346906/transformed/jetified-play-services-base-18.5.0/AndroidManifest.xml:5:86-145
-129
-130        <provider
-130-->[androidx.emoji2:emoji2:1.3.0] /Users/vishal/.gradle/caches/8.9/transforms/9e8057eedbdae2cb2265c48b5eeb1660/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
-131            android:name="androidx.startup.InitializationProvider"
-131-->[androidx.emoji2:emoji2:1.3.0] /Users/vishal/.gradle/caches/8.9/transforms/9e8057eedbdae2cb2265c48b5eeb1660/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:25:13-67
-132            android:authorities="com.bharathvishal.textfileviewer.test.androidx-startup"
-132-->[androidx.emoji2:emoji2:1.3.0] /Users/vishal/.gradle/caches/8.9/transforms/9e8057eedbdae2cb2265c48b5eeb1660/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:26:13-68
-133            android:exported="false" >
-133-->[androidx.emoji2:emoji2:1.3.0] /Users/vishal/.gradle/caches/8.9/transforms/9e8057eedbdae2cb2265c48b5eeb1660/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:27:13-37
-134            <meta-data
-134-->[androidx.emoji2:emoji2:1.3.0] /Users/vishal/.gradle/caches/8.9/transforms/9e8057eedbdae2cb2265c48b5eeb1660/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
-135                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-135-->[androidx.emoji2:emoji2:1.3.0] /Users/vishal/.gradle/caches/8.9/transforms/9e8057eedbdae2cb2265c48b5eeb1660/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:30:17-75
-136                android:value="androidx.startup" />
-136-->[androidx.emoji2:emoji2:1.3.0] /Users/vishal/.gradle/caches/8.9/transforms/9e8057eedbdae2cb2265c48b5eeb1660/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:31:17-49
-137            <meta-data
-137-->[androidx.lifecycle:lifecycle-process:2.8.7] /Users/vishal/.gradle/caches/8.9/transforms/d6e832b8c1aebe34bc9c58aed0fed998/transformed/jetified-lifecycle-process-2.8.7/AndroidManifest.xml:29:13-31:52
-138                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-138-->[androidx.lifecycle:lifecycle-process:2.8.7] /Users/vishal/.gradle/caches/8.9/transforms/d6e832b8c1aebe34bc9c58aed0fed998/transformed/jetified-lifecycle-process-2.8.7/AndroidManifest.xml:30:17-78
-139                android:value="androidx.startup" />
-139-->[androidx.lifecycle:lifecycle-process:2.8.7] /Users/vishal/.gradle/caches/8.9/transforms/d6e832b8c1aebe34bc9c58aed0fed998/transformed/jetified-lifecycle-process-2.8.7/AndroidManifest.xml:31:17-49
-140            <meta-data
-140-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/vishal/.gradle/caches/8.9/transforms/8bff6589033caea76a29db5405aa2987/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
-141                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
-141-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/vishal/.gradle/caches/8.9/transforms/8bff6589033caea76a29db5405aa2987/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
-142                android:value="androidx.startup" />
-142-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/vishal/.gradle/caches/8.9/transforms/8bff6589033caea76a29db5405aa2987/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
-143        </provider>
-144
-145        <uses-library
-145-->[androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/vishal/.gradle/caches/8.9/transforms/6e70acb962e5f86a1bbab87428fd6523/transformed/jetified-ads-adservices-1.0.0-beta05/AndroidManifest.xml:23:9-25:40
-146            android:name="android.ext.adservices"
-146-->[androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/vishal/.gradle/caches/8.9/transforms/6e70acb962e5f86a1bbab87428fd6523/transformed/jetified-ads-adservices-1.0.0-beta05/AndroidManifest.xml:24:13-50
-147            android:required="false" />
-147-->[androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/vishal/.gradle/caches/8.9/transforms/6e70acb962e5f86a1bbab87428fd6523/transformed/jetified-ads-adservices-1.0.0-beta05/AndroidManifest.xml:25:13-37
-148        <uses-library
-148-->[androidx.window:window:1.0.0] /Users/vishal/.gradle/caches/8.9/transforms/5cbd80c8a39d15dcec3afc89b4799fb8/transformed/jetified-window-1.0.0/AndroidManifest.xml:25:9-27:40
-149            android:name="androidx.window.extensions"
-149-->[androidx.window:window:1.0.0] /Users/vishal/.gradle/caches/8.9/transforms/5cbd80c8a39d15dcec3afc89b4799fb8/transformed/jetified-window-1.0.0/AndroidManifest.xml:26:13-54
-150            android:required="false" />
-150-->[androidx.window:window:1.0.0] /Users/vishal/.gradle/caches/8.9/transforms/5cbd80c8a39d15dcec3afc89b4799fb8/transformed/jetified-window-1.0.0/AndroidManifest.xml:27:13-37
-151        <uses-library
-151-->[androidx.window:window:1.0.0] /Users/vishal/.gradle/caches/8.9/transforms/5cbd80c8a39d15dcec3afc89b4799fb8/transformed/jetified-window-1.0.0/AndroidManifest.xml:28:9-30:40
-152            android:name="androidx.window.sidecar"
-152-->[androidx.window:window:1.0.0] /Users/vishal/.gradle/caches/8.9/transforms/5cbd80c8a39d15dcec3afc89b4799fb8/transformed/jetified-window-1.0.0/AndroidManifest.xml:29:13-51
-153            android:required="false" />
-153-->[androidx.window:window:1.0.0] /Users/vishal/.gradle/caches/8.9/transforms/5cbd80c8a39d15dcec3afc89b4799fb8/transformed/jetified-window-1.0.0/AndroidManifest.xml:30:13-37
-154
-155        <activity
-155-->[androidx.test:core:1.6.1] /Users/vishal/.gradle/caches/8.9/transforms/2e40396e9c9e5f803f27536a8f6a0562/transformed/jetified-core-1.6.1/AndroidManifest.xml:27:9-34:20
-156            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
-156-->[androidx.test:core:1.6.1] /Users/vishal/.gradle/caches/8.9/transforms/2e40396e9c9e5f803f27536a8f6a0562/transformed/jetified-core-1.6.1/AndroidManifest.xml:28:13-99
-157            android:exported="true"
-157-->[androidx.test:core:1.6.1] /Users/vishal/.gradle/caches/8.9/transforms/2e40396e9c9e5f803f27536a8f6a0562/transformed/jetified-core-1.6.1/AndroidManifest.xml:29:13-36
-158            android:theme="@style/WhiteBackgroundTheme" >
-158-->[androidx.test:core:1.6.1] /Users/vishal/.gradle/caches/8.9/transforms/2e40396e9c9e5f803f27536a8f6a0562/transformed/jetified-core-1.6.1/AndroidManifest.xml:30:13-56
-159            <intent-filter android:priority="-100" >
-159-->[androidx.test:core:1.6.1] /Users/vishal/.gradle/caches/8.9/transforms/2e40396e9c9e5f803f27536a8f6a0562/transformed/jetified-core-1.6.1/AndroidManifest.xml:31:13-33:29
-159-->[androidx.test:core:1.6.1] /Users/vishal/.gradle/caches/8.9/transforms/2e40396e9c9e5f803f27536a8f6a0562/transformed/jetified-core-1.6.1/AndroidManifest.xml:31:28-51
-160                <category android:name="android.intent.category.LAUNCHER" />
-160-->[:textviewermodule] /Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:36:17-77
-160-->[:textviewermodule] /Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:36:27-74
-161            </intent-filter>
-162        </activity>
-163        <activity
-163-->[androidx.test:core:1.6.1] /Users/vishal/.gradle/caches/8.9/transforms/2e40396e9c9e5f803f27536a8f6a0562/transformed/jetified-core-1.6.1/AndroidManifest.xml:35:9-42:20
-164            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
-164-->[androidx.test:core:1.6.1] /Users/vishal/.gradle/caches/8.9/transforms/2e40396e9c9e5f803f27536a8f6a0562/transformed/jetified-core-1.6.1/AndroidManifest.xml:36:13-95
-165            android:exported="true"
-165-->[androidx.test:core:1.6.1] /Users/vishal/.gradle/caches/8.9/transforms/2e40396e9c9e5f803f27536a8f6a0562/transformed/jetified-core-1.6.1/AndroidManifest.xml:37:13-36
-166            android:theme="@style/WhiteBackgroundTheme" >
-166-->[androidx.test:core:1.6.1] /Users/vishal/.gradle/caches/8.9/transforms/2e40396e9c9e5f803f27536a8f6a0562/transformed/jetified-core-1.6.1/AndroidManifest.xml:38:13-56
-167            <intent-filter android:priority="-100" >
-167-->[androidx.test:core:1.6.1] /Users/vishal/.gradle/caches/8.9/transforms/2e40396e9c9e5f803f27536a8f6a0562/transformed/jetified-core-1.6.1/AndroidManifest.xml:31:13-33:29
-167-->[androidx.test:core:1.6.1] /Users/vishal/.gradle/caches/8.9/transforms/2e40396e9c9e5f803f27536a8f6a0562/transformed/jetified-core-1.6.1/AndroidManifest.xml:31:28-51
-168                <category android:name="android.intent.category.LAUNCHER" />
-168-->[:textviewermodule] /Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:36:17-77
-168-->[:textviewermodule] /Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:36:27-74
-169            </intent-filter>
-170        </activity>
-171        <activity
-171-->[androidx.test:core:1.6.1] /Users/vishal/.gradle/caches/8.9/transforms/2e40396e9c9e5f803f27536a8f6a0562/transformed/jetified-core-1.6.1/AndroidManifest.xml:43:9-50:20
-172            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
-172-->[androidx.test:core:1.6.1] /Users/vishal/.gradle/caches/8.9/transforms/2e40396e9c9e5f803f27536a8f6a0562/transformed/jetified-core-1.6.1/AndroidManifest.xml:44:13-103
-173            android:exported="true"
-173-->[androidx.test:core:1.6.1] /Users/vishal/.gradle/caches/8.9/transforms/2e40396e9c9e5f803f27536a8f6a0562/transformed/jetified-core-1.6.1/AndroidManifest.xml:45:13-36
-174            android:theme="@style/WhiteBackgroundDialogTheme" >
-174-->[androidx.test:core:1.6.1] /Users/vishal/.gradle/caches/8.9/transforms/2e40396e9c9e5f803f27536a8f6a0562/transformed/jetified-core-1.6.1/AndroidManifest.xml:46:13-62
-175            <intent-filter android:priority="-100" >
-175-->[androidx.test:core:1.6.1] /Users/vishal/.gradle/caches/8.9/transforms/2e40396e9c9e5f803f27536a8f6a0562/transformed/jetified-core-1.6.1/AndroidManifest.xml:31:13-33:29
-175-->[androidx.test:core:1.6.1] /Users/vishal/.gradle/caches/8.9/transforms/2e40396e9c9e5f803f27536a8f6a0562/transformed/jetified-core-1.6.1/AndroidManifest.xml:31:28-51
-176                <category android:name="android.intent.category.LAUNCHER" />
-176-->[:textviewermodule] /Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:36:17-77
-176-->[:textviewermodule] /Users/vishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:36:27-74
-177            </intent-filter>
-178        </activity>
-179
-180        <meta-data
-180-->[com.google.android.gms:play-services-basement:18.4.0] /Users/vishal/.gradle/caches/8.9/transforms/10ad0cd82df74df4ff8fdac0207fab4b/transformed/jetified-play-services-basement-18.4.0/AndroidManifest.xml:6:9-122
-181            android:name="com.google.android.gms.version"
-181-->[com.google.android.gms:play-services-basement:18.4.0] /Users/vishal/.gradle/caches/8.9/transforms/10ad0cd82df74df4ff8fdac0207fab4b/transformed/jetified-play-services-basement-18.4.0/AndroidManifest.xml:6:20-65
-182            android:value="@integer/google_play_services_version" />
-182-->[com.google.android.gms:play-services-basement:18.4.0] /Users/vishal/.gradle/caches/8.9/transforms/10ad0cd82df74df4ff8fdac0207fab4b/transformed/jetified-play-services-basement-18.4.0/AndroidManifest.xml:6:66-119
-183
-184        <activity
-184-->[androidx.compose.ui:ui-tooling-android:1.7.6] /Users/vishal/.gradle/caches/8.9/transforms/dbfb8c875e7057496bfb1abd2b39bf72/transformed/jetified-ui-tooling-release/AndroidManifest.xml:23:9-25:39
-185            android:name="androidx.compose.ui.tooling.PreviewActivity"
-185-->[androidx.compose.ui:ui-tooling-android:1.7.6] /Users/vishal/.gradle/caches/8.9/transforms/dbfb8c875e7057496bfb1abd2b39bf72/transformed/jetified-ui-tooling-release/AndroidManifest.xml:24:13-71
-186            android:exported="true" />
-186-->[androidx.compose.ui:ui-tooling-android:1.7.6] /Users/vishal/.gradle/caches/8.9/transforms/dbfb8c875e7057496bfb1abd2b39bf72/transformed/jetified-ui-tooling-release/AndroidManifest.xml:25:13-36
-187        <activity
-187-->[androidx.compose.ui:ui-test-manifest:1.7.6] /Users/vishal/.gradle/caches/8.9/transforms/d8b0556b3a2945132d2070d19ec71727/transformed/jetified-ui-test-manifest-1.7.6/AndroidManifest.xml:23:9-25:39
-188            android:name="androidx.activity.ComponentActivity"
-188-->[androidx.compose.ui:ui-test-manifest:1.7.6] /Users/vishal/.gradle/caches/8.9/transforms/d8b0556b3a2945132d2070d19ec71727/transformed/jetified-ui-test-manifest-1.7.6/AndroidManifest.xml:24:13-63
-189            android:exported="true" />
-189-->[androidx.compose.ui:ui-test-manifest:1.7.6] /Users/vishal/.gradle/caches/8.9/transforms/d8b0556b3a2945132d2070d19ec71727/transformed/jetified-ui-test-manifest-1.7.6/AndroidManifest.xml:25:13-36
-190
-191        <receiver
-191-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/vishal/.gradle/caches/8.9/transforms/8bff6589033caea76a29db5405aa2987/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
-192            android:name="androidx.profileinstaller.ProfileInstallReceiver"
-192-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/vishal/.gradle/caches/8.9/transforms/8bff6589033caea76a29db5405aa2987/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
-193            android:directBootAware="false"
-193-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/vishal/.gradle/caches/8.9/transforms/8bff6589033caea76a29db5405aa2987/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
-194            android:enabled="true"
-194-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/vishal/.gradle/caches/8.9/transforms/8bff6589033caea76a29db5405aa2987/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
-195            android:exported="true"
-195-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/vishal/.gradle/caches/8.9/transforms/8bff6589033caea76a29db5405aa2987/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
-196            android:permission="android.permission.DUMP" >
-196-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/vishal/.gradle/caches/8.9/transforms/8bff6589033caea76a29db5405aa2987/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
-197            <intent-filter>
-197-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/vishal/.gradle/caches/8.9/transforms/8bff6589033caea76a29db5405aa2987/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
-198                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
-198-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/vishal/.gradle/caches/8.9/transforms/8bff6589033caea76a29db5405aa2987/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
-198-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/vishal/.gradle/caches/8.9/transforms/8bff6589033caea76a29db5405aa2987/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
-199            </intent-filter>
-200            <intent-filter>
-200-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/vishal/.gradle/caches/8.9/transforms/8bff6589033caea76a29db5405aa2987/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
-201                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
-201-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/vishal/.gradle/caches/8.9/transforms/8bff6589033caea76a29db5405aa2987/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
-201-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/vishal/.gradle/caches/8.9/transforms/8bff6589033caea76a29db5405aa2987/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
-202            </intent-filter>
-203            <intent-filter>
-203-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/vishal/.gradle/caches/8.9/transforms/8bff6589033caea76a29db5405aa2987/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
-204                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
-204-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/vishal/.gradle/caches/8.9/transforms/8bff6589033caea76a29db5405aa2987/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
-204-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/vishal/.gradle/caches/8.9/transforms/8bff6589033caea76a29db5405aa2987/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
-205            </intent-filter>
-206            <intent-filter>
-206-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/vishal/.gradle/caches/8.9/transforms/8bff6589033caea76a29db5405aa2987/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
-207                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
-207-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/vishal/.gradle/caches/8.9/transforms/8bff6589033caea76a29db5405aa2987/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
-207-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/vishal/.gradle/caches/8.9/transforms/8bff6589033caea76a29db5405aa2987/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:50:25-92
-208            </intent-filter>
-209        </receiver>
-210    </application>
-211
-212</manifest>
+125        <provider
+125-->[androidx.emoji2:emoji2:1.3.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/3c06cfa16c19fac5231e67bd058e0c26/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+126            android:name="androidx.startup.InitializationProvider"
+126-->[androidx.emoji2:emoji2:1.3.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/3c06cfa16c19fac5231e67bd058e0c26/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:25:13-67
+127            android:authorities="com.bharathvishal.textfileviewer.test.androidx-startup"
+127-->[androidx.emoji2:emoji2:1.3.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/3c06cfa16c19fac5231e67bd058e0c26/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:26:13-68
+128            android:exported="false" >
+128-->[androidx.emoji2:emoji2:1.3.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/3c06cfa16c19fac5231e67bd058e0c26/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:27:13-37
+129            <meta-data
+129-->[androidx.emoji2:emoji2:1.3.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/3c06cfa16c19fac5231e67bd058e0c26/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+130                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+130-->[androidx.emoji2:emoji2:1.3.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/3c06cfa16c19fac5231e67bd058e0c26/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:30:17-75
+131                android:value="androidx.startup" />
+131-->[androidx.emoji2:emoji2:1.3.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/3c06cfa16c19fac5231e67bd058e0c26/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:31:17-49
+132            <meta-data
+132-->[androidx.lifecycle:lifecycle-process:2.8.7] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/fc93b568cb3731646ae9bb00cfa9594a/transformed/jetified-lifecycle-process-2.8.7/AndroidManifest.xml:29:13-31:52
+133                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+133-->[androidx.lifecycle:lifecycle-process:2.8.7] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/fc93b568cb3731646ae9bb00cfa9594a/transformed/jetified-lifecycle-process-2.8.7/AndroidManifest.xml:30:17-78
+134                android:value="androidx.startup" />
+134-->[androidx.lifecycle:lifecycle-process:2.8.7] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/fc93b568cb3731646ae9bb00cfa9594a/transformed/jetified-lifecycle-process-2.8.7/AndroidManifest.xml:31:17-49
+135            <meta-data
+135-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/6b6acdd6273d810df466e2dc8de488a0/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
+136                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+136-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/6b6acdd6273d810df466e2dc8de488a0/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
+137                android:value="androidx.startup" />
+137-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/6b6acdd6273d810df466e2dc8de488a0/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
+138        </provider>
+139
+140        <uses-library
+140-->[androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/6a2e4c56749d7248f0c2969dfb063ba2/transformed/jetified-ads-adservices-1.1.0-beta11/AndroidManifest.xml:23:9-25:40
+141            android:name="android.ext.adservices"
+141-->[androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/6a2e4c56749d7248f0c2969dfb063ba2/transformed/jetified-ads-adservices-1.1.0-beta11/AndroidManifest.xml:24:13-50
+142            android:required="false" />
+142-->[androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/6a2e4c56749d7248f0c2969dfb063ba2/transformed/jetified-ads-adservices-1.1.0-beta11/AndroidManifest.xml:25:13-37
+143        <uses-library
+143-->[androidx.window:window:1.0.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/9a26ea73e7a2d2e1a6fba958c3ccdcdb/transformed/jetified-window-1.0.0/AndroidManifest.xml:25:9-27:40
+144            android:name="androidx.window.extensions"
+144-->[androidx.window:window:1.0.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/9a26ea73e7a2d2e1a6fba958c3ccdcdb/transformed/jetified-window-1.0.0/AndroidManifest.xml:26:13-54
+145            android:required="false" />
+145-->[androidx.window:window:1.0.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/9a26ea73e7a2d2e1a6fba958c3ccdcdb/transformed/jetified-window-1.0.0/AndroidManifest.xml:27:13-37
+146        <uses-library
+146-->[androidx.window:window:1.0.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/9a26ea73e7a2d2e1a6fba958c3ccdcdb/transformed/jetified-window-1.0.0/AndroidManifest.xml:28:9-30:40
+147            android:name="androidx.window.sidecar"
+147-->[androidx.window:window:1.0.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/9a26ea73e7a2d2e1a6fba958c3ccdcdb/transformed/jetified-window-1.0.0/AndroidManifest.xml:29:13-51
+148            android:required="false" />
+148-->[androidx.window:window:1.0.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/9a26ea73e7a2d2e1a6fba958c3ccdcdb/transformed/jetified-window-1.0.0/AndroidManifest.xml:30:13-37
+149
+150        <activity
+150-->[androidx.test:core:1.6.1] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/966c58bc548e152168c4cc0a50ff8bea/transformed/jetified-core-1.6.1/AndroidManifest.xml:27:9-34:20
+151            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
+151-->[androidx.test:core:1.6.1] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/966c58bc548e152168c4cc0a50ff8bea/transformed/jetified-core-1.6.1/AndroidManifest.xml:28:13-99
+152            android:exported="true"
+152-->[androidx.test:core:1.6.1] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/966c58bc548e152168c4cc0a50ff8bea/transformed/jetified-core-1.6.1/AndroidManifest.xml:29:13-36
+153            android:theme="@style/WhiteBackgroundTheme" >
+153-->[androidx.test:core:1.6.1] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/966c58bc548e152168c4cc0a50ff8bea/transformed/jetified-core-1.6.1/AndroidManifest.xml:30:13-56
+154            <intent-filter android:priority="-100" >
+154-->[androidx.test:core:1.6.1] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/966c58bc548e152168c4cc0a50ff8bea/transformed/jetified-core-1.6.1/AndroidManifest.xml:31:13-33:29
+154-->[androidx.test:core:1.6.1] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/966c58bc548e152168c4cc0a50ff8bea/transformed/jetified-core-1.6.1/AndroidManifest.xml:31:28-51
+155                <category android:name="android.intent.category.LAUNCHER" />
+155-->[:textviewermodule] /Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:36:17-77
+155-->[:textviewermodule] /Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:36:27-74
+156            </intent-filter>
+157        </activity>
+158        <activity
+158-->[androidx.test:core:1.6.1] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/966c58bc548e152168c4cc0a50ff8bea/transformed/jetified-core-1.6.1/AndroidManifest.xml:35:9-42:20
+159            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
+159-->[androidx.test:core:1.6.1] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/966c58bc548e152168c4cc0a50ff8bea/transformed/jetified-core-1.6.1/AndroidManifest.xml:36:13-95
+160            android:exported="true"
+160-->[androidx.test:core:1.6.1] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/966c58bc548e152168c4cc0a50ff8bea/transformed/jetified-core-1.6.1/AndroidManifest.xml:37:13-36
+161            android:theme="@style/WhiteBackgroundTheme" >
+161-->[androidx.test:core:1.6.1] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/966c58bc548e152168c4cc0a50ff8bea/transformed/jetified-core-1.6.1/AndroidManifest.xml:38:13-56
+162            <intent-filter android:priority="-100" >
+162-->[androidx.test:core:1.6.1] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/966c58bc548e152168c4cc0a50ff8bea/transformed/jetified-core-1.6.1/AndroidManifest.xml:31:13-33:29
+162-->[androidx.test:core:1.6.1] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/966c58bc548e152168c4cc0a50ff8bea/transformed/jetified-core-1.6.1/AndroidManifest.xml:31:28-51
+163                <category android:name="android.intent.category.LAUNCHER" />
+163-->[:textviewermodule] /Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:36:17-77
+163-->[:textviewermodule] /Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:36:27-74
+164            </intent-filter>
+165        </activity>
+166        <activity
+166-->[androidx.test:core:1.6.1] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/966c58bc548e152168c4cc0a50ff8bea/transformed/jetified-core-1.6.1/AndroidManifest.xml:43:9-50:20
+167            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
+167-->[androidx.test:core:1.6.1] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/966c58bc548e152168c4cc0a50ff8bea/transformed/jetified-core-1.6.1/AndroidManifest.xml:44:13-103
+168            android:exported="true"
+168-->[androidx.test:core:1.6.1] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/966c58bc548e152168c4cc0a50ff8bea/transformed/jetified-core-1.6.1/AndroidManifest.xml:45:13-36
+169            android:theme="@style/WhiteBackgroundDialogTheme" >
+169-->[androidx.test:core:1.6.1] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/966c58bc548e152168c4cc0a50ff8bea/transformed/jetified-core-1.6.1/AndroidManifest.xml:46:13-62
+170            <intent-filter android:priority="-100" >
+170-->[androidx.test:core:1.6.1] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/966c58bc548e152168c4cc0a50ff8bea/transformed/jetified-core-1.6.1/AndroidManifest.xml:31:13-33:29
+170-->[androidx.test:core:1.6.1] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/966c58bc548e152168c4cc0a50ff8bea/transformed/jetified-core-1.6.1/AndroidManifest.xml:31:28-51
+171                <category android:name="android.intent.category.LAUNCHER" />
+171-->[:textviewermodule] /Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:36:17-77
+171-->[:textviewermodule] /Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:36:27-74
+172            </intent-filter>
+173        </activity>
+174
+175        <meta-data
+175-->[com.google.android.gms:play-services-basement:18.5.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/5b52a6e1b81afb6cad3c2cc895ee1466/transformed/jetified-play-services-basement-18.5.0/AndroidManifest.xml:21:9-23:69
+176            android:name="com.google.android.gms.version"
+176-->[com.google.android.gms:play-services-basement:18.5.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/5b52a6e1b81afb6cad3c2cc895ee1466/transformed/jetified-play-services-basement-18.5.0/AndroidManifest.xml:22:13-58
+177            android:value="@integer/google_play_services_version" />
+177-->[com.google.android.gms:play-services-basement:18.5.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/5b52a6e1b81afb6cad3c2cc895ee1466/transformed/jetified-play-services-basement-18.5.0/AndroidManifest.xml:23:13-66
+178
+179        <activity
+179-->[androidx.compose.ui:ui-tooling-android:1.7.8] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/b84f1eff1a5796fc56e3f328555f7506/transformed/jetified-ui-tooling-release/AndroidManifest.xml:23:9-25:39
+180            android:name="androidx.compose.ui.tooling.PreviewActivity"
+180-->[androidx.compose.ui:ui-tooling-android:1.7.8] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/b84f1eff1a5796fc56e3f328555f7506/transformed/jetified-ui-tooling-release/AndroidManifest.xml:24:13-71
+181            android:exported="true" />
+181-->[androidx.compose.ui:ui-tooling-android:1.7.8] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/b84f1eff1a5796fc56e3f328555f7506/transformed/jetified-ui-tooling-release/AndroidManifest.xml:25:13-36
+182        <activity
+182-->[androidx.compose.ui:ui-test-manifest:1.7.8] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/9ab1735d001fce58d2cabf44518a7a48/transformed/jetified-ui-test-manifest-1.7.8/AndroidManifest.xml:23:9-25:39
+183            android:name="androidx.activity.ComponentActivity"
+183-->[androidx.compose.ui:ui-test-manifest:1.7.8] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/9ab1735d001fce58d2cabf44518a7a48/transformed/jetified-ui-test-manifest-1.7.8/AndroidManifest.xml:24:13-63
+184            android:exported="true" />
+184-->[androidx.compose.ui:ui-test-manifest:1.7.8] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/9ab1735d001fce58d2cabf44518a7a48/transformed/jetified-ui-test-manifest-1.7.8/AndroidManifest.xml:25:13-36
+185
+186        <receiver
+186-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/6b6acdd6273d810df466e2dc8de488a0/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
+187            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+187-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/6b6acdd6273d810df466e2dc8de488a0/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
+188            android:directBootAware="false"
+188-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/6b6acdd6273d810df466e2dc8de488a0/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
+189            android:enabled="true"
+189-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/6b6acdd6273d810df466e2dc8de488a0/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
+190            android:exported="true"
+190-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/6b6acdd6273d810df466e2dc8de488a0/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
+191            android:permission="android.permission.DUMP" >
+191-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/6b6acdd6273d810df466e2dc8de488a0/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
+192            <intent-filter>
+192-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/6b6acdd6273d810df466e2dc8de488a0/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
+193                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+193-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/6b6acdd6273d810df466e2dc8de488a0/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
+193-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/6b6acdd6273d810df466e2dc8de488a0/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
+194            </intent-filter>
+195            <intent-filter>
+195-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/6b6acdd6273d810df466e2dc8de488a0/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
+196                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+196-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/6b6acdd6273d810df466e2dc8de488a0/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
+196-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/6b6acdd6273d810df466e2dc8de488a0/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
+197            </intent-filter>
+198            <intent-filter>
+198-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/6b6acdd6273d810df466e2dc8de488a0/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
+199                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+199-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/6b6acdd6273d810df466e2dc8de488a0/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
+199-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/6b6acdd6273d810df466e2dc8de488a0/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
+200            </intent-filter>
+201            <intent-filter>
+201-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/6b6acdd6273d810df466e2dc8de488a0/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
+202                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+202-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/6b6acdd6273d810df466e2dc8de488a0/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
+202-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/bharathvishal/.gradle/caches/8.11.1/transforms/6b6acdd6273d810df466e2dc8de488a0/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:50:25-92
+203            </intent-filter>
+204        </receiver>
+205    </application>
+206
+207</manifest>

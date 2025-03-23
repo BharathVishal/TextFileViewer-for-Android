@@ -111,7 +111,7 @@ afterEvaluate {
                 from(components["release"])
                 groupId = "com.github.BharathVishal"
                 artifactId = "TextFileViewerAndroid"
-                version = "1.4.3"
+                version = "1.4.4"
             }
         }
     }
