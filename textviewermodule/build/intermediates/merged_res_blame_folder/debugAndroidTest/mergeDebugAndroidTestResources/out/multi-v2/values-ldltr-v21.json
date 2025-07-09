@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.bharathvishal.textfileviewer.test.textviewermodule-mergeDebugAndroidTestResources-73:/values-ldltr-v21/values-ldltr-v21.xml",
+            "outputFile": "com.bharathvishal.textfileviewer.test.textviewermodule-mergeDebugAndroidTestResources-72:/values-ldltr-v21/values-ldltr-v21.xml",
             "map": [
                 {
-                    "source": "/Users/bharathvishal/.gradle/caches/8.11.1/transforms/6d097dd5b92f85b17ae79213ea77b645/transformed/appcompat-1.7.0/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "source": "/Users/bharathvishal/.gradle/caches/8.13/transforms/8d567fc68da0172a6313aa73edc268e4/transformed/appcompat-1.7.1/res/values-ldltr-v21/values-ldltr-v21.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

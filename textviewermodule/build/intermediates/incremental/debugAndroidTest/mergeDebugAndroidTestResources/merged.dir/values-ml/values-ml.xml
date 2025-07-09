@@ -31,6 +31,7 @@
     <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"ഇനിപ്പറയുന്നതുമായി പങ്കിടുക"</string>
     <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> എന്നതുമായി പങ്കിടുക"</string>
     <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"ചുരുക്കുക"</string>
+    <string msgid="389117264260014992" name="autofill">"സ്വയമേവ പൂരിപ്പിക്കൽ"</string>
     <string name="bottomsheet_action_collapse">ബോട്ടം ഷീറ്റ് ചുരുക്കുക</string>
     <string name="bottomsheet_action_expand">ബോട്ടം ഷീറ്റ് വികസിപ്പിക്കുക</string>
     <string name="bottomsheet_action_expand_halfway">മുഴുവനായി വികസിപ്പിക്കുക</string>
@@ -146,6 +147,7 @@
     <string name="material_timepicker_pm">PM</string>
     <string name="material_timepicker_select_time">സമയം തിരഞ്ഞെടുക്കുക</string>
     <string name="material_timepicker_text_input_mode_description">സമയം നൽകുന്നതിന് ടെക്സ്റ്റ് ഇൻപുട്ട് ‌മോ‌ഡിലേക്ക് ‌മാറുക.</string>
+    <string msgid="2792228137354697160" name="mc2_snackbar_pane_title">"മുന്നറിയിപ്പ്"</string>
     <string name="mtrl_badge_numberless_content_description">പുതിയ അറിയിപ്പ്</string>
     <string name="mtrl_checkbox_state_description_checked">ചെക്ക് മാർക്കിട്ടു</string>
     <string name="mtrl_checkbox_state_description_indeterminate">ഭാഗികമായി ചെക്ക് മാർക്കിട്ടു</string>
@@ -201,6 +203,7 @@
     <string name="searchview_navigation_content_description">മടങ്ങുക</string>
     <string msgid="6043586758067023" name="selected">"തിരഞ്ഞെടുത്തു"</string>
     <string name="side_sheet_accessibility_pane_title">സൈഡ് ഷീറ്റ്</string>
+    <string msgid="2792228137354697160" name="snackbar_pane_title">"മുന്നറിയിപ്പ്"</string>
     <string msgid="4139871816613051306" name="state_empty">"ശൂന്യം"</string>
     <string msgid="5834637030682409883" name="state_off">"ഓഫാണ്"</string>
     <string msgid="1490883874751719580" name="state_on">"ഓണാണ്"</string>

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.bharathvishal.textfileviewer.test.textviewermodule-mergeDebugAndroidTestResources-73:/values-v17/values-v17.xml",
+            "outputFile": "com.bharathvishal.textfileviewer.test.textviewermodule-mergeDebugAndroidTestResources-72:/values-v17/values-v17.xml",
             "map": [
                 {
-                    "source": "/Users/bharathvishal/.gradle/caches/8.11.1/transforms/6d097dd5b92f85b17ae79213ea77b645/transformed/appcompat-1.7.0/res/values-v17/values-v17.xml",
+                    "source": "/Users/bharathvishal/.gradle/caches/8.13/transforms/8d567fc68da0172a6313aa73edc268e4/transformed/appcompat-1.7.1/res/values-v17/values-v17.xml",
                     "from": {
                         "startLines": "2,5,9,12,15,18,22,25,29,33,37,40,43,46,50,53,57",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

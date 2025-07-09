@@ -31,6 +31,7 @@
     <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Comparteix amb"</string>
     <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Comparteix amb <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
     <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Replega"</string>
+    <string msgid="389117264260014992" name="autofill">"Emplena automàticament"</string>
     <string name="bottomsheet_action_collapse">Replega el full inferior</string>
     <string name="bottomsheet_action_expand">Desplega el full inferior</string>
     <string name="bottomsheet_action_expand_halfway">Desplega fins a la meitat</string>
@@ -146,6 +147,7 @@
     <string name="material_timepicker_pm">p. m.</string>
     <string name="material_timepicker_select_time">Selecció de l\'hora</string>
     <string name="material_timepicker_text_input_mode_description">Canvia al mode d\'introducció de text per introduir l\'hora.</string>
+    <string msgid="2792228137354697160" name="mc2_snackbar_pane_title">"Alerta"</string>
     <string name="mtrl_badge_numberless_content_description">Notificació nova</string>
     <string name="mtrl_checkbox_state_description_checked">Marcat</string>
     <string name="mtrl_checkbox_state_description_indeterminate">Marcat parcialment</string>
@@ -201,6 +203,7 @@
     <string name="searchview_navigation_content_description">Enrere</string>
     <string msgid="6043586758067023" name="selected">"Seleccionat"</string>
     <string name="side_sheet_accessibility_pane_title">Panell lateral</string>
+    <string msgid="2792228137354697160" name="snackbar_pane_title">"Alerta"</string>
     <string msgid="4139871816613051306" name="state_empty">"Buit"</string>
     <string msgid="5834637030682409883" name="state_off">"Desactivat"</string>
     <string msgid="1490883874751719580" name="state_on">"Activat"</string>

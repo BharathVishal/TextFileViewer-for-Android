@@ -27,6 +27,7 @@
     <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Compartilhar com"</string>
     <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Compartilhar com <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
     <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Recolher"</string>
+    <string msgid="389117264260014992" name="autofill">"Preenchimento automático"</string>
     <string msgid="881409763997275156" name="call_notification_answer_action">"Atender"</string>
     <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Vídeo"</string>
     <string msgid="3229508546291798546" name="call_notification_decline_action">"Recusar"</string>
@@ -98,12 +99,14 @@
     <string msgid="6616362054113087709" name="m3c_time_picker_pm">"PM"</string>
     <string msgid="1805687647081129904" name="m3c_tooltip_long_press_label">"Mostrar dica"</string>
     <string msgid="5460405025248574620" name="m3c_tooltip_pane_description">"Dica"</string>
+    <string msgid="2792228137354697160" name="mc2_snackbar_pane_title">"Alerta"</string>
     <string msgid="542007171693138492" name="navigation_menu">"Menu de navegação"</string>
     <string msgid="6610465462668679431" name="not_selected">"Não selecionado"</string>
     <string msgid="5941395253238309765" name="range_end">"Fim do intervalo"</string>
     <string msgid="7097486360902471446" name="range_start">"Início do intervalo"</string>
     <string msgid="6264217191555673260" name="search_menu_title">"Pesquisar"</string>
     <string msgid="6043586758067023" name="selected">"Selecionado"</string>
+    <string msgid="2792228137354697160" name="snackbar_pane_title">"Alerta"</string>
     <string msgid="4139871816613051306" name="state_empty">"Vazio"</string>
     <string msgid="5834637030682409883" name="state_off">"Desativado"</string>
     <string msgid="1490883874751719580" name="state_on">"Ativado"</string>
