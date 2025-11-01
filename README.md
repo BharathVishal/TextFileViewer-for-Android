@@ -23,7 +23,7 @@ allprojects {
 
 ```gradle
 	dependencies {
-  	    implementation 'com.github.BharathVishal:TextFileViewerAndroid:1.4.5'
+  	    implementation 'com.github.BharathVishal:TextFileViewerAndroid:1.4.6'
 	}
   
   ```
@@ -97,13 +97,15 @@ TextReaderModule().setFileUri(uri).launchTextViewer()
 &nbsp;
 
 #### SDK Info : 
-Min SDK : 22  | Target SDK : 36 | Gradle : 8.11.0  | Kotlin | Jetpack Compose
+Min SDK : 22  | Target SDK : 36 | Gradle : 8.13.0  | Kotlin | Jetpack Compose
 
 &nbsp;
 
 
 #### Android Studio Version : 
-Android Studio Narwhal | 2025.1.1
+Android Studio Otter | 2025.2.1
+
+
 
 
 
