@@ -97,7 +97,7 @@ TextReaderModule().setFileUri(uri).launchTextViewer()
 &nbsp;
 
 #### SDK Info : 
-Min SDK : 22  | Target SDK : 36 | Gradle : 8.13.2  | Kotlin | Jetpack Compose
+Min SDK : 23  | Target SDK : 36 | Gradle : 8.13.2  | Kotlin | Jetpack Compose
 
 &nbsp;
 
