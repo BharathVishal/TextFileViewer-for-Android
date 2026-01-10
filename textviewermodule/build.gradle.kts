@@ -1,6 +1,8 @@
+import org.jetbrains.kotlin.gradle.dsl.JvmTarget
+
 /*
  *
- * Copyright 2023-2025 Bharath Vishal G
+ * Copyright 2023-2026 Bharath Vishal G
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -30,7 +32,7 @@ android {
         vectorDrawables {
             useSupportLibrary = true
         }
-        minSdk = 22
+        minSdk = 23
         testOptions.targetSdk = 36
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -51,9 +53,10 @@ android {
         sourceCompatibility = JavaVersion.VERSION_17
         targetCompatibility = JavaVersion.VERSION_17
     }
-
-    kotlinOptions {
-        jvmTarget = "17"
+    kotlin {
+        compilerOptions {
+            jvmTarget = JvmTarget.JVM_17
+        }
     }
     composeOptions {
         kotlinCompilerExtensionVersion = "1.5.15"
@@ -111,7 +114,7 @@ afterEvaluate {
                 from(components["release"])
                 groupId = "com.github.BharathVishal"
                 artifactId = "TextFileViewerAndroid"
-                version = "1.4.6"
+                version = "1.4.7"
             }
         }
     }

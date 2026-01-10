@@ -31,11 +31,11 @@
     <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Şununla paylaş:"</string>
     <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> ile paylaş"</string>
     <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Daralt"</string>
-    <string msgid="389117264260014992" name="autofill">"Otomatik doldurma"</string>
+    <string msgid="8719607706653693137" name="androidx_compose_foundation_autofill">"Otomatik doldurma"</string>
+    <string msgid="1150566100598813236" name="androidx_compose_ui_autofill">"Otomatik doldurma"</string>
     <string name="bottomsheet_action_collapse">Alt sayfayı daralt</string>
     <string name="bottomsheet_action_expand">Alt sayfayı genişlet</string>
     <string name="bottomsheet_action_expand_halfway">Yarım genişlet</string>
-    <string name="bottomsheet_drag_handle_clicked">Sürükleme tutamacına iki kez dokunuldu</string>
     <string name="bottomsheet_drag_handle_content_description">Sürükleme tutamacı</string>
     <string msgid="881409763997275156" name="call_notification_answer_action">"Yanıtla"</string>
     <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Video"</string>
@@ -77,6 +77,7 @@
     <string msgid="6827826412747255547" name="in_progress">"Devam ediyor"</string>
     <string msgid="7933458017204019916" name="indeterminate">"Kısmi olarak kontrol edildi"</string>
     <string name="item_view_role_description">Sekme</string>
+    <string name="m3_loading_indicator_content_description">Yükleniyor</string>
     <string msgid="2988463736136100848" name="m3c_bottom_sheet_collapse_description">"Alt sayfayı daralt"</string>
     <string msgid="1555567894577437024" name="m3c_bottom_sheet_dismiss_description">"Alt sayfayı kapat"</string>
     <string msgid="8403354765404029791" name="m3c_bottom_sheet_drag_handle_description">"Sürükleme tutamacı"</string>
@@ -117,10 +118,15 @@
     <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"Daraltıldı"</string>
     <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"Genişletildi"</string>
     <string msgid="8687821690726149911" name="m3c_dropdown_menu_toggle">"Açılır menüyü açın/kapatın"</string>
+    <string msgid="6072492480528318635" name="m3c_floating_toolbar_collapse">"Araç çubuğunu daralt"</string>
+    <string msgid="6880757017246780255" name="m3c_floating_toolbar_expand">"Araç çubuğunu genişlet"</string>
     <string msgid="6152806324422087846" name="m3c_search_bar_search">"Arama"</string>
     <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"Kapat"</string>
+    <string msgid="3868801555855510515" name="m3c_snackbar_pane_title">"Uyarı"</string>
     <string msgid="7655536806087401899" name="m3c_suggestions_available">"Önerileri aşağıda bulabilirsiniz"</string>
+    <string msgid="409352516511718051" name="m3c_time_input_dialog_title">"Saat Girin"</string>
     <string msgid="2786685010796619560" name="m3c_time_picker_am">"ÖÖ"</string>
+    <string msgid="7412665527536641863" name="m3c_time_picker_dialog_title">"Saat Seçin"</string>
     <string msgid="2349193472625211372" name="m3c_time_picker_hour">"Saat"</string>
     <string msgid="9179527532316922345" name="m3c_time_picker_hour_24h_suffix">"%1$d saat"</string>
     <string msgid="8876759303332837035" name="m3c_time_picker_hour_selection">"Saat seçin"</string>
@@ -132,14 +138,21 @@
     <string msgid="7661234488295443182" name="m3c_time_picker_minute_text_field">"dakika"</string>
     <string msgid="5865171949528594571" name="m3c_time_picker_period_toggle_description">"ÖÖ veya ÖS\'yi seçin"</string>
     <string msgid="6616362054113087709" name="m3c_time_picker_pm">"ÖS"</string>
+    <string msgid="4145073906612931838" name="m3c_time_picker_toggle_keyboard">"Saat girmek için metin giriş moduna geç"</string>
+    <string msgid="8841786098195101324" name="m3c_time_picker_toggle_touch">"Saati girmek için saat moduna geç"</string>
     <string msgid="1805687647081129904" name="m3c_tooltip_long_press_label">"Araç ipucunu göster"</string>
     <string msgid="5460405025248574620" name="m3c_tooltip_pane_description">"İpucu"</string>
+    <string msgid="6564222473543418073" name="m3c_wide_navigation_rail_close_rail">"Sütunu kapat"</string>
+    <string msgid="8350283435461615411" name="m3c_wide_navigation_rail_pane_title">"Gezinme sütunu"</string>
     <string name="material_clock_toggle_content_description">ÖÖ veya ÖS\'yi seçin</string>
     <string name="material_hour_24h_suffix">%1$s saat</string>
     <string name="material_hour_selection">Saat seçin</string>
     <string name="material_hour_suffix">Saat %1$s</string>
     <string name="material_minute_selection">Dakikayı seçin</string>
     <string name="material_minute_suffix">%1$s dakika</string>
+    <string name="material_slider_range_end">Aralık sonu</string>
+    <string name="material_slider_range_start">Aralık başlangıcı</string>
+    <string name="material_slider_value">Değer</string>
     <string name="material_timepicker_am">AM</string>
     <string name="material_timepicker_clock_mode_description">Zaman girişi için saat moduna geçin.</string>
     <string name="material_timepicker_hour">Saat</string>
@@ -147,7 +160,7 @@
     <string name="material_timepicker_pm">PM</string>
     <string name="material_timepicker_select_time">Zamanı seçin</string>
     <string name="material_timepicker_text_input_mode_description">Zaman girişi için metin girişi moduna geçin.</string>
-    <string msgid="2792228137354697160" name="mc2_snackbar_pane_title">"Uyarı"</string>
+    <string msgid="8471891128988107974" name="mc2_snackbar_pane_title">"Uyarı"</string>
     <string name="mtrl_badge_numberless_content_description">Yeni bildirim</string>
     <string name="mtrl_checkbox_state_description_checked">İşaretlendi</string>
     <string name="mtrl_checkbox_state_description_indeterminate">Kısmi olarak işaretlendi</string>
@@ -188,9 +201,11 @@
     <string name="mtrl_picker_text_input_year_abbr">y</string>
     <string name="mtrl_picker_today_description">Bugün, %1$s</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Takvim giriş moduna geç</string>
-    <string name="mtrl_picker_toggle_to_day_selection">Takvim görünümüne geçmek için dokunun</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Takvim görünümüne geç</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Metin giriş moduna geç</string>
-    <string name="mtrl_picker_toggle_to_year_selection">Yıl görünümüne geçmek için dokunun</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Yıl görünümüne geç</string>
+    <string name="mtrl_picker_toggled_to_day_selection">Takvim görünümüne geçildi</string>
+    <string name="mtrl_picker_toggled_to_year_selection">Yıl görünümüne geçildi</string>
     <string name="mtrl_timepicker_cancel">İptal</string>
     <string name="mtrl_timepicker_confirm">Tamam</string>
     <string msgid="542007171693138492" name="navigation_menu">"Gezinme menüsü"</string>

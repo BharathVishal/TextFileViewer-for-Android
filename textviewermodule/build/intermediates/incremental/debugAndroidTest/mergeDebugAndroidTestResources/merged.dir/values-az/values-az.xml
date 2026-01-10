@@ -31,11 +31,11 @@
     <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Paylaşın"</string>
     <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> ilə paylaşın"</string>
     <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Yığcamlaşdırın"</string>
-    <string msgid="389117264260014992" name="autofill">"Avto-doldurma"</string>
+    <string msgid="8719607706653693137" name="androidx_compose_foundation_autofill">"Avto-doldurma"</string>
+    <string msgid="1150566100598813236" name="androidx_compose_ui_autofill">"Avto-doldurma"</string>
     <string name="bottomsheet_action_collapse">Aşağıdakı vərəqi yığcamlaşdırın</string>
     <string name="bottomsheet_action_expand">Aşağıdakı vərəqi genişləndirin</string>
     <string name="bottomsheet_action_expand_halfway">Tam genişləndirin</string>
-    <string name="bottomsheet_drag_handle_clicked">Dəstəyə iki dəfə toxunun</string>
     <string name="bottomsheet_drag_handle_content_description">Dəstək</string>
     <string msgid="881409763997275156" name="call_notification_answer_action">"Cavab verin"</string>
     <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Video"</string>
@@ -77,6 +77,7 @@
     <string msgid="6827826412747255547" name="in_progress">"Davam edir"</string>
     <string msgid="7933458017204019916" name="indeterminate">"Qismən yoxlanıb"</string>
     <string name="item_view_role_description">Tab</string>
+    <string name="m3_loading_indicator_content_description">Yüklənir</string>
     <string msgid="2988463736136100848" name="m3c_bottom_sheet_collapse_description">"Aşağıdakı vərəqi yığcamlaşdırın"</string>
     <string msgid="1555567894577437024" name="m3c_bottom_sheet_dismiss_description">"Aşağıdakı vərəqi rədd edin"</string>
     <string msgid="8403354765404029791" name="m3c_bottom_sheet_drag_handle_description">"Dəstəyi çəkin"</string>
@@ -117,10 +118,15 @@
     <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"Yığcamlaşdırılıb"</string>
     <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"Genişləndirilb"</string>
     <string msgid="8687821690726149911" name="m3c_dropdown_menu_toggle">"Aşağı açılan menyunu aktiv/deaktiv edin"</string>
+    <string msgid="6072492480528318635" name="m3c_floating_toolbar_collapse">"Alətlər panelini yığcamlaşdırın"</string>
+    <string msgid="6880757017246780255" name="m3c_floating_toolbar_expand">"Alətlər panelini genişləndirin"</string>
     <string msgid="6152806324422087846" name="m3c_search_bar_search">"Axtarış"</string>
     <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"Rədd edin"</string>
+    <string msgid="3868801555855510515" name="m3c_snackbar_pane_title">"Xəbərdarlıq"</string>
     <string msgid="7655536806087401899" name="m3c_suggestions_available">"Təkliflər aşağıdadır"</string>
+    <string msgid="409352516511718051" name="m3c_time_input_dialog_title">"Vaxt daxil edin"</string>
     <string msgid="2786685010796619560" name="m3c_time_picker_am">"AM"</string>
+    <string msgid="7412665527536641863" name="m3c_time_picker_dialog_title">"Vaxt seçin"</string>
     <string msgid="2349193472625211372" name="m3c_time_picker_hour">"Saat"</string>
     <string msgid="9179527532316922345" name="m3c_time_picker_hour_24h_suffix">"%1$d saat"</string>
     <string msgid="8876759303332837035" name="m3c_time_picker_hour_selection">"Saat seçin"</string>
@@ -132,14 +138,21 @@
     <string msgid="7661234488295443182" name="m3c_time_picker_minute_text_field">"dəqiqəlik"</string>
     <string msgid="5865171949528594571" name="m3c_time_picker_period_toggle_description">"AM və ya PM seçin"</string>
     <string msgid="6616362054113087709" name="m3c_time_picker_pm">"PM"</string>
+    <string msgid="4145073906612931838" name="m3c_time_picker_toggle_keyboard">"Vaxtı daxil etmək üçün mətn daxiletmə rejiminə keçin"</string>
+    <string msgid="8841786098195101324" name="m3c_time_picker_toggle_touch">"Vaxtı daxil etmək üçün saat rejiminə keçin"</string>
     <string msgid="1805687647081129904" name="m3c_tooltip_long_press_label">"Alət izahını göstərin"</string>
     <string msgid="5460405025248574620" name="m3c_tooltip_pane_description">"Alət izahı"</string>
+    <string msgid="6564222473543418073" name="m3c_wide_navigation_rail_close_rail">"Relsi bağlayın"</string>
+    <string msgid="8350283435461615411" name="m3c_wide_navigation_rail_pane_title">"Naviqasiya relsi"</string>
     <string name="material_clock_toggle_content_description">Gündüz və ya axşam seçin</string>
     <string name="material_hour_24h_suffix">%1$s saat</string>
     <string name="material_hour_selection">Saatı seçin</string>
     <string name="material_hour_suffix">Saat %1$s</string>
     <string name="material_minute_selection">Dəqiqə seçin</string>
     <string name="material_minute_suffix">%1$s dəqiqə</string>
+    <string name="material_slider_range_end">Sıranın sonu</string>
+    <string name="material_slider_range_start">Sıranın başlanğıcı</string>
+    <string name="material_slider_value">Dəyər</string>
     <string name="material_timepicker_am">AM</string>
     <string name="material_timepicker_clock_mode_description">Zamanı daxil etmək üçün saat rejiminə keçin</string>
     <string name="material_timepicker_hour">Saat</string>
@@ -147,7 +160,7 @@
     <string name="material_timepicker_pm">GƏ</string>
     <string name="material_timepicker_select_time">Vaxt seçin</string>
     <string name="material_timepicker_text_input_mode_description">Zamanı daxil etmək üçün mətnlə daxiletmə rejiminə keçin</string>
-    <string msgid="2792228137354697160" name="mc2_snackbar_pane_title">"Xəbərdarlıq"</string>
+    <string msgid="8471891128988107974" name="mc2_snackbar_pane_title">"Xəbərdarlıq"</string>
     <string name="mtrl_badge_numberless_content_description">Yeni bildiriş</string>
     <string name="mtrl_checkbox_state_description_checked">İşarələnib</string>
     <string name="mtrl_checkbox_state_description_indeterminate">Qismən işarələnib</string>
@@ -188,9 +201,11 @@
     <string name="mtrl_picker_text_input_year_abbr">il</string>
     <string name="mtrl_picker_today_description">Bugün: %1$s</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Təqvim daxiletmə rejiminə keçin</string>
-    <string name="mtrl_picker_toggle_to_day_selection">Təqvim görünüşünə keçirmək üçün toxunun</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Təqvim görünüşünə dəyişin</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Mətn daxiletmə rejiminə keçin</string>
-    <string name="mtrl_picker_toggle_to_year_selection">İl görünüşünə keçirmək üçün toxunun</string>
+    <string name="mtrl_picker_toggle_to_year_selection">İl görünüşünə dəyişin</string>
+    <string name="mtrl_picker_toggled_to_day_selection">Təqvim görünüşünə keçildi</string>
+    <string name="mtrl_picker_toggled_to_year_selection">İl görünüşünə keçildi</string>
     <string name="mtrl_timepicker_cancel">Ləğv edin</string>
     <string name="mtrl_timepicker_confirm">OK</string>
     <string msgid="542007171693138492" name="navigation_menu">"Naviqasiya menyusu"</string>

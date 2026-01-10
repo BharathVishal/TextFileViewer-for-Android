@@ -33,11 +33,11 @@
     <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Udostępnij przez:"</string>
     <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Udostępnij przez: <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
     <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Zwiń"</string>
-    <string msgid="389117264260014992" name="autofill">"Autouzupełnianie"</string>
+    <string msgid="8719607706653693137" name="androidx_compose_foundation_autofill">"Autouzupełnianie"</string>
+    <string msgid="1150566100598813236" name="androidx_compose_ui_autofill">"Autouzupełnianie"</string>
     <string name="bottomsheet_action_collapse">Zwiń planszę dolną</string>
     <string name="bottomsheet_action_expand">Rozwiń planszę dolną</string>
     <string name="bottomsheet_action_expand_halfway">Rozwiń do połowy</string>
-    <string name="bottomsheet_drag_handle_clicked">Dwukrotnie kliknięto uchwyt do przeciągania</string>
     <string name="bottomsheet_drag_handle_content_description">Uchwyt do przeciągania</string>
     <string msgid="881409763997275156" name="call_notification_answer_action">"Odbierz"</string>
     <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Wideo"</string>
@@ -79,6 +79,7 @@
     <string msgid="6827826412747255547" name="in_progress">"W toku"</string>
     <string msgid="7933458017204019916" name="indeterminate">"Częściowo zaznaczone"</string>
     <string name="item_view_role_description">Karta</string>
+    <string name="m3_loading_indicator_content_description">Wczytuję</string>
     <string msgid="2988463736136100848" name="m3c_bottom_sheet_collapse_description">"Zwiń planszę dolną"</string>
     <string msgid="1555567894577437024" name="m3c_bottom_sheet_dismiss_description">"Zamknij planszę dolną"</string>
     <string msgid="8403354765404029791" name="m3c_bottom_sheet_drag_handle_description">"Uchwyt do przeciągania"</string>
@@ -119,10 +120,15 @@
     <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"Zwinięte"</string>
     <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"Rozwinięte"</string>
     <string msgid="8687821690726149911" name="m3c_dropdown_menu_toggle">"Pokaż lub ukryj menu"</string>
+    <string msgid="6072492480528318635" name="m3c_floating_toolbar_collapse">"Zwiń pasek narzędzi"</string>
+    <string msgid="6880757017246780255" name="m3c_floating_toolbar_expand">"Rozwiń pasek narzędzi"</string>
     <string msgid="6152806324422087846" name="m3c_search_bar_search">"Szukaj"</string>
     <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"Zamknij"</string>
+    <string msgid="3868801555855510515" name="m3c_snackbar_pane_title">"Alert"</string>
     <string msgid="7655536806087401899" name="m3c_suggestions_available">"Sugestie znajdziesz poniżej"</string>
+    <string msgid="409352516511718051" name="m3c_time_input_dialog_title">"Wpisz godzinę"</string>
     <string msgid="2786685010796619560" name="m3c_time_picker_am">"AM"</string>
+    <string msgid="7412665527536641863" name="m3c_time_picker_dialog_title">"Wybierz godzinę"</string>
     <string msgid="2349193472625211372" name="m3c_time_picker_hour">"Godzina"</string>
     <string msgid="9179527532316922345" name="m3c_time_picker_hour_24h_suffix">"%1$d"</string>
     <string msgid="8876759303332837035" name="m3c_time_picker_hour_selection">"Wybierz godzinę"</string>
@@ -134,14 +140,21 @@
     <string msgid="7661234488295443182" name="m3c_time_picker_minute_text_field">"aby wpisać minuty"</string>
     <string msgid="5865171949528594571" name="m3c_time_picker_period_toggle_description">"Wybierz AM lub PM"</string>
     <string msgid="6616362054113087709" name="m3c_time_picker_pm">"PM"</string>
+    <string msgid="4145073906612931838" name="m3c_time_picker_toggle_keyboard">"Aby podać czas, włącz tryb wprowadzania tekstu"</string>
+    <string msgid="8841786098195101324" name="m3c_time_picker_toggle_touch">"Aby podać czas, włącz tryb zegara"</string>
     <string msgid="1805687647081129904" name="m3c_tooltip_long_press_label">"Pokaż etykietkę"</string>
     <string msgid="5460405025248574620" name="m3c_tooltip_pane_description">"Etykietka"</string>
+    <string msgid="6564222473543418073" name="m3c_wide_navigation_rail_close_rail">"Zamknij kolumnę"</string>
+    <string msgid="8350283435461615411" name="m3c_wide_navigation_rail_pane_title">"Kolumna nawigacji"</string>
     <string name="material_clock_toggle_content_description">Wybierz: przed południem czy po południu</string>
     <string name="material_hour_24h_suffix">%1$s godz.</string>
     <string name="material_hour_selection">Wybierz godzinę</string>
     <string name="material_hour_suffix">%1$s</string>
     <string name="material_minute_selection">Wybierz minuty</string>
     <string name="material_minute_suffix">%1$s minut</string>
+    <string name="material_slider_range_end">Koniec zakresu</string>
+    <string name="material_slider_range_start">Początek zakresu</string>
+    <string name="material_slider_value">Wartość</string>
     <string name="material_timepicker_am">AM</string>
     <string name="material_timepicker_clock_mode_description">Aby wprowadzić czas, włącz tryb zegara.</string>
     <string name="material_timepicker_hour">Godzina</string>
@@ -149,7 +162,7 @@
     <string name="material_timepicker_pm">PM</string>
     <string name="material_timepicker_select_time">Określ czas</string>
     <string name="material_timepicker_text_input_mode_description">Aby wprowadzić czas, włącz tryb wprowadzania tekstu.</string>
-    <string msgid="2792228137354697160" name="mc2_snackbar_pane_title">"Alert"</string>
+    <string msgid="8471891128988107974" name="mc2_snackbar_pane_title">"Alert"</string>
     <string name="mtrl_badge_numberless_content_description">Nowe powiadomienie</string>
     <string name="mtrl_checkbox_state_description_checked">Zaznaczono</string>
     <string name="mtrl_checkbox_state_description_indeterminate">Częściowo zaznaczono</string>
@@ -190,9 +203,11 @@
     <string name="mtrl_picker_text_input_year_abbr">r</string>
     <string name="mtrl_picker_today_description">Dzisiaj %1$s</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Włącz kalendarzowy tryb wprowadzania</string>
-    <string name="mtrl_picker_toggle_to_day_selection">Kliknij, aby przełączyć się na widok kalendarza</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Przełącz na widok kalendarza</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Włącz tekstowy tryb wprowadzania</string>
-    <string name="mtrl_picker_toggle_to_year_selection">Kliknij, aby przełączyć się na widok roku</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Przełącz na widok roku</string>
+    <string name="mtrl_picker_toggled_to_day_selection">Przełączono na widok Kalendarza</string>
+    <string name="mtrl_picker_toggled_to_year_selection">Przełączono na widok roku</string>
     <string name="mtrl_timepicker_cancel">Anuluj</string>
     <string name="mtrl_timepicker_confirm">OK</string>
     <string msgid="542007171693138492" name="navigation_menu">"Menu nawigacyjne"</string>

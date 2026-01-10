@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.bharathvishal.textfileviewer.test.textviewermodule-mergeDebugAndroidTestResources-61:/values-night-v33/values-night-v33.xml",
+            "map": [
+                {
+                    "source": "/Users/bharathvishal/.gradle/caches/8.13/transforms/6268e1b0fcc9aeb3fd04807adecd147f/transformed/jetified-core-splashscreen-1.2.0/res/values-night-v33/values-night-v33.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "215"
+                    }
+                }
+            ]
+        }
+    ]
+}

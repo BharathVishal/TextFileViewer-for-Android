@@ -210,6 +210,10 @@
     <color name="material_dynamic_tertiary90">@color/m3_ref_palette_dynamic_tertiary90</color>
     <color name="material_dynamic_tertiary95">@color/m3_ref_palette_dynamic_tertiary95</color>
     <color name="material_dynamic_tertiary99">@color/m3_ref_palette_dynamic_tertiary99</color>
+    <style name="Base.Theme.SplashScreen" parent="android:Theme.DeviceDefault.DayNight">
+        <item name="android:enforceNavigationBarContrast">true</item>
+        <item name="isLightTheme">?android:attr/isLightTheme</item>
+    </style>
     <style name="Theme.Material3.DynamicColors.Dark" parent="Theme.Material3.Dark">
     <item name="isMaterial3DynamicColorApplied">true</item>
 

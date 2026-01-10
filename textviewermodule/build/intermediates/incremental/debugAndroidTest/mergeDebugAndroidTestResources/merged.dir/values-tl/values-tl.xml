@@ -31,11 +31,11 @@
     <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Ibahagi sa/kay"</string>
     <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Ibahagi gamit ang <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
     <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"I-collapse"</string>
-    <string msgid="389117264260014992" name="autofill">"Autofill"</string>
+    <string msgid="8719607706653693137" name="androidx_compose_foundation_autofill">"Autofill"</string>
+    <string msgid="1150566100598813236" name="androidx_compose_ui_autofill">"Autofill"</string>
     <string name="bottomsheet_action_collapse">I-collapse ang bottom sheet</string>
     <string name="bottomsheet_action_expand">I-expand ang bottom sheet</string>
     <string name="bottomsheet_action_expand_halfway">I-expand hanggang gitna</string>
-    <string name="bottomsheet_drag_handle_clicked">Na-double tap ang handle sa pag-drag</string>
     <string name="bottomsheet_drag_handle_content_description">I-drag ang handle</string>
     <string msgid="881409763997275156" name="call_notification_answer_action">"Sagutin"</string>
     <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Video"</string>
@@ -77,6 +77,7 @@
     <string msgid="6827826412747255547" name="in_progress">"Isinasagawa"</string>
     <string msgid="7933458017204019916" name="indeterminate">"Bahagyang may check"</string>
     <string name="item_view_role_description">Tab</string>
+    <string name="m3_loading_indicator_content_description">Naglo-load</string>
     <string msgid="2988463736136100848" name="m3c_bottom_sheet_collapse_description">"I-collapse ang bottom sheet"</string>
     <string msgid="1555567894577437024" name="m3c_bottom_sheet_dismiss_description">"I-dismiss ang bottom sheet"</string>
     <string msgid="8403354765404029791" name="m3c_bottom_sheet_drag_handle_description">"Handle sa pag-drag"</string>
@@ -117,10 +118,15 @@
     <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"Naka-collapse"</string>
     <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"Naka-expand"</string>
     <string msgid="8687821690726149911" name="m3c_dropdown_menu_toggle">"I-toggle ang dropdown menu"</string>
+    <string msgid="6072492480528318635" name="m3c_floating_toolbar_collapse">"I-collapse ang toolbar"</string>
+    <string msgid="6880757017246780255" name="m3c_floating_toolbar_expand">"I-expand ang toolbar"</string>
     <string msgid="6152806324422087846" name="m3c_search_bar_search">"Maghanap"</string>
     <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"I-dismiss"</string>
+    <string msgid="3868801555855510515" name="m3c_snackbar_pane_title">"Alerto"</string>
     <string msgid="7655536806087401899" name="m3c_suggestions_available">"Mga suhestyon sa ibaba"</string>
+    <string msgid="409352516511718051" name="m3c_time_input_dialog_title">"Maglagay ng Oras"</string>
     <string msgid="2786685010796619560" name="m3c_time_picker_am">"AM"</string>
+    <string msgid="7412665527536641863" name="m3c_time_picker_dialog_title">"Pumili ng Oras"</string>
     <string msgid="2349193472625211372" name="m3c_time_picker_hour">"Oras"</string>
     <string msgid="9179527532316922345" name="m3c_time_picker_hour_24h_suffix">"%1$d oras"</string>
     <string msgid="8876759303332837035" name="m3c_time_picker_hour_selection">"Pumili ng oras"</string>
@@ -132,14 +138,21 @@
     <string msgid="7661234488295443182" name="m3c_time_picker_minute_text_field">"nang ilang minuto"</string>
     <string msgid="5865171949528594571" name="m3c_time_picker_period_toggle_description">"Piliin ang AM o PM"</string>
     <string msgid="6616362054113087709" name="m3c_time_picker_pm">"PM"</string>
+    <string msgid="4145073906612931838" name="m3c_time_picker_toggle_keyboard">"Lumipat sa pamamaraan ng pag-input ng text para sa pag-input ng oras"</string>
+    <string msgid="8841786098195101324" name="m3c_time_picker_toggle_touch">"Lumipat sa clock mode para sa pag-input ng oras."</string>
     <string msgid="1805687647081129904" name="m3c_tooltip_long_press_label">"Ipakita ang tooltip"</string>
     <string msgid="5460405025248574620" name="m3c_tooltip_pane_description">"Tooltip"</string>
+    <string msgid="6564222473543418073" name="m3c_wide_navigation_rail_close_rail">"Isara ang rail"</string>
+    <string msgid="8350283435461615411" name="m3c_wide_navigation_rail_pane_title">"Navigation rail"</string>
     <string name="material_clock_toggle_content_description">Piliin ang AM o PM</string>
     <string name="material_hour_24h_suffix">%1$s (na) oras</string>
     <string name="material_hour_selection">Pumili ng oras</string>
     <string name="material_hour_suffix">%1$s o\'clock</string>
     <string name="material_minute_selection">Pumili ng mga minuto</string>
     <string name="material_minute_suffix">%1$s (na) minuto</string>
+    <string name="material_slider_range_end">Dulo ng sakop</string>
+    <string name="material_slider_range_start">Simula ng sakop</string>
+    <string name="material_slider_value">Value</string>
     <string name="material_timepicker_am">AM</string>
     <string name="material_timepicker_clock_mode_description">Lumipat sa mode ng orasan para sa input na oras.</string>
     <string name="material_timepicker_hour">Oras</string>
@@ -147,7 +160,7 @@
     <string name="material_timepicker_pm">PM</string>
     <string name="material_timepicker_select_time">Pumili ng oras</string>
     <string name="material_timepicker_text_input_mode_description">Lumipat sa pamamaraan ng pag-input ng text para sa input na oras.</string>
-    <string msgid="2792228137354697160" name="mc2_snackbar_pane_title">"Alerto"</string>
+    <string msgid="8471891128988107974" name="mc2_snackbar_pane_title">"Alerto"</string>
     <string name="mtrl_badge_numberless_content_description">Bagong notification</string>
     <string name="mtrl_checkbox_state_description_checked">May check</string>
     <string name="mtrl_checkbox_state_description_indeterminate">Bahagyang may check</string>
@@ -188,9 +201,11 @@
     <string name="mtrl_picker_text_input_year_abbr">y</string>
     <string name="mtrl_picker_today_description">Ngayon %1$s</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Lumipat sa pamamaraan ng pag-input ng kalendaryo</string>
-    <string name="mtrl_picker_toggle_to_day_selection">I-tap para lumipat sa view ng Kalendaryo</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Lumipat sa view ng Kalendaryo</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Lumipat sa pamamaraan ng pag-input ng text</string>
-    <string name="mtrl_picker_toggle_to_year_selection">I-tap para lumipat sa view ng taon</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Lumipat sa view ng taon</string>
+    <string name="mtrl_picker_toggled_to_day_selection">Lumipat sa view ng Kalendaryo</string>
+    <string name="mtrl_picker_toggled_to_year_selection">Lumipat sa view ng taon</string>
     <string name="mtrl_timepicker_cancel">Kanselahin</string>
     <string name="mtrl_timepicker_confirm">OK</string>
     <string msgid="542007171693138492" name="navigation_menu">"Menu ng navigation"</string>

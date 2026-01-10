@@ -17,7 +17,7 @@
 17<manifest xmlns:android="http://schemas.android.com/apk/res/android"
 18    package="com.bharathvishal.textfileviewer" >
 19
-20    <uses-sdk android:minSdkVersion="22" />
+20    <uses-sdk android:minSdkVersion="23" />
 21
 22    <application>
 22-->/Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:18:5-57:19

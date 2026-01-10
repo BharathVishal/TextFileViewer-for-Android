@@ -1,10 +1,29 @@
 {
     "logs": [
         {
-            "outputFile": "com.bharathvishal.textfileviewer.test.textviewermodule-mergeDebugAndroidTestResources-72:/values-v30/values-v30.xml",
+            "outputFile": "com.bharathvishal.textfileviewer.test.textviewermodule-mergeDebugAndroidTestResources-61:/values-v30/values-v30.xml",
             "map": [
                 {
-                    "source": "/Users/bharathvishal/.gradle/caches/8.13/transforms/7a56f878655efe7f5c5fc59c1cf52ad4/transformed/jetified-material3-release/res/values-v30/values-v30.xml",
+                    "source": "/Users/bharathvishal/.gradle/caches/8.13/transforms/6268e1b0fcc9aeb3fd04807adecd147f/transformed/jetified-core-splashscreen-1.2.0/res/values-v30/values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "433"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "128",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "506"
+                    }
+                },
+                {
+                    "source": "/Users/bharathvishal/.gradle/caches/8.13/transforms/0485fae25b1fa15833975308a1bc5f58/transformed/jetified-material3/res/values-v30/values-v30.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
