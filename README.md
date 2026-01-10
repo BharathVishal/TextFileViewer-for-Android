@@ -97,13 +97,13 @@ TextReaderModule().setFileUri(uri).launchTextViewer()
 &nbsp;
 
 #### SDK Info : 
-Min SDK : 22  | Target SDK : 36 | Gradle : 8.13.0  | Kotlin | Jetpack Compose
+Min SDK : 22  | Target SDK : 36 | Gradle : 8.13.2  | Kotlin | Jetpack Compose
 
 &nbsp;
 
 
 #### Android Studio Version : 
-Android Studio Otter | 2025.2.1
+Android Studio Otter 2 Feature Drop | 2025.2.2 Patch 1
 
 
 
@@ -122,6 +122,6 @@ Android is a trademark of Google LLC.
 &nbsp;
 &nbsp;
 
-© 2023-2025. Developed by Bharath Vishal G (https://github.com/BharathVishal).
+© 2023-2026. Developed by Bharath Vishal G (https://github.com/BharathVishal).
 
 Thank you. :slightly_smiling_face:
