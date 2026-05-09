@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.bharathvishal.textfileviewer.textviewermodule-release-58:/color-night-v8/material_timepicker_modebutton_tint.xml",
+        "source": "com.bharathvishal.textfileviewer.textviewermodule-material-1.13.0-47:/color-night-v8/material_timepicker_modebutton_tint.xml"
+    },
+    {
+        "merged": "com.bharathvishal.textfileviewer.textviewermodule-release-58:/color-night-v8/material_timepicker_clockface.xml",
+        "source": "com.bharathvishal.textfileviewer.textviewermodule-material-1.13.0-47:/color-night-v8/material_timepicker_clockface.xml"
+    },
+    {
+        "merged": "com.bharathvishal.textfileviewer.textviewermodule-release-58:/color-night-v8/material_timepicker_button_stroke.xml",
+        "source": "com.bharathvishal.textfileviewer.textviewermodule-material-1.13.0-47:/color-night-v8/material_timepicker_button_stroke.xml"
+    }
+]

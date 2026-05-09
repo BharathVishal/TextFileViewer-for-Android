@@ -1,0 +1,402 @@
+# compiler: R8
+# compiler_version: 9.2.14
+# common_typos_disable
+# {"id":"com.android.tools.r8.mapping","version":"2.2"}
+# pg_map_id: 4a9dbf042af421c95f8fa35b673d5682d0dc90b65e5147e6f1d433341416d9d5
+# pg_map_hash: SHA-256 4a9dbf042af421c95f8fa35b673d5682d0dc90b65e5147e6f1d433341416d9d5
+com.bharathvishal.textfileviewer.Activities.ComposableSingletons$TextViewMainActivityKt -> com.bharathvishal.textfileviewer.Activities.a:
+# {"id":"sourceFile","fileName":"TextViewMainActivity.kt"}
+    kotlin.jvm.functions.Function2 lambda$-1565490422 -> a
+      # {"id":"com.android.tools.r8.residualsignature","signature":"Landroidx/compose/runtime/internal/ComposableLambda;"}
+    1:1:void <clinit>():332:332 -> <clinit>
+    1:1:kotlin.Unit lambda__1565490422$lambda$0(androidx.compose.runtime.Composer,int):333:333 -> a
+    2:4:kotlin.Unit lambda__1565490422$lambda$0(androidx.compose.runtime.Composer,int):332:334 -> a
+com.bharathvishal.textfileviewer.Activities.ExampleActivityJava -> com.bharathvishal.textfileviewer.Activities.ExampleActivityJava:
+# {"id":"sourceFile","fileName":"ExampleActivityJava.java"}
+    1:1:void <init>():35:35 -> <init>
+    1:6:void onCreate(android.os.Bundle):39:44 -> onCreate
+com.bharathvishal.textfileviewer.Activities.ExampleActivityKotlinCompose -> com.bharathvishal.textfileviewer.Activities.ExampleActivityKotlinCompose:
+# {"id":"sourceFile","fileName":"ExampleActivityKotlinCompose.kt"}
+    1:1:void <init>():42:42 -> <init>
+    1:1:kotlin.Unit TextViewHere$lambda$0(com.bharathvishal.textfileviewer.Activities.ExampleActivityKotlinCompose,int,androidx.compose.runtime.Composer,int):0:0 -> a
+    2:2:kotlin.Unit onCreate$lambda$0(com.bharathvishal.textfileviewer.Activities.ExampleActivityKotlinCompose,androidx.compose.runtime.Composer,int):47:47 -> a
+    3:12:kotlin.Unit onCreate$lambda$0(com.bharathvishal.textfileviewer.Activities.ExampleActivityKotlinCompose,androidx.compose.runtime.Composer,int):46:55 -> a
+    13:24:void TextViewHere(androidx.compose.runtime.Composer,int):63:74 -> a
+    25:26:void TextViewHere(androidx.compose.runtime.Composer,int):68:69 -> a
+    27:27:void TextViewHere(androidx.compose.runtime.Composer,int):64:64 -> a
+    28:37:void TextViewHere(androidx.compose.runtime.Composer,int):63:72 -> a
+    1:2:kotlin.Unit onCreate$lambda$0$0(com.bharathvishal.textfileviewer.Activities.ExampleActivityKotlinCompose,androidx.compose.runtime.Composer,int):50:51 -> b
+    3:3:kotlin.Unit onCreate$lambda$0$0(com.bharathvishal.textfileviewer.Activities.ExampleActivityKotlinCompose,androidx.compose.runtime.Composer,int):49:49 -> b
+    4:11:kotlin.Unit onCreate$lambda$0$0(com.bharathvishal.textfileviewer.Activities.ExampleActivityKotlinCompose,androidx.compose.runtime.Composer,int):47:54 -> b
+    1:1:kotlin.Unit onCreate$lambda$0$0$0(com.bharathvishal.textfileviewer.Activities.ExampleActivityKotlinCompose,androidx.compose.runtime.Composer,int):52:52 -> c
+    2:4:kotlin.Unit onCreate$lambda$0$0$0(com.bharathvishal.textfileviewer.Activities.ExampleActivityKotlinCompose,androidx.compose.runtime.Composer,int):51:53 -> c
+    1:15:void onCreate(android.os.Bundle):44:58 -> onCreate
+com.bharathvishal.textfileviewer.Activities.TextViewMainActivity -> com.bharathvishal.textfileviewer.Activities.TextViewMainActivity:
+# {"id":"sourceFile","fileName":"TextViewMainActivity.kt"}
+    kotlinx.coroutines.CoroutineScope $$delegate_0 -> a
+    androidx.compose.runtime.snapshots.SnapshotStateList textLineListSnapShot -> b
+    android.content.Context mContext -> c
+      # {"id":"com.android.tools.r8.residualsignature","signature":"Lcom/bharathvishal/textfileviewer/Activities/TextViewMainActivity;"}
+    boolean showLineNumber -> d
+    boolean showLineLength -> e
+    boolean isFileTypeUri -> f
+    java.lang.String fileToOpen -> g
+    android.net.Uri fileToOpenUri -> h
+    androidx.compose.runtime.MutableState fileNameTextFile -> i
+    androidx.compose.runtime.MutableState showProgressBar -> j
+    androidx.activity.result.ActivityResultLauncher resultLauncherPickTextFile -> k
+    1:14:void <init>():58:71 -> <init>
+    1:1:kotlin.Unit ComposableCardViewApp$lambda$1(com.bharathvishal.textfileviewer.Activities.TextViewMainActivity,java.lang.String,int,androidx.compose.runtime.Composer,int):0:0 -> a
+    2:2:kotlin.Unit ComposableCardViewApp$lambda$3(com.bharathvishal.textfileviewer.Activities.TextViewMainActivity,java.lang.String,java.lang.String,int,androidx.compose.runtime.Composer,int):0:0 -> a
+    3:3:kotlin.Unit ComposableCardViewApp$lambda$5(com.bharathvishal.textfileviewer.Activities.TextViewMainActivity,java.lang.String,java.lang.String,java.lang.String,int,androidx.compose.runtime.Composer,int):0:0 -> a
+    4:4:kotlin.Unit LazyColumnView$lambda$1(com.bharathvishal.textfileviewer.Activities.TextViewMainActivity,int,androidx.compose.runtime.Composer,int):0:0 -> a
+    5:10:void resultLauncherPickTextFile$lambda$0(com.bharathvishal.textfileviewer.Activities.TextViewMainActivity,androidx.activity.result.ActivityResult):72:77 -> a
+    11:24:void resultLauncherPickTextFile$lambda$0(com.bharathvishal.textfileviewer.Activities.TextViewMainActivity,androidx.activity.result.ActivityResult):77:90 -> a
+    25:25:void resultLauncherPickTextFile$lambda$0(com.bharathvishal.textfileviewer.Activities.TextViewMainActivity,androidx.activity.result.ActivityResult):90:90 -> a
+    26:29:void loadTextFile(android.content.Context,boolean,boolean):222:225 -> a
+    26:29:void resultLauncherPickTextFile$lambda$0(com.bharathvishal.textfileviewer.Activities.TextViewMainActivity,androidx.activity.result.ActivityResult):90 -> a
+    30:31:void resultLauncherPickTextFile$lambda$0(com.bharathvishal.textfileviewer.Activities.TextViewMainActivity,androidx.activity.result.ActivityResult):93:94 -> a
+    32:38:void resultLauncherPickTextFile$lambda$0(com.bharathvishal.textfileviewer.Activities.TextViewMainActivity,androidx.activity.result.ActivityResult):92:98 -> a
+    39:49:void openFileTxt():202:212 -> a
+    50:50:kotlin.Unit TopAppBarMain$lambda$0(com.bharathvishal.textfileviewer.Activities.TextViewMainActivity,androidx.compose.runtime.Composer,int):321:321 -> a
+    51:55:kotlin.Unit TopAppBarMain$lambda$1$0$0(com.bharathvishal.textfileviewer.Activities.TextViewMainActivity):328:332 -> a
+    56:442:void ComposableCardViewApp(java.lang.String,androidx.compose.runtime.Composer,int):361:747 -> a
+    443:850:void ComposableCardViewApp(java.lang.String,androidx.compose.runtime.Composer,int):366:773 -> a
+    851:876:void ComposableCardViewApp(java.lang.String,androidx.compose.runtime.Composer,int):751:776 -> a
+    877:1307:void ComposableCardViewApp(java.lang.String,androidx.compose.runtime.Composer,int):372:802 -> a
+    1308:1308:void ComposableCardViewApp(java.lang.String,androidx.compose.runtime.Composer,int):780:780 -> a
+    1309:1311:void ComposableCardViewApp(java.lang.String,androidx.compose.runtime.Composer,int):379:381 -> a
+    1312:1747:void ComposableCardViewApp(java.lang.String,androidx.compose.runtime.Composer,int):377:812 -> a
+    1748:1783:void ComposableCardViewApp(java.lang.String,androidx.compose.runtime.Composer,int):359:394 -> a
+    1784:2215:void ComposableCardViewApp(java.lang.String,java.lang.String,androidx.compose.runtime.Composer,int):448:879 -> a
+    2216:2668:void ComposableCardViewApp(java.lang.String,java.lang.String,androidx.compose.runtime.Composer,int):453:905 -> a
+    2669:2694:void ComposableCardViewApp(java.lang.String,java.lang.String,androidx.compose.runtime.Composer,int):883:908 -> a
+    2695:3170:void ComposableCardViewApp(java.lang.String,java.lang.String,androidx.compose.runtime.Composer,int):459:934 -> a
+    3171:3171:void ComposableCardViewApp(java.lang.String,java.lang.String,androidx.compose.runtime.Composer,int):912:912 -> a
+    3172:3175:void ComposableCardViewApp(java.lang.String,java.lang.String,androidx.compose.runtime.Composer,int):467:470 -> a
+    3176:3189:void ComposableCardViewApp(java.lang.String,java.lang.String,androidx.compose.runtime.Composer,int):464:477 -> a
+    3190:3661:void ComposableCardViewApp(java.lang.String,java.lang.String,androidx.compose.runtime.Composer,int):473:944 -> a
+    3662:3707:void ComposableCardViewApp(java.lang.String,java.lang.String,androidx.compose.runtime.Composer,int):445:490 -> a
+    3708:4156:void ComposableCardViewApp(java.lang.String,java.lang.String,java.lang.String,androidx.compose.runtime.Composer,int):497:945 -> a
+    4157:4626:void ComposableCardViewApp(java.lang.String,java.lang.String,java.lang.String,androidx.compose.runtime.Composer,int):502:971 -> a
+    4627:4652:void ComposableCardViewApp(java.lang.String,java.lang.String,java.lang.String,androidx.compose.runtime.Composer,int):949:974 -> a
+    4653:5145:void ComposableCardViewApp(java.lang.String,java.lang.String,java.lang.String,androidx.compose.runtime.Composer,int):508:1000 -> a
+    5146:5146:void ComposableCardViewApp(java.lang.String,java.lang.String,java.lang.String,androidx.compose.runtime.Composer,int):978:978 -> a
+    5147:5150:void ComposableCardViewApp(java.lang.String,java.lang.String,java.lang.String,androidx.compose.runtime.Composer,int):516:519 -> a
+    5151:5164:void ComposableCardViewApp(java.lang.String,java.lang.String,java.lang.String,androidx.compose.runtime.Composer,int):513:526 -> a
+    5165:5186:void ComposableCardViewApp(java.lang.String,java.lang.String,java.lang.String,androidx.compose.runtime.Composer,int):522:543 -> a
+    5187:5660:void ComposableCardViewApp(java.lang.String,java.lang.String,java.lang.String,androidx.compose.runtime.Composer,int):537:1010 -> a
+    5661:5716:void ComposableCardViewApp(java.lang.String,java.lang.String,java.lang.String,androidx.compose.runtime.Composer,int):493:548 -> a
+    5717:6176:void LazyColumnView(androidx.compose.runtime.Composer,int):552:1011 -> a
+    6177:6631:void LazyColumnView(androidx.compose.runtime.Composer,int):558:1012 -> a
+    6632:7087:void LazyColumnView(androidx.compose.runtime.Composer,int):559:1014 -> a
+    7088:7543:void LazyColumnView(androidx.compose.runtime.Composer,int):561:1016 -> a
+    7544:7544:void LazyColumnView(androidx.compose.runtime.Composer,int):561:561 -> a
+    7545:7545:void LazyColumnView(androidx.compose.runtime.Composer,int):554:554 -> a
+    7546:7583:void LazyColumnView(androidx.compose.runtime.Composer,int):552:589 -> a
+    7584:8167:kotlin.Unit LazyColumnView$lambda$0$0(com.bharathvishal.textfileviewer.Activities.TextViewMainActivity,androidx.compose.foundation.lazy.LazyListScope):562:1145 -> a
+    8168:8172:kotlin.Unit LazyColumnView$lambda$0$0(com.bharathvishal.textfileviewer.Activities.TextViewMainActivity,androidx.compose.foundation.lazy.LazyListScope):1144:1148 -> a
+    8173:8173:kotlin.Unit LazyColumnView$lambda$0$0(com.bharathvishal.textfileviewer.Activities.TextViewMainActivity,androidx.compose.foundation.lazy.LazyListScope):1144:1144 -> a
+    8174:8174:kotlin.Unit LazyColumnView$lambda$0$0(com.bharathvishal.textfileviewer.Activities.TextViewMainActivity,androidx.compose.foundation.lazy.LazyListScope):588:588 -> a
+    1:1:kotlin.Unit ComposableCardViewAppCustom$lambda$1(com.bharathvishal.textfileviewer.Activities.TextViewMainActivity,java.lang.String,java.lang.String,int,androidx.compose.runtime.Composer,int):0:0 -> b
+    2:2:kotlin.Unit MainViewImplementation$lambda$1(com.bharathvishal.textfileviewer.Activities.TextViewMainActivity,int,androidx.compose.runtime.Composer,int):0:0 -> b
+    3:806:kotlin.Unit TopAppBarMain$lambda$1(com.bharathvishal.textfileviewer.Activities.TextViewMainActivity,androidx.compose.runtime.Composer,int):326:1129 -> b
+    807:1612:kotlin.Unit TopAppBarMain$lambda$1(com.bharathvishal.textfileviewer.Activities.TextViewMainActivity,androidx.compose.runtime.Composer,int):326:1131 -> b
+    1613:1613:kotlin.Unit TopAppBarMain$lambda$1(com.bharathvishal.textfileviewer.Activities.TextViewMainActivity,androidx.compose.runtime.Composer,int):326:326 -> b
+    1614:1614:kotlin.jvm.functions.Function2 com.bharathvishal.textfileviewer.Activities.ComposableSingletons$TextViewMainActivityKt.getLambda$-1565490422$textviewermodule():0:0 -> b
+    1614:1614:kotlin.Unit TopAppBarMain$lambda$1(com.bharathvishal.textfileviewer.Activities.TextViewMainActivity,androidx.compose.runtime.Composer,int):326 -> b
+    1615:1615:kotlin.Unit TopAppBarMain$lambda$1(com.bharathvishal.textfileviewer.Activities.TextViewMainActivity,androidx.compose.runtime.Composer,int):326:326 -> b
+    1616:1626:kotlin.Unit TopAppBarMain$lambda$1(com.bharathvishal.textfileviewer.Activities.TextViewMainActivity,androidx.compose.runtime.Composer,int):325:335 -> b
+    1627:2377:kotlin.Unit ComposableCardViewApp$lambda$0$0$0(java.lang.String,androidx.compose.runtime.Composer,int):384:1134 -> b
+    2378:2379:kotlin.Unit ComposableCardViewApp$lambda$0$0$0(java.lang.String,androidx.compose.runtime.Composer,int):387:388 -> b
+    2380:2380:kotlin.Unit ComposableCardViewApp$lambda$0$0$0(java.lang.String,androidx.compose.runtime.Composer,int):382:382 -> b
+    2381:2391:kotlin.Unit ComposableCardViewApp$lambda$0$0$0(java.lang.String,androidx.compose.runtime.Composer,int):381:391 -> b
+    2392:2805:void ComposableCardViewAppCustom(java.lang.String,java.lang.String,androidx.compose.runtime.Composer,int):400:813 -> b
+    2806:3240:void ComposableCardViewAppCustom(java.lang.String,java.lang.String,androidx.compose.runtime.Composer,int):405:839 -> b
+    3241:3266:void ComposableCardViewAppCustom(java.lang.String,java.lang.String,androidx.compose.runtime.Composer,int):817:842 -> b
+    3267:3724:void ComposableCardViewAppCustom(java.lang.String,java.lang.String,androidx.compose.runtime.Composer,int):411:868 -> b
+    3725:3725:void ComposableCardViewAppCustom(java.lang.String,java.lang.String,androidx.compose.runtime.Composer,int):846:846 -> b
+    3726:3728:void ComposableCardViewAppCustom(java.lang.String,java.lang.String,androidx.compose.runtime.Composer,int):418:420 -> b
+    3729:3750:void ComposableCardViewAppCustom(java.lang.String,java.lang.String,androidx.compose.runtime.Composer,int):416:437 -> b
+    3751:4198:void ComposableCardViewAppCustom(java.lang.String,java.lang.String,androidx.compose.runtime.Composer,int):431:878 -> b
+    4199:4244:void ComposableCardViewAppCustom(java.lang.String,java.lang.String,androidx.compose.runtime.Composer,int):397:442 -> b
+    4245:4709:void MainViewImplementation(androidx.compose.runtime.Composer,int):620:1084 -> b
+    4710:4710:void MainViewImplementation(androidx.compose.runtime.Composer,int):1062:1062 -> b
+    4711:5176:void MainViewImplementation(androidx.compose.runtime.Composer,int):622:1087 -> b
+    5177:5669:void MainViewImplementation(androidx.compose.runtime.Composer,int):625:1117 -> b
+    5670:5670:void MainViewImplementation(androidx.compose.runtime.Composer,int):1095:1095 -> b
+    5671:6169:void MainViewImplementation(androidx.compose.runtime.Composer,int):629:1127 -> b
+    6170:6185:void MainViewImplementation(androidx.compose.runtime.Composer,int):620:635 -> b
+    1:1:kotlin.Unit TopAppBarMain$lambda$2(com.bharathvishal.textfileviewer.Activities.TextViewMainActivity,int,androidx.compose.runtime.Composer,int):0:0 -> c
+    2:2:kotlin.Unit onCreate$lambda$0(com.bharathvishal.textfileviewer.Activities.TextViewMainActivity,androidx.compose.runtime.Composer,int):186:186 -> c
+    3:12:kotlin.Unit onCreate$lambda$0(com.bharathvishal.textfileviewer.Activities.TextViewMainActivity,androidx.compose.runtime.Composer,int):185:194 -> c
+    13:17:void TopAppBarMain(androidx.compose.runtime.Composer,int):319:323 -> c
+    18:18:void TopAppBarMain(androidx.compose.runtime.Composer,int):322:322 -> c
+    19:23:void TopAppBarMain(androidx.compose.runtime.Composer,int):321:325 -> c
+    24:24:void TopAppBarMain(androidx.compose.runtime.Composer,int):320:320 -> c
+    25:43:void TopAppBarMain(androidx.compose.runtime.Composer,int):319:337 -> c
+    44:700:kotlin.Unit ComposableCardViewApp$lambda$2$0$0(java.lang.String,androidx.compose.runtime.Composer,int):480:1136 -> c
+    701:702:kotlin.Unit ComposableCardViewApp$lambda$2$0$0(java.lang.String,androidx.compose.runtime.Composer,int):483:484 -> c
+    703:703:kotlin.Unit ComposableCardViewApp$lambda$2$0$0(java.lang.String,androidx.compose.runtime.Composer,int):478:478 -> c
+    704:714:kotlin.Unit ComposableCardViewApp$lambda$2$0$0(java.lang.String,androidx.compose.runtime.Composer,int):477:487 -> c
+    1:1:kotlin.Unit ViewMain$lambda$1(com.bharathvishal.textfileviewer.Activities.TextViewMainActivity,int,androidx.compose.runtime.Composer,int):0:0 -> d
+    2:3:kotlin.Unit onCreate$lambda$0$0(com.bharathvishal.textfileviewer.Activities.TextViewMainActivity,androidx.compose.runtime.Composer,int):189:190 -> d
+    4:4:kotlin.Unit onCreate$lambda$0$0(com.bharathvishal.textfileviewer.Activities.TextViewMainActivity,androidx.compose.runtime.Composer,int):188:188 -> d
+    5:12:kotlin.Unit onCreate$lambda$0$0(com.bharathvishal.textfileviewer.Activities.TextViewMainActivity,androidx.compose.runtime.Composer,int):186:193 -> d
+    13:378:void ViewMain(androidx.compose.runtime.Composer,int):340:705 -> d
+    379:404:void ViewMain(androidx.compose.runtime.Composer,int):683:708 -> d
+    405:772:void ViewMain(androidx.compose.runtime.Composer,int):342:709 -> d
+    773:1166:void ViewMain(androidx.compose.runtime.Composer,int):345:738 -> d
+    1167:1562:void ViewMain(androidx.compose.runtime.Composer,int):351:746 -> d
+    1563:1578:void ViewMain(androidx.compose.runtime.Composer,int):340:355 -> d
+    1579:2187:kotlin.Unit ComposableCardViewApp$lambda$4$0$0(java.lang.String,androidx.compose.runtime.Composer,int):529:1137 -> d
+    2188:2188:kotlin.Unit ComposableCardViewApp$lambda$4$0$0(java.lang.String,androidx.compose.runtime.Composer,int):534:534 -> d
+    2189:2189:kotlin.Unit ComposableCardViewApp$lambda$4$0$0(java.lang.String,androidx.compose.runtime.Composer,int):527:527 -> d
+    2190:2200:kotlin.Unit ComposableCardViewApp$lambda$4$0$0(java.lang.String,androidx.compose.runtime.Composer,int):526:536 -> d
+    1:1:kotlin.Unit showProgressBar$lambda$1(com.bharathvishal.textfileviewer.Activities.TextViewMainActivity,int,androidx.compose.runtime.Composer,int):0:0 -> e
+    2:2:kotlin.Unit onCreate$lambda$0$0$0(com.bharathvishal.textfileviewer.Activities.TextViewMainActivity,androidx.compose.runtime.Composer,int):191:191 -> e
+    3:5:kotlin.Unit onCreate$lambda$0$0$0(com.bharathvishal.textfileviewer.Activities.TextViewMainActivity,androidx.compose.runtime.Composer,int):190:192 -> e
+    6:718:kotlin.Unit ComposableCardViewAppCustom$lambda$0$0$0(java.lang.String,androidx.compose.runtime.Composer,int):423:1135 -> e
+    719:720:kotlin.Unit ComposableCardViewAppCustom$lambda$0$0$0(java.lang.String,androidx.compose.runtime.Composer,int):426:427 -> e
+    721:721:kotlin.Unit ComposableCardViewAppCustom$lambda$0$0$0(java.lang.String,androidx.compose.runtime.Composer,int):421:421 -> e
+    722:732:kotlin.Unit ComposableCardViewAppCustom$lambda$0$0$0(java.lang.String,androidx.compose.runtime.Composer,int):420:430 -> e
+    733:1159:void showProgressBar(androidx.compose.runtime.Composer,int):593:1019 -> e
+    1160:1607:void showProgressBar(androidx.compose.runtime.Composer,int):598:1045 -> e
+    1608:1608:void showProgressBar(androidx.compose.runtime.Composer,int):1023:1023 -> e
+    1609:2052:void showProgressBar(androidx.compose.runtime.Composer,int):605:1048 -> e
+    2053:2054:void showProgressBar(androidx.compose.runtime.Composer,int):606:607 -> e
+    2055:2502:void showProgressBar(androidx.compose.runtime.Composer,int):602:1049 -> e
+    2503:2505:void showProgressBar(androidx.compose.runtime.Composer,int):612:614 -> e
+    2506:2949:void showProgressBar(androidx.compose.runtime.Composer,int):610:1053 -> e
+    2950:2974:void showProgressBar(androidx.compose.runtime.Composer,int):593:617 -> e
+    1:24:void onCreate(android.os.Bundle):105:128 -> onCreate
+    25:29:void onCreate(android.os.Bundle):128:132 -> onCreate
+    30:571:void onCreate(android.os.Bundle):132:673 -> onCreate
+    572:576:void onCreate(android.os.Bundle):133:137 -> onCreate
+    577:582:void onCreate(android.os.Bundle):135:140 -> onCreate
+    583:583:void onCreate(android.os.Bundle):140:140 -> onCreate
+    584:587:void onCreate(android.os.Bundle):139:142 -> onCreate
+    588:588:void onCreate(android.os.Bundle):142:142 -> onCreate
+    589:593:void onCreate(android.os.Bundle):141:145 -> onCreate
+    594:602:void onCreate(android.os.Bundle):145:153 -> onCreate
+    603:603:void onCreate(android.os.Bundle):153:153 -> onCreate
+    604:607:void loadTextFile(android.content.Context,boolean,boolean):222:225 -> onCreate
+    604:607:void onCreate(android.os.Bundle):153 -> onCreate
+    608:622:void onCreate(android.os.Bundle):156:170 -> onCreate
+    623:626:void onCreate(android.os.Bundle):169:172 -> onCreate
+    627:1130:void onCreate(android.os.Bundle):171:674 -> onCreate
+    1131:1134:void onCreate(android.os.Bundle):175:178 -> onCreate
+    1135:1135:void onCreate(android.os.Bundle):178:178 -> onCreate
+    1136:1139:void loadTextFile(android.content.Context,boolean,boolean):222:225 -> onCreate
+    1136:1139:void onCreate(android.os.Bundle):178 -> onCreate
+    1140:1145:void onCreate(android.os.Bundle):180:185 -> onCreate
+    1:2:void onDestroy():669:670 -> onDestroy
+    1:7:void onSaveInstanceState(android.os.Bundle):649:655 -> onSaveInstanceState
+    8:20:void onSaveInstanceState(android.os.Bundle):653:665 -> onSaveInstanceState
+com.bharathvishal.textfileviewer.Activities.TextViewMainActivity$LazyColumnView$lambda$0$0$$inlined$items$default$3 -> com.bharathvishal.textfileviewer.Activities.b:
+# {"id":"sourceFile","fileName":"LazyDsl.kt"}
+    java.util.List $items -> a
+    1:1:void <init>(kotlin.jvm.functions.Function1,java.util.List):0:0 -> <init>
+      # {"id":"com.android.tools.r8.residualsignature","signature":"(Ljava/util/List;)V"}
+    1:1:java.lang.Object invoke(java.lang.Object):174:174 -> invoke
+    2:2:java.lang.Object invoke(int):177:177 -> invoke
+    2:2:java.lang.Object invoke(java.lang.Object):174 -> invoke
+com.bharathvishal.textfileviewer.Activities.TextViewMainActivity$LazyColumnView$lambda$0$0$$inlined$items$default$4 -> com.bharathvishal.textfileviewer.Activities.c:
+# {"id":"sourceFile","fileName":"LazyDsl.kt"}
+    java.util.List $items -> a
+    com.bharathvishal.textfileviewer.Activities.TextViewMainActivity this$0 -> b
+    1:1:java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object):178:178 -> invoke
+    2:527:void invoke(androidx.compose.foundation.lazy.LazyItemScope,int,androidx.compose.runtime.Composer,int):0:525 -> invoke
+    2:527:java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object):178 -> invoke
+    528:528:boolean com.bharathvishal.textfileviewer.Activities.TextViewMainActivity.access$getShowLineLength$p(com.bharathvishal.textfileviewer.Activities.TextViewMainActivity):58:58 -> invoke
+    528:528:void invoke(androidx.compose.foundation.lazy.LazyItemScope,int,androidx.compose.runtime.Composer,int):525 -> invoke
+    528:528:java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object):178 -> invoke
+    529:529:boolean com.bharathvishal.textfileviewer.Activities.TextViewMainActivity.access$getShowLineNumber$p(com.bharathvishal.textfileviewer.Activities.TextViewMainActivity):58:58 -> invoke
+    529:529:void invoke(androidx.compose.foundation.lazy.LazyItemScope,int,androidx.compose.runtime.Composer,int):525 -> invoke
+    529:529:java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object):178 -> invoke
+    530:531:void invoke(androidx.compose.foundation.lazy.LazyItemScope,int,androidx.compose.runtime.Composer,int):525:526 -> invoke
+    530:531:java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object):178 -> invoke
+    532:532:java.lang.String com.bharathvishal.textfileviewer.Classes.TextLineRepresentation.getLineNumber():22:22 -> invoke
+    532:532:void invoke(androidx.compose.foundation.lazy.LazyItemScope,int,androidx.compose.runtime.Composer,int):527 -> invoke
+    532:532:java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object):178 -> invoke
+    533:533:java.lang.String com.bharathvishal.textfileviewer.Classes.TextLineRepresentation.getTextLine():23:23 -> invoke
+    533:533:void invoke(androidx.compose.foundation.lazy.LazyItemScope,int,androidx.compose.runtime.Composer,int):528 -> invoke
+    533:533:java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object):178 -> invoke
+    534:534:java.lang.String com.bharathvishal.textfileviewer.Classes.TextLineRepresentation.getTextNoOfCharacters():24:24 -> invoke
+    534:534:void invoke(androidx.compose.foundation.lazy.LazyItemScope,int,androidx.compose.runtime.Composer,int):529 -> invoke
+    534:534:java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object):178 -> invoke
+    535:535:void invoke(androidx.compose.foundation.lazy.LazyItemScope,int,androidx.compose.runtime.Composer,int):526:526 -> invoke
+    535:535:java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object):178 -> invoke
+    536:536:void invoke(androidx.compose.foundation.lazy.LazyItemScope,int,androidx.compose.runtime.Composer,int):525:525 -> invoke
+    536:536:java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object):178 -> invoke
+    537:537:boolean com.bharathvishal.textfileviewer.Activities.TextViewMainActivity.access$getShowLineNumber$p(com.bharathvishal.textfileviewer.Activities.TextViewMainActivity):58:58 -> invoke
+    537:537:void invoke(androidx.compose.foundation.lazy.LazyItemScope,int,androidx.compose.runtime.Composer,int):531 -> invoke
+    537:537:java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object):178 -> invoke
+    538:539:void invoke(androidx.compose.foundation.lazy.LazyItemScope,int,androidx.compose.runtime.Composer,int):531:532 -> invoke
+    538:539:java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object):178 -> invoke
+    540:540:java.lang.String com.bharathvishal.textfileviewer.Classes.TextLineRepresentation.getLineNumber():22:22 -> invoke
+    540:540:void invoke(androidx.compose.foundation.lazy.LazyItemScope,int,androidx.compose.runtime.Composer,int):533 -> invoke
+    540:540:java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object):178 -> invoke
+    541:541:java.lang.String com.bharathvishal.textfileviewer.Classes.TextLineRepresentation.getTextLine():23:23 -> invoke
+    541:541:void invoke(androidx.compose.foundation.lazy.LazyItemScope,int,androidx.compose.runtime.Composer,int):534 -> invoke
+    541:541:java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object):178 -> invoke
+    542:542:void invoke(androidx.compose.foundation.lazy.LazyItemScope,int,androidx.compose.runtime.Composer,int):532:532 -> invoke
+    542:542:java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object):178 -> invoke
+    543:549:void invoke(androidx.compose.foundation.lazy.LazyItemScope,int,androidx.compose.runtime.Composer,int):531:537 -> invoke
+    543:549:java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object):178 -> invoke
+    550:550:java.lang.String com.bharathvishal.textfileviewer.Classes.TextLineRepresentation.getTextLine():23:23 -> invoke
+    550:550:void invoke(androidx.compose.foundation.lazy.LazyItemScope,int,androidx.compose.runtime.Composer,int):538 -> invoke
+    550:550:java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object):178 -> invoke
+    551:551:void invoke(androidx.compose.foundation.lazy.LazyItemScope,int,androidx.compose.runtime.Composer,int):537:537 -> invoke
+    551:551:java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object):178 -> invoke
+    552:557:void invoke(androidx.compose.foundation.lazy.LazyItemScope,int,androidx.compose.runtime.Composer,int):536:541 -> invoke
+    552:557:java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object):178 -> invoke
+    558:558:java.lang.String com.bharathvishal.textfileviewer.Classes.TextLineRepresentation.getTextLine():23:23 -> invoke
+    558:558:void invoke(androidx.compose.foundation.lazy.LazyItemScope,int,androidx.compose.runtime.Composer,int):542 -> invoke
+    558:558:java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object):178 -> invoke
+    559:559:java.lang.String com.bharathvishal.textfileviewer.Classes.TextLineRepresentation.getTextNoOfCharacters():24:24 -> invoke
+    559:559:void invoke(androidx.compose.foundation.lazy.LazyItemScope,int,androidx.compose.runtime.Composer,int):543 -> invoke
+    559:559:java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object):178 -> invoke
+    560:560:void invoke(androidx.compose.foundation.lazy.LazyItemScope,int,androidx.compose.runtime.Composer,int):541:541 -> invoke
+    560:560:java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object):178 -> invoke
+    561:566:void invoke(androidx.compose.foundation.lazy.LazyItemScope,int,androidx.compose.runtime.Composer,int):540:545 -> invoke
+    561:566:java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object):178 -> invoke
+    567:567:void invoke(androidx.compose.foundation.lazy.LazyItemScope,int,androidx.compose.runtime.Composer,int):179:179 -> invoke
+    567:567:java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object):178 -> invoke
+    568:568:void invoke(androidx.compose.foundation.lazy.LazyItemScope,int,androidx.compose.runtime.Composer,int):178:178 -> invoke
+    568:568:java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object):178 -> invoke
+    569:569:java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object):178:178 -> invoke
+com.bharathvishal.textfileviewer.Activities.TextViewMainActivity$loadTextFile$1 -> com.bharathvishal.textfileviewer.Activities.e:
+# {"id":"sourceFile","fileName":"TextViewMainActivity.kt"}
+    java.lang.Object L$0 -> a
+    java.lang.Object L$1 -> b
+    java.lang.Object L$2 -> c
+    java.lang.Object L$3 -> d
+    int label -> e
+    java.lang.ref.WeakReference $contextRef -> f
+    boolean $isFileTypeUriVar -> g
+    com.bharathvishal.textfileviewer.Activities.TextViewMainActivity this$0 -> h
+    1:1:java.lang.Object invoke(kotlinx.coroutines.CoroutineScope,kotlin.coroutines.Continuation):0:0 -> invoke
+    1:1:java.lang.Object invoke(java.lang.Object,java.lang.Object):0 -> invoke
+    1:2:java.lang.Object invokeSuspend(java.lang.Object):225:225 -> invokeSuspend
+    4:39:java.lang.Object invokeSuspend(java.lang.Object):227:262 -> invokeSuspend
+    40:40:java.lang.String com.bharathvishal.textfileviewer.Activities.TextViewMainActivity.access$getFileToOpen$p(com.bharathvishal.textfileviewer.Activities.TextViewMainActivity):58:58 -> invokeSuspend
+    40:40:java.lang.Object invokeSuspend(java.lang.Object):236 -> invokeSuspend
+    41:76:java.lang.String com.bharathvishal.textfileviewer.Utilities.Utilities.getFileNameFromFilePath(java.lang.String):0:35 -> invokeSuspend
+    41:76:java.lang.Object invokeSuspend(java.lang.Object):237 -> invokeSuspend
+    77:89:java.lang.Object invokeSuspend(java.lang.Object):237:249 -> invokeSuspend
+    90:112:void com.bharathvishal.textfileviewer.Classes.TextLineRepresentation.setLineNumber(java.lang.String):0:22 -> invokeSuspend
+    90:112:java.lang.Object invokeSuspend(java.lang.Object):249 -> invokeSuspend
+    113:113:void com.bharathvishal.textfileviewer.Classes.TextLineRepresentation.setTextLine(java.lang.String):23:23 -> invokeSuspend
+    113:113:java.lang.Object invokeSuspend(java.lang.Object):250 -> invokeSuspend
+    114:114:java.lang.Object invokeSuspend(java.lang.Object):251:251 -> invokeSuspend
+    115:139:void com.bharathvishal.textfileviewer.Classes.TextLineRepresentation.setTextNoOfCharacters(java.lang.String):0:24 -> invokeSuspend
+    115:139:java.lang.Object invokeSuspend(java.lang.Object):251 -> invokeSuspend
+    140:145:java.lang.Object invokeSuspend(java.lang.Object):253:258 -> invokeSuspend
+    146:146:android.net.Uri com.bharathvishal.textfileviewer.Activities.TextViewMainActivity.access$getFileToOpenUri$p(com.bharathvishal.textfileviewer.Activities.TextViewMainActivity):58:58 -> invokeSuspend
+    146:146:java.lang.Object invokeSuspend(java.lang.Object):262 -> invokeSuspend
+    147:147:java.lang.Object invokeSuspend(java.lang.Object):263:263 -> invokeSuspend
+    148:198:java.lang.String com.bharathvishal.textfileviewer.Utilities.Utilities.getFileNameFromUriPath(android.net.Uri,android.content.Context):0:50 -> invokeSuspend
+    148:198:java.lang.Object invokeSuspend(java.lang.Object):263 -> invokeSuspend
+    199:217:java.lang.Object invokeSuspend(java.lang.Object):263:281 -> invokeSuspend
+    218:240:void com.bharathvishal.textfileviewer.Classes.TextLineRepresentation.setLineNumber(java.lang.String):0:22 -> invokeSuspend
+    218:240:java.lang.Object invokeSuspend(java.lang.Object):281 -> invokeSuspend
+    241:241:void com.bharathvishal.textfileviewer.Classes.TextLineRepresentation.setTextLine(java.lang.String):23:23 -> invokeSuspend
+    241:241:java.lang.Object invokeSuspend(java.lang.Object):282 -> invokeSuspend
+    242:242:java.lang.Object invokeSuspend(java.lang.Object):283:283 -> invokeSuspend
+    243:267:void com.bharathvishal.textfileviewer.Classes.TextLineRepresentation.setTextNoOfCharacters(java.lang.String):0:24 -> invokeSuspend
+    243:267:java.lang.Object invokeSuspend(java.lang.Object):283 -> invokeSuspend
+    268:296:java.lang.Object invokeSuspend(java.lang.Object):285:313 -> invokeSuspend
+com.bharathvishal.textfileviewer.Activities.TextViewMainActivity$loadTextFile$1$3 -> com.bharathvishal.textfileviewer.Activities.d:
+# {"id":"sourceFile","fileName":"TextViewMainActivity.kt"}
+    com.bharathvishal.textfileviewer.Activities.TextViewMainActivity this$0 -> a
+    kotlin.jvm.internal.Ref$ObjectRef $txtNameToLoad1 -> b
+    kotlin.jvm.internal.Ref$ObjectRef $tListTemp -> c
+    1:1:java.lang.Object invoke(kotlinx.coroutines.CoroutineScope,kotlin.coroutines.Continuation):0:0 -> invoke
+    1:1:java.lang.Object invoke(java.lang.Object,java.lang.Object):0 -> invoke
+    1:3:java.lang.Object invokeSuspend(java.lang.Object):301:303 -> invokeSuspend
+    4:4:androidx.compose.runtime.MutableState com.bharathvishal.textfileviewer.Activities.TextViewMainActivity.access$getFileNameTextFile$p(com.bharathvishal.textfileviewer.Activities.TextViewMainActivity):58:58 -> invokeSuspend
+    4:4:java.lang.Object invokeSuspend(java.lang.Object):303 -> invokeSuspend
+    5:6:java.lang.Object invokeSuspend(java.lang.Object):303:304 -> invokeSuspend
+    7:7:androidx.compose.runtime.snapshots.SnapshotStateList com.bharathvishal.textfileviewer.Activities.TextViewMainActivity.getTextLineListSnapShot():59:59 -> invokeSuspend
+    7:7:java.lang.Object invokeSuspend(java.lang.Object):304 -> invokeSuspend
+      # {"id":"com.android.tools.r8.rewriteFrame","conditions":["throws(Ljava/lang/NullPointerException;)"],"actions":["removeInnerFrames(1)"]}
+    8:9:java.lang.Object invokeSuspend(java.lang.Object):304:305 -> invokeSuspend
+    10:10:androidx.compose.runtime.MutableState com.bharathvishal.textfileviewer.Activities.TextViewMainActivity.access$getShowProgressBar$p(com.bharathvishal.textfileviewer.Activities.TextViewMainActivity):58:58 -> invokeSuspend
+    10:10:java.lang.Object invokeSuspend(java.lang.Object):305 -> invokeSuspend
+    11:15:java.lang.Object invokeSuspend(java.lang.Object):305:309 -> invokeSuspend
+com.bharathvishal.textfileviewer.Classes.TextLineRepresentation -> a.a:
+# {"id":"sourceFile","fileName":"TextLineRepresentation.kt"}
+    java.lang.String lineNumber -> a
+    java.lang.String textLine -> b
+    java.lang.String textNoOfCharacters -> c
+    1:4:void <init>():21:24 -> <init>
+com.bharathvishal.textfileviewer.Constants.Constants -> com.bharathvishal.textfileviewer.Constants.Constants:
+# {"id":"sourceFile","fileName":"Constant.kt"}
+    1:1:void <init>():29:29 -> <init>
+com.bharathvishal.textfileviewer.MainComponent.TextReaderModule -> com.bharathvishal.textfileviewer.MainComponent.TextReaderModule:
+# {"id":"sourceFile","fileName":"TextReaderModule.kt"}
+    1:8:void <init>():34:41 -> <init>
+    1:8:void launchTextViewer():191:198 -> launchTextViewer
+    9:25:void launchTextViewer():196:212 -> launchTextViewer
+    1:8:void launchTextViewerWithFileChooser():163:170 -> launchTextViewerWithFileChooser
+    9:16:void launchTextViewerWithFileChooser():169:176 -> launchTextViewerWithFileChooser
+    1:1:com.bharathvishal.textfileviewer.MainComponent.TextReaderModule setContext(android.content.Context):50:50 -> setContext
+    1:1:com.bharathvishal.textfileviewer.MainComponent.TextReaderModule setDeviceisWearable(boolean):76:76 -> setDeviceisWearable
+    1:1:com.bharathvishal.textfileviewer.MainComponent.TextReaderModule setFilePath(java.lang.String):138:138 -> setFilePath
+    1:1:com.bharathvishal.textfileviewer.MainComponent.TextReaderModule setFileUri(android.net.Uri):102:102 -> setFileUri
+    1:1:com.bharathvishal.textfileviewer.MainComponent.TextReaderModule shouldOpenFileChooserIntent():150:150 -> shouldOpenFileChooserIntent
+    1:1:com.bharathvishal.textfileviewer.MainComponent.TextReaderModule shouldShowLineLength(boolean):89:89 -> shouldShowLineLength
+    1:1:com.bharathvishal.textfileviewer.MainComponent.TextReaderModule shouldShowLineNumber(boolean):63:63 -> shouldShowLineNumber
+    1:1:com.bharathvishal.textfileviewer.MainComponent.TextReaderModule useFilePath():125:125 -> useFilePath
+    1:1:com.bharathvishal.textfileviewer.MainComponent.TextReaderModule useFileUri():113:113 -> useFileUri
+com.bharathvishal.textfileviewer.Utilities.Utilities -> R8$$REMOVED$$CLASS$$0:
+# {"id":"sourceFile","fileName":"Utilities.kt"}
+com.bharathvishal.textfileviewer.ui.theme.ColorKt -> b.a:
+# {"id":"sourceFile","fileName":"Color.kt"}
+    long Purple80 -> a
+    long PurpleGrey80 -> b
+    long Pink80 -> c
+    long Purple40 -> d
+    long PurpleGrey40 -> e
+    long Pink40 -> f
+    1:7:void <clinit>():5:11 -> <clinit>
+com.bharathvishal.textfileviewer.ui.theme.ThemeKt -> b.b:
+# {"id":"sourceFile","fileName":"Theme.kt"}
+    androidx.compose.material3.ColorScheme DarkColorScheme -> a
+    androidx.compose.material3.ColorScheme LightColorScheme -> b
+    1:1:long com.bharathvishal.textfileviewer.ui.theme.ColorKt.getPurple80():5:5 -> <clinit>
+    1:1:void <clinit>():19 -> <clinit>
+    2:2:long com.bharathvishal.textfileviewer.ui.theme.ColorKt.getPurpleGrey80():6:6 -> <clinit>
+    2:2:void <clinit>():20 -> <clinit>
+    3:3:long com.bharathvishal.textfileviewer.ui.theme.ColorKt.getPink80():7:7 -> <clinit>
+    3:3:void <clinit>():21 -> <clinit>
+    4:4:void <clinit>():18:18 -> <clinit>
+    5:5:long com.bharathvishal.textfileviewer.ui.theme.ColorKt.getPurple40():9:9 -> <clinit>
+    5:5:void <clinit>():25 -> <clinit>
+    6:6:long com.bharathvishal.textfileviewer.ui.theme.ColorKt.getPurpleGrey40():10:10 -> <clinit>
+    6:6:void <clinit>():26 -> <clinit>
+    7:7:long com.bharathvishal.textfileviewer.ui.theme.ColorKt.getPink40():11:11 -> <clinit>
+    7:7:void <clinit>():27 -> <clinit>
+    8:8:void <clinit>():24:24 -> <clinit>
+    1:1:kotlin.Unit TextViewerAndroidTheme$lambda$1(boolean,boolean,kotlin.jvm.functions.Function2,int,int,androidx.compose.runtime.Composer,int):0:0 -> a
+    2:2:void TextViewerAndroidTheme(boolean,boolean,kotlin.jvm.functions.Function2,androidx.compose.runtime.Composer,int,int):46:46 -> a
+    3:4:void TextViewerAndroidTheme(boolean,boolean,kotlin.jvm.functions.Function2,androidx.compose.runtime.Composer,int,int):41:42 -> a
+    5:33:void TextViewerAndroidTheme(boolean,boolean,kotlin.jvm.functions.Function2,androidx.compose.runtime.Composer,int,int):41:69 -> a
+    34:35:void TextViewerAndroidTheme(boolean,boolean,kotlin.jvm.functions.Function2,androidx.compose.runtime.Composer,int,int):49:50 -> a
+    36:58:void TextViewerAndroidTheme(boolean,boolean,kotlin.jvm.functions.Function2,androidx.compose.runtime.Composer,int,int):48:70 -> a
+    59:76:void TextViewerAndroidTheme(boolean,boolean,kotlin.jvm.functions.Function2,androidx.compose.runtime.Composer,int,int):55:72 -> a
+    77:94:void TextViewerAndroidTheme(boolean,boolean,kotlin.jvm.functions.Function2,androidx.compose.runtime.Composer,int,int):57:74 -> a
+    95:95:void TextViewerAndroidTheme(boolean,boolean,kotlin.jvm.functions.Function2,androidx.compose.runtime.Composer,int,int):57:57 -> a
+    96:101:void TextViewerAndroidTheme(boolean,boolean,kotlin.jvm.functions.Function2,androidx.compose.runtime.Composer,int,int):56:61 -> a
+    102:102:androidx.compose.material3.Typography com.bharathvishal.textfileviewer.ui.theme.TypeKt.getTypography():10:10 -> a
+    102:102:void TextViewerAndroidTheme(boolean,boolean,kotlin.jvm.functions.Function2,androidx.compose.runtime.Composer,int,int):65 -> a
+    103:103:void TextViewerAndroidTheme(boolean,boolean,kotlin.jvm.functions.Function2,androidx.compose.runtime.Composer,int,int):63:63 -> a
+    104:131:void TextViewerAndroidTheme(boolean,boolean,kotlin.jvm.functions.Function2,androidx.compose.runtime.Composer,int,int):41:68 -> a
+    132:134:kotlin.Unit TextViewerAndroidTheme$lambda$0$0(android.view.View,androidx.compose.material3.ColorScheme,boolean):58:60 -> a
+com.bharathvishal.textfileviewer.ui.theme.TypeKt -> b.c:
+# {"id":"sourceFile","fileName":"Type.kt"}
+    androidx.compose.material3.Typography Typography -> a
+    1:7:void <clinit>():10:16 -> <clinit>
+    8:8:void <clinit>():11:11 -> <clinit>
+    9:9:void <clinit>():10:10 -> <clinit>

@@ -1,0 +1,9 @@
+com.bharathvishal.textfileviewer.textviewermodule-resValues-0 /Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/generated/res/resValues/release
+com.bharathvishal.textfileviewer.textviewermodule-updated_navigation_xml-1 /Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/generated/updated_navigation_xml/release
+com.bharathvishal.textfileviewer.textviewermodule-mergeReleaseResources-2 /Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.bharathvishal.textfileviewer.textviewermodule-mergeReleaseResources-3 /Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.bharathvishal.textfileviewer.textviewermodule-release-4 /Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_res/release/mergeReleaseResources
+com.bharathvishal.textfileviewer.textviewermodule-release-5 /Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/packaged_res/release/packageReleaseResources
+com.bharathvishal.textfileviewer.textviewermodule-main-6 /Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/res
+com.bharathvishal.textfileviewer.textviewermodule-release-7 /Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/release/res
+gradleHome-0 /Users/bharathvishal/.gradle
