@@ -1,6 +1,6 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<!--
-3 Copyright 2023-2024 Bharath Vishal G.
+3 Copyright 2023-2026 Bharath Vishal G.
 4
 5 Licensed under the Apache License, Version 2.0 (the "License");
 6 you may not use this file except in compliance with the License.
@@ -18,6 +18,8 @@
 18    package="com.bharathvishal.textfileviewer" >
 19
 20    <uses-sdk android:minSdkVersion="23" />
+20-->INJECTED
+20-->INJECTED
 21
 22    <application>
 22-->/Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/AndroidManifest.xml:18:5-57:19

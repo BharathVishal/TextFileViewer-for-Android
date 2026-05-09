@@ -1,4 +1,4 @@
-import org.jetbrains.kotlin.gradle.dsl.JvmTarget
+import com.android.build.api.dsl.LibraryExtension
 
 /*
  *
@@ -20,12 +20,11 @@ import org.jetbrains.kotlin.gradle.dsl.JvmTarget
 
 plugins {
     alias(libs.plugins.android.library)
-    alias(libs.plugins.jetbrains.kotlin.android)
     alias(libs.plugins.compose.compiler)
     id("maven-publish")
 }
 
-android {
+extensions.configure<LibraryExtension> {
     namespace = "com.bharathvishal.textfileviewer"
     compileSdk = 36
     defaultConfig {
@@ -49,14 +48,12 @@ android {
             )
         }
     }
-    compileOptions {
-        sourceCompatibility = JavaVersion.VERSION_17
-        targetCompatibility = JavaVersion.VERSION_17
+    publishing {
+        singleVariant("release")
     }
-    kotlin {
-        compilerOptions {
-            jvmTarget = JvmTarget.JVM_17
-        }
+    compileOptions {
+        sourceCompatibility = JavaVersion.VERSION_21
+        targetCompatibility = JavaVersion.VERSION_21
     }
     composeOptions {
         kotlinCompilerExtensionVersion = "1.5.15"
@@ -114,7 +111,7 @@ afterEvaluate {
                 from(components["release"])
                 groupId = "com.github.BharathVishal"
                 artifactId = "TextFileViewerAndroid"
-                version = "1.4.7"
+                version = "1.4.8"
             }
         }
     }
