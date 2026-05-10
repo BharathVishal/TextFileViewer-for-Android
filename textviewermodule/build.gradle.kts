@@ -1,4 +1,5 @@
 import com.android.build.api.dsl.LibraryExtension
+import org.jetbrains.kotlin.gradle.dsl.KotlinJvmExtension
 
 /*
  *
@@ -52,8 +53,8 @@ extensions.configure<LibraryExtension> {
         singleVariant("release")
     }
     compileOptions {
-        sourceCompatibility = JavaVersion.VERSION_17
-        targetCompatibility = JavaVersion.VERSION_17
+        sourceCompatibility = JavaVersion.VERSION_21
+        targetCompatibility = JavaVersion.VERSION_21
     }
     composeOptions {
         kotlinCompilerExtensionVersion = "1.5.15"
@@ -68,7 +69,6 @@ extensions.configure<LibraryExtension> {
         }
     }
 }
-
 
 dependencies {
     implementation(libs.androidx.appcompat)
@@ -111,7 +111,7 @@ afterEvaluate {
                 from(components["release"])
                 groupId = "com.github.BharathVishal"
                 artifactId = "TextFileViewerAndroid"
-                version = "1.5.1"
+                version = "1.5.2"
             }
         }
     }
