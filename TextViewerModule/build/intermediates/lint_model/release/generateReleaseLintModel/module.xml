@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="/Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule"
+    name=":textviewermodule"
+    type="LIBRARY"
+    maven="TextFileViewerAndroid:textviewermodule:unspecified"
+    agpVersion="9.2.1"
+    buildFolder="build"
+    bootClassPath="/Users/bharathvishal/Library/Android/sdk/platforms/android-36/android.jar:/Users/bharathvishal/Library/Android/sdk/build-tools/36.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="21"
+    compileTarget="android-36"
+    highlightGradualR8Api="false">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
