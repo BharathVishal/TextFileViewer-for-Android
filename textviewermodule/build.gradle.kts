@@ -59,6 +59,9 @@ extensions.configure<LibraryExtension> {
     composeOptions {
         kotlinCompilerExtensionVersion = "1.5.15"
     }
+    kotlin {
+        jvmToolchain(21)
+    }
 
     packaging {
         jniLibs {
@@ -111,7 +114,7 @@ afterEvaluate {
                 from(components["release"])
                 groupId = "com.github.BharathVishal"
                 artifactId = "TextFileViewerAndroid"
-                version = "1.5.2"
+                version = "1.5.3"
             }
         }
     }
