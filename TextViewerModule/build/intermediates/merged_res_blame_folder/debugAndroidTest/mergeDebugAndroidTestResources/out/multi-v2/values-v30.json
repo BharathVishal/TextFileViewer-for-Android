@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.bharathvishal.textfileviewer.test.textviewermodule-mergeDebugAndroidTestResources-60:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "/Users/bharathvishal/.gradle/caches/9.4.1/transforms/f2ae5d42064a061eb16612c44e8a0c07/transformed/jetified-material3/res/values-v30/values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                },
+                {
+                    "source": "/Users/bharathvishal/.gradle/caches/9.4.1/transforms/6f82825bf6dff8841043abf9850f3b26/transformed/jetified-core-splashscreen-1.2.0/res/values-v30/values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "433"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "128",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "506"
+                    }
+                }
+            ]
+        }
+    ]
+}

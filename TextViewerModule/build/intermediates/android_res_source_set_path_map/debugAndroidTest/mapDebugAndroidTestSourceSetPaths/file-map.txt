@@ -1,0 +1,6 @@
+com.bharathvishal.textfileviewer.test.textviewermodule-androidTest-0 /Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/generated/res/resValues/androidTest/debug
+com.bharathvishal.textfileviewer.test.textviewermodule-updated_navigation_xml-1 /Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/generated/updated_navigation_xml/debugAndroidTest
+com.bharathvishal.textfileviewer.test.textviewermodule-mergeDebugAndroidTestResources-2 /Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.bharathvishal.textfileviewer.test.textviewermodule-mergeDebugAndroidTestResources-3 /Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.bharathvishal.textfileviewer.test.textviewermodule-debugAndroidTest-4 /Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources
+gradleHome-0 /Users/bharathvishal/.gradle
