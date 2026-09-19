@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.bharathvishal.textfileviewer.textviewermodule-release-58:/values-port/values-port.xml",
+            "outputFile": "com.bharathvishal.textfileviewer.textviewermodule-mergeReleaseResources-57:/values-port/values-port.xml",
             "map": [
                 {
-                    "source": "/Users/bharathvishal/.gradle/caches/9.4.1/transforms/e78230387afdf11f8e9c6b8da1fd54df/transformed/appcompat-1.7.1/res/values-port/values-port.xml",
+                    "source": "/Users/bharathvishal/.gradle/caches/9.6.0/transforms/462644877f4eebe765f156cc72355c79/transformed/appcompat-1.8.0/res/values-port/values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -16,10 +16,10 @@
             ]
         },
         {
-            "outputFile": "com.bharathvishal.textfileviewer.textviewermodule-mergeReleaseResources-56:/values-port/values-port.xml",
+            "outputFile": "com.bharathvishal.textfileviewer.textviewermodule-release-59:/values-port/values-port.xml",
             "map": [
                 {
-                    "source": "/Users/bharathvishal/.gradle/caches/9.4.1/transforms/e78230387afdf11f8e9c6b8da1fd54df/transformed/appcompat-1.7.1/res/values-port/values-port.xml",
+                    "source": "/Users/bharathvishal/.gradle/caches/9.6.0/transforms/462644877f4eebe765f156cc72355c79/transformed/appcompat-1.8.0/res/values-port/values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

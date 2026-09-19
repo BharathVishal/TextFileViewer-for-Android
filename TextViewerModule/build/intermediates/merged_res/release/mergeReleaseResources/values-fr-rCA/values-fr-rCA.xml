@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+<resources xmlns:ns1="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <plurals name="mtrl_badge_content_description">
     <item quantity="one">%d nouvelle notification</item>
     <item quantity="other">%d nouvelles notifications</item>
@@ -9,7 +9,7 @@
     <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Autres options"</string>
     <string msgid="4692188335987374352" name="abc_action_mode_done">"Terminé"</string>
     <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Tout afficher"</string>
-    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Sélectionner une application"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Sélectionner une appli"</string>
     <string msgid="4215997306490295099" name="abc_capital_off">"DÉSACTIVER"</string>
     <string msgid="884982626291842264" name="abc_capital_on">"ACTIVER"</string>
     <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
@@ -29,14 +29,20 @@
     <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Envoyer la requête"</string>
     <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Recherche vocale"</string>
     <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Partager avec"</string>
-    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Partager avec <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Partager avec <xliff:g id="APPLICATION_NAME">%s</xliff:g>"</string>
     <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Réduire"</string>
     <string msgid="8719607706653693137" name="androidx_compose_foundation_autofill">"Remplissage automatique"</string>
     <string msgid="1150566100598813236" name="androidx_compose_ui_autofill">"Remplissage automatique"</string>
-    <string name="bottomsheet_action_collapse">Réduire la zone de contenu dans le bas de l\'écran</string>
-    <string name="bottomsheet_action_expand">Développer la zone de contenu dans le bas de l\'écran</string>
+    <string name="bottomsheet_action_collapse">Réduire</string>
+    <string name="bottomsheet_action_collapse_description">Réduire la zone de contenu dans le bas de l\'écran</string>
+    <string name="bottomsheet_action_expand">Développer</string>
+    <string name="bottomsheet_action_expand_description">Développer la zone de contenu dans le bas de l\'écran</string>
     <string name="bottomsheet_action_expand_halfway">Développer à moitié</string>
+    <string name="bottomsheet_action_half_expand_description">Développer de moitié la zone de contenu dans le bas de l\'écran</string>
     <string name="bottomsheet_drag_handle_content_description">Faire glisser la poignée</string>
+    <string name="bottomsheet_state_collapsed">Réduite</string>
+    <string name="bottomsheet_state_expanded">Développée</string>
+    <string name="bottomsheet_state_half_expanded">Développée de moitié</string>
     <string msgid="881409763997275156" name="call_notification_answer_action">"Répondre"</string>
     <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Vidéo"</string>
     <string msgid="3229508546291798546" name="call_notification_decline_action">"Refuser"</string>
@@ -78,6 +84,8 @@
     <string msgid="7933458017204019916" name="indeterminate">"Partiellement vérifié"</string>
     <string name="item_view_role_description">Onglet</string>
     <string name="m3_loading_indicator_content_description">Chargement en cours…</string>
+    <string name="m3_overflow_linear_layout_button_content_description">Menu à développer</string>
+    <string name="m3_overflow_linear_layout_button_tooltip_text">Autres options</string>
     <string msgid="2988463736136100848" name="m3c_bottom_sheet_collapse_description">"Réduire la zone de contenu dans le bas de l\'écran"</string>
     <string msgid="1555567894577437024" name="m3c_bottom_sheet_dismiss_description">"Fermer la zone de contenu dans le bas de l\'écran"</string>
     <string msgid="8403354765404029791" name="m3c_bottom_sheet_drag_handle_description">"Poignée de déplacement"</string>
@@ -155,17 +163,26 @@
     <string name="material_slider_value">Valeur</string>
     <string name="material_timepicker_am">AM</string>
     <string name="material_timepicker_clock_mode_description">Passer au mode Horloge pour entrer l\'heure.</string>
+    <string name="material_timepicker_clock_mode_tooltip">Passer en mode Horloge</string>
     <string name="material_timepicker_hour">Heure</string>
+    <string name="material_timepicker_hour_error">Heure entre 1 et 12</string>
+    <string name="material_timepicker_hour_error_24h">Heure entre 0 et 23</string>
     <string name="material_timepicker_minute">Minute</string>
+    <string name="material_timepicker_minute_error">Minute entre 0 et 59</string>
     <string name="material_timepicker_pm">PM</string>
     <string name="material_timepicker_select_time">Sélectionner l\'heure</string>
     <string name="material_timepicker_text_input_mode_description">Passer au mode Entrée de texte pour entrer l\'heure.</string>
+    <string name="material_timepicker_text_input_mode_tooltip">Passer au mode d\'entrée de texte</string>
     <string name="mtrl_badge_numberless_content_description">Nouvelle notification</string>
+    <string name="mtrl_button_collapsed_content_description">Réduit</string>
+    <string name="mtrl_button_expanded_content_description">Développé</string>
+    <string name="mtrl_button_overflow_icon_content_description">Menu à développer</string>
+    <string name="mtrl_button_snackbar_close_content_description">Fermer</string>
     <string name="mtrl_checkbox_state_description_checked">Cochée</string>
     <string name="mtrl_checkbox_state_description_indeterminate">Partiellement cochée</string>
     <string name="mtrl_checkbox_state_description_unchecked">Non cochée</string>
     <string name="mtrl_chip_close_icon_content_description">Supprimer %1$s</string>
-    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Plus de %1$d nouvelles notifications</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns1:ignore="PluralsCandidate">Plus de %1$d nouvelles notifications</string>
     <string name="mtrl_picker_a11y_next_month">Passer au mois suivant</string>
     <string name="mtrl_picker_a11y_prev_month">Passer au mois précédent</string>
     <string name="mtrl_picker_announce_current_range_selection">Sélection de la date de début : %1$s – Sélection de la date de fin : %2$s</string>
@@ -184,7 +201,11 @@
     <string name="mtrl_picker_invalid_range">Plage incorrecte.</string>
     <string name="mtrl_picker_navigate_to_current_year_description">Naviguer à l\'année en cours %1$d</string>
     <string name="mtrl_picker_navigate_to_year_description">Naviguer vers l\'année %1$d</string>
+    <string name="mtrl_picker_next_month_tooltip">Mois suivant</string>
     <string name="mtrl_picker_out_of_range">Hors de la plage : %1$s</string>
+    <string name="mtrl_picker_pane_title_calendar_view">Vue de l\'agenda</string>
+    <string name="mtrl_picker_pane_title_year_view">Vue annuelle</string>
+    <string name="mtrl_picker_prev_month_tooltip">Mois précédent</string>
     <string name="mtrl_picker_range_header_only_end_selected">Du (date de début) au %1$s</string>
     <string name="mtrl_picker_range_header_only_start_selected">%1$s – Date de fin</string>
     <string name="mtrl_picker_range_header_selected">Du %1$s au %2$s</string>
@@ -200,11 +221,11 @@
     <string name="mtrl_picker_text_input_year_abbr">a</string>
     <string name="mtrl_picker_today_description">%1$s Aujourd\'hui</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Passer au mode d\'entrée Agenda</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode_tooltip">Passer au mode d\'entrée de l\'agenda</string>
     <string name="mtrl_picker_toggle_to_day_selection">Passer à l\'affichage de l\'agenda</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Passer au mode d\'entrée Texte</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode_tooltip">Passer au mode d\'entrée de texte</string>
     <string name="mtrl_picker_toggle_to_year_selection">Passer à la vue annuelle</string>
-    <string name="mtrl_picker_toggled_to_day_selection">Passé à la vue d\'Agenda</string>
-    <string name="mtrl_picker_toggled_to_year_selection">Passé à la vue annuelle</string>
     <string name="mtrl_timepicker_cancel">Annuler</string>
     <string name="mtrl_timepicker_confirm">OK</string>
     <string msgid="542007171693138492" name="navigation_menu">"Menu de navigation"</string>
@@ -224,7 +245,7 @@
     <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
     <string msgid="2561197295334830845" name="switch_role">"Basculer"</string>
     <string msgid="1672349317127674378" name="tab">"Onglet"</string>
-    <string msgid="5946805113151406391" name="template_percent">"<ns1:g id="PERCENTAGE">%1$d</ns1:g> pour cent."</string>
+    <string msgid="5946805113151406391" name="template_percent">"<xliff:g id="PERCENTAGE">%1$d</xliff:g> pour cent."</string>
     <string msgid="3765533235322692011" name="tooltip_description">"infobulle"</string>
     <string msgid="3124740595719787496" name="tooltip_label">"afficher une infobulle"</string>
 </resources>

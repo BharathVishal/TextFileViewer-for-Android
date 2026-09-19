@@ -11,13 +11,12 @@ com.bharathvishal.textfileviewer.databinding.MainlayoutBinding
 com.bharathvishal.textfileviewer.Activities.ComposableSingletons$TextViewMainActivityKt:
     public static final com.bharathvishal.textfileviewer.Activities.ComposableSingletons$TextViewMainActivityKt INSTANCE
     public void <init>()
-    public static kotlin.jvm.functions.Function2 getLambda$-1565490422$textviewermodule()
 com.bharathvishal.textfileviewer.Activities.ExampleActivityKotlinCompose:
     public static final int $stable
     static void <clinit>()
 com.bharathvishal.textfileviewer.Activities.TextViewMainActivity$LazyColumnView$lambda$0$0$$inlined$items$default$1
 com.bharathvishal.textfileviewer.Activities.TextViewMainActivity$LazyColumnView$lambda$0$0$$inlined$items$default$3:
-    public final synthetic com.bharathvishal.textfileviewer.Activities.TextViewMainActivity$LazyColumnView$lambda$0$0$$inlined$items$default$1 $contentType
+    public final synthetic kotlin.jvm.functions.Function1 $contentType
     public final void invoke(int)
 com.bharathvishal.textfileviewer.Activities.TextViewMainActivity$LazyColumnView$lambda$0$0$$inlined$items$default$4:
     public static void invoke()
@@ -29,14 +28,10 @@ com.bharathvishal.textfileviewer.Activities.TextViewMainActivity$loadTextFile$1:
 com.bharathvishal.textfileviewer.Activities.TextViewMainActivity:
     public static final int $stable
     static void <clinit>()
-    public static androidx.compose.runtime.snapshots.SnapshotStateList getTextLineListSnapShot()
     public final void loadTextFile(android.content.Context,boolean)
 com.bharathvishal.textfileviewer.Classes.TextLineRepresentation:
     public static final int $stable
     static void <clinit>()
-    public static java.lang.String getLineNumber()
-    public static java.lang.String getTextLine()
-    public static java.lang.String getTextNoOfCharacters()
     public static void setLineNumber()
     public static void setTextLine()
     public static void setTextNoOfCharacters()

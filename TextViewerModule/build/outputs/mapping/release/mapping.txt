@@ -1,9 +1,9 @@
 # compiler: R8
-# compiler_version: 9.2.14
+# compiler_version: 9.4.24
 # common_typos_disable
 # {"id":"com.android.tools.r8.mapping","version":"2.2"}
-# pg_map_id: 4a9dbf042af421c95f8fa35b673d5682d0dc90b65e5147e6f1d433341416d9d5
-# pg_map_hash: SHA-256 4a9dbf042af421c95f8fa35b673d5682d0dc90b65e5147e6f1d433341416d9d5
+# pg_map_id: 1174c9a8eb133c5013a0020aade851f67dbecf4115444c8d3b3b58a89c05690a
+# pg_map_hash: SHA-256 1174c9a8eb133c5013a0020aade851f67dbecf4115444c8d3b3b58a89c05690a
 com.bharathvishal.textfileviewer.Activities.ComposableSingletons$TextViewMainActivityKt -> com.bharathvishal.textfileviewer.Activities.a:
 # {"id":"sourceFile","fileName":"TextViewMainActivity.kt"}
     kotlin.jvm.functions.Function2 lambda$-1565490422 -> a
@@ -131,14 +131,13 @@ com.bharathvishal.textfileviewer.Activities.TextViewMainActivity -> com.bharathv
     2:2:kotlin.Unit onCreate$lambda$0(com.bharathvishal.textfileviewer.Activities.TextViewMainActivity,androidx.compose.runtime.Composer,int):186:186 -> c
     3:12:kotlin.Unit onCreate$lambda$0(com.bharathvishal.textfileviewer.Activities.TextViewMainActivity,androidx.compose.runtime.Composer,int):185:194 -> c
     13:17:void TopAppBarMain(androidx.compose.runtime.Composer,int):319:323 -> c
-    18:18:void TopAppBarMain(androidx.compose.runtime.Composer,int):322:322 -> c
-    19:23:void TopAppBarMain(androidx.compose.runtime.Composer,int):321:325 -> c
-    24:24:void TopAppBarMain(androidx.compose.runtime.Composer,int):320:320 -> c
-    25:43:void TopAppBarMain(androidx.compose.runtime.Composer,int):319:337 -> c
-    44:700:kotlin.Unit ComposableCardViewApp$lambda$2$0$0(java.lang.String,androidx.compose.runtime.Composer,int):480:1136 -> c
-    701:702:kotlin.Unit ComposableCardViewApp$lambda$2$0$0(java.lang.String,androidx.compose.runtime.Composer,int):483:484 -> c
-    703:703:kotlin.Unit ComposableCardViewApp$lambda$2$0$0(java.lang.String,androidx.compose.runtime.Composer,int):478:478 -> c
-    704:714:kotlin.Unit ComposableCardViewApp$lambda$2$0$0(java.lang.String,androidx.compose.runtime.Composer,int):477:487 -> c
+    18:22:void TopAppBarMain(androidx.compose.runtime.Composer,int):321:325 -> c
+    23:23:void TopAppBarMain(androidx.compose.runtime.Composer,int):320:320 -> c
+    24:42:void TopAppBarMain(androidx.compose.runtime.Composer,int):319:337 -> c
+    43:699:kotlin.Unit ComposableCardViewApp$lambda$2$0$0(java.lang.String,androidx.compose.runtime.Composer,int):480:1136 -> c
+    700:701:kotlin.Unit ComposableCardViewApp$lambda$2$0$0(java.lang.String,androidx.compose.runtime.Composer,int):483:484 -> c
+    702:702:kotlin.Unit ComposableCardViewApp$lambda$2$0$0(java.lang.String,androidx.compose.runtime.Composer,int):478:478 -> c
+    703:713:kotlin.Unit ComposableCardViewApp$lambda$2$0$0(java.lang.String,androidx.compose.runtime.Composer,int):477:487 -> c
     1:1:kotlin.Unit ViewMain$lambda$1(com.bharathvishal.textfileviewer.Activities.TextViewMainActivity,int,androidx.compose.runtime.Composer,int):0:0 -> d
     2:3:kotlin.Unit onCreate$lambda$0$0(com.bharathvishal.textfileviewer.Activities.TextViewMainActivity,androidx.compose.runtime.Composer,int):189:190 -> d
     4:4:kotlin.Unit onCreate$lambda$0$0(com.bharathvishal.textfileviewer.Activities.TextViewMainActivity,androidx.compose.runtime.Composer,int):188:188 -> d
@@ -218,6 +217,7 @@ com.bharathvishal.textfileviewer.Activities.TextViewMainActivity$LazyColumnView$
     530:531:java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object):178 -> invoke
     532:532:java.lang.String com.bharathvishal.textfileviewer.Classes.TextLineRepresentation.getLineNumber():22:22 -> invoke
     532:532:void invoke(androidx.compose.foundation.lazy.LazyItemScope,int,androidx.compose.runtime.Composer,int):527 -> invoke
+      # {"id":"com.android.tools.r8.rewriteFrame","conditions":["throws(Ljava/lang/NullPointerException;)"],"actions":["removeInnerFrames(1)"]}
     532:532:java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object):178 -> invoke
     533:533:java.lang.String com.bharathvishal.textfileviewer.Classes.TextLineRepresentation.getTextLine():23:23 -> invoke
     533:533:void invoke(androidx.compose.foundation.lazy.LazyItemScope,int,androidx.compose.runtime.Composer,int):528 -> invoke
@@ -236,6 +236,7 @@ com.bharathvishal.textfileviewer.Activities.TextViewMainActivity$LazyColumnView$
     538:539:java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object):178 -> invoke
     540:540:java.lang.String com.bharathvishal.textfileviewer.Classes.TextLineRepresentation.getLineNumber():22:22 -> invoke
     540:540:void invoke(androidx.compose.foundation.lazy.LazyItemScope,int,androidx.compose.runtime.Composer,int):533 -> invoke
+      # {"id":"com.android.tools.r8.rewriteFrame","conditions":["throws(Ljava/lang/NullPointerException;)"],"actions":["removeInnerFrames(1)"]}
     540:540:java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object):178 -> invoke
     541:541:java.lang.String com.bharathvishal.textfileviewer.Classes.TextLineRepresentation.getTextLine():23:23 -> invoke
     541:541:void invoke(androidx.compose.foundation.lazy.LazyItemScope,int,androidx.compose.runtime.Composer,int):534 -> invoke
@@ -246,6 +247,7 @@ com.bharathvishal.textfileviewer.Activities.TextViewMainActivity$LazyColumnView$
     543:549:java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object):178 -> invoke
     550:550:java.lang.String com.bharathvishal.textfileviewer.Classes.TextLineRepresentation.getTextLine():23:23 -> invoke
     550:550:void invoke(androidx.compose.foundation.lazy.LazyItemScope,int,androidx.compose.runtime.Composer,int):538 -> invoke
+      # {"id":"com.android.tools.r8.rewriteFrame","conditions":["throws(Ljava/lang/NullPointerException;)"],"actions":["removeInnerFrames(1)"]}
     550:550:java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object):178 -> invoke
     551:551:void invoke(androidx.compose.foundation.lazy.LazyItemScope,int,androidx.compose.runtime.Composer,int):537:537 -> invoke
     551:551:java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object):178 -> invoke
@@ -253,6 +255,7 @@ com.bharathvishal.textfileviewer.Activities.TextViewMainActivity$LazyColumnView$
     552:557:java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object):178 -> invoke
     558:558:java.lang.String com.bharathvishal.textfileviewer.Classes.TextLineRepresentation.getTextLine():23:23 -> invoke
     558:558:void invoke(androidx.compose.foundation.lazy.LazyItemScope,int,androidx.compose.runtime.Composer,int):542 -> invoke
+      # {"id":"com.android.tools.r8.rewriteFrame","conditions":["throws(Ljava/lang/NullPointerException;)"],"actions":["removeInnerFrames(1)"]}
     558:558:java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object):178 -> invoke
     559:559:java.lang.String com.bharathvishal.textfileviewer.Classes.TextLineRepresentation.getTextNoOfCharacters():24:24 -> invoke
     559:559:void invoke(androidx.compose.foundation.lazy.LazyItemScope,int,androidx.compose.runtime.Composer,int):543 -> invoke

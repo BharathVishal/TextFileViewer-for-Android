@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.bharathvishal.textfileviewer.textviewermodule-release-59:/drawable-v28/m3_focus_ring_framework_button_background.xml",
+        "source": "com.bharathvishal.textfileviewer.textviewermodule-material-1.14.0-16:/drawable-v28/m3_focus_ring_framework_button_background.xml"
+    },
+    {
+        "merged": "com.bharathvishal.textfileviewer.textviewermodule-release-59:/drawable-v28/m3_focus_ring_framework_button_background_shape.xml",
+        "source": "com.bharathvishal.textfileviewer.textviewermodule-material-1.14.0-16:/drawable-v28/m3_focus_ring_framework_button_background_shape.xml"
+    }
+]

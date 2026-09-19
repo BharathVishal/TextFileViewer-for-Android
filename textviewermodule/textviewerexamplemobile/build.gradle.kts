@@ -7,14 +7,14 @@ plugins {
 
 extensions.configure<ApplicationExtension>  {
     namespace="com.example.textviewerexamplemobile"
-    compileSdk = 36
+    compileSdk = 37
     defaultConfig {
         applicationId ="com.example.textviewerexamplemobile"
         vectorDrawables {
             useSupportLibrary = true
         }
         minSdk = 23
-        targetSdk = 36
+        targetSdk = 37
         versionCode = 1
         versionName = "1.0"
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
@@ -72,7 +72,6 @@ dependencies {
     androidTestImplementation(libs.androidx.espresso.core)
     implementation(libs.androidx.cardview)
     implementation(libs.androidx.compose.material3)
-    implementation(libs.androidx.compose.material3.windowsize)
     implementation(libs.androidx.compose.material3.windowsize)
     implementation(libs.androidx.lifecycle.runtime.ktx)
     implementation(libs.androidx.activity.compose)

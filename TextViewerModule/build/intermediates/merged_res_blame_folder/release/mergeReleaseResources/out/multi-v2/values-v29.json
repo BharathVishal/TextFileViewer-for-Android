@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.bharathvishal.textfileviewer.textviewermodule-release-58:/values-v29/values-v29.xml",
+            "outputFile": "com.bharathvishal.textfileviewer.textviewermodule-release-59:/values-v29/values-v29.xml",
             "map": [
                 {
                     "source": "/Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/res/values-v29/themes.xml",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/Users/bharathvishal/.gradle/caches/9.4.1/transforms/6f82825bf6dff8841043abf9850f3b26/transformed/jetified-core-splashscreen-1.2.0/res/values-v29/values-v29.xml",
+                    "source": "/Users/bharathvishal/.gradle/caches/9.6.0/transforms/8690ce51e33d85fd1acfd848bb32d4cf/transformed/jetified-core-splashscreen-1.2.0/res/values-v29/values-v29.xml",
                     "from": {
                         "startLines": "2,8",
                         "startColumns": "4,4",
@@ -36,7 +36,7 @@
             ]
         },
         {
-            "outputFile": "com.bharathvishal.textfileviewer.textviewermodule-mergeReleaseResources-56:/values-v29/values-v29.xml",
+            "outputFile": "com.bharathvishal.textfileviewer.textviewermodule-mergeReleaseResources-57:/values-v29/values-v29.xml",
             "map": [
                 {
                     "source": "/Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/res/values-v29/themes.xml",
@@ -58,7 +58,7 @@
                     }
                 },
                 {
-                    "source": "/Users/bharathvishal/.gradle/caches/9.4.1/transforms/6f82825bf6dff8841043abf9850f3b26/transformed/jetified-core-splashscreen-1.2.0/res/values-v29/values-v29.xml",
+                    "source": "/Users/bharathvishal/.gradle/caches/9.6.0/transforms/8690ce51e33d85fd1acfd848bb32d4cf/transformed/jetified-core-splashscreen-1.2.0/res/values-v29/values-v29.xml",
                     "from": {
                         "startLines": "2,8",
                         "startColumns": "4,4",

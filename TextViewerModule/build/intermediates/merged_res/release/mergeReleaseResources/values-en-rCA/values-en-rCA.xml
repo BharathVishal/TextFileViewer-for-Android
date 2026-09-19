@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Navigate home"</string>
     <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Navigate up"</string>
     <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"More options"</string>
@@ -25,7 +25,7 @@
     <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Submit query"</string>
     <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Voice search"</string>
     <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Share with"</string>
-    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Share with <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Share with <xliff:g id="APPLICATION_NAME">%s</xliff:g>"</string>
     <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Collapse"</string>
     <string msgid="8719607706653693137" name="androidx_compose_foundation_autofill">"Autofill"</string>
     <string msgid="1150566100598813236" name="androidx_compose_ui_autofill">"Autofill"</string>
@@ -122,7 +122,7 @@
     <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
     <string msgid="2561197295334830845" name="switch_role">"Switch"</string>
     <string msgid="1672349317127674378" name="tab">"Tab"</string>
-    <string msgid="5946805113151406391" name="template_percent">"<ns1:g id="PERCENTAGE">%1$d</ns1:g> percent."</string>
+    <string msgid="5946805113151406391" name="template_percent">"<xliff:g id="PERCENTAGE">%1$d</xliff:g> percent."</string>
     <string msgid="3765533235322692011" name="tooltip_description">"tooltip"</string>
     <string msgid="3124740595719787496" name="tooltip_label">"show tooltip"</string>
 </resources>

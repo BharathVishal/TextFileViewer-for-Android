@@ -1,20 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.bharathvishal.textfileviewer.textviewermodule-mergeReleaseResources-56:/values-v30/values-v30.xml",
+            "outputFile": "com.bharathvishal.textfileviewer.textviewermodule-mergeReleaseResources-57:/values-v30/values-v30.xml",
             "map": [
                 {
-                    "source": "/Users/bharathvishal/.gradle/caches/9.4.1/transforms/f2ae5d42064a061eb16612c44e8a0c07/transformed/jetified-material3/res/values-v30/values-v30.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "72",
-                        "endOffsets": "123"
-                    }
-                },
-                {
-                    "source": "/Users/bharathvishal/.gradle/caches/9.4.1/transforms/6f82825bf6dff8841043abf9850f3b26/transformed/jetified-core-splashscreen-1.2.0/res/values-v30/values-v30.xml",
+                    "source": "/Users/bharathvishal/.gradle/caches/9.6.0/transforms/8690ce51e33d85fd1acfd848bb32d4cf/transformed/jetified-core-splashscreen-1.2.0/res/values-v30/values-v30.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -30,25 +20,25 @@
                         "endLines": "8",
                         "endColumns": "12",
                         "endOffsets": "506"
+                    }
+                },
+                {
+                    "source": "/Users/bharathvishal/.gradle/caches/9.6.0/transforms/7c25aef124da6c29da7a958fabf21298/transformed/jetified-material3/res/values-v30/values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
                     }
                 }
             ]
         },
         {
-            "outputFile": "com.bharathvishal.textfileviewer.textviewermodule-release-58:/values-v30/values-v30.xml",
+            "outputFile": "com.bharathvishal.textfileviewer.textviewermodule-release-59:/values-v30/values-v30.xml",
             "map": [
                 {
-                    "source": "/Users/bharathvishal/.gradle/caches/9.4.1/transforms/f2ae5d42064a061eb16612c44e8a0c07/transformed/jetified-material3/res/values-v30/values-v30.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "72",
-                        "endOffsets": "123"
-                    }
-                },
-                {
-                    "source": "/Users/bharathvishal/.gradle/caches/9.4.1/transforms/6f82825bf6dff8841043abf9850f3b26/transformed/jetified-core-splashscreen-1.2.0/res/values-v30/values-v30.xml",
+                    "source": "/Users/bharathvishal/.gradle/caches/9.6.0/transforms/8690ce51e33d85fd1acfd848bb32d4cf/transformed/jetified-core-splashscreen-1.2.0/res/values-v30/values-v30.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -64,6 +54,16 @@
                         "endLines": "8",
                         "endColumns": "12",
                         "endOffsets": "506"
+                    }
+                },
+                {
+                    "source": "/Users/bharathvishal/.gradle/caches/9.6.0/transforms/7c25aef124da6c29da7a958fabf21298/transformed/jetified-material3/res/values-v30/values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
                     }
                 }
             ]

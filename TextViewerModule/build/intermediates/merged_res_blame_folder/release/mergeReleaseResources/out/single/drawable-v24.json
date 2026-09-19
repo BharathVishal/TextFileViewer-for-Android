@@ -1,6 +1,54 @@
 [
     {
-        "merged": "com.bharathvishal.textfileviewer.textviewermodule-release-58:/drawable-v24/ic_launcher_foreground.xml",
-        "source": "com.bharathvishal.textfileviewer.textviewermodule-main-59:/drawable-v24/ic_launcher_foreground.xml"
+        "merged": "com.bharathvishal.textfileviewer.textviewermodule-release-59:/drawable-v24/m3_focus_ring_control_background.xml",
+        "source": "com.bharathvishal.textfileviewer.textviewermodule-material-1.14.0-16:/drawable-v24/m3_focus_ring_control_background.xml"
+    },
+    {
+        "merged": "com.bharathvishal.textfileviewer.textviewermodule-release-59:/drawable-v24/m3_focus_ring_framework_button_background.xml",
+        "source": "com.bharathvishal.textfileviewer.textviewermodule-material-1.14.0-16:/drawable-v24/m3_focus_ring_framework_button_background.xml"
+    },
+    {
+        "merged": "com.bharathvishal.textfileviewer.textviewermodule-release-59:/drawable-v24/m3_focus_ring_toolbar_selectable_item_background_borderless.xml",
+        "source": "com.bharathvishal.textfileviewer.textviewermodule-material-1.14.0-16:/drawable-v24/m3_focus_ring_toolbar_selectable_item_background_borderless.xml"
+    },
+    {
+        "merged": "com.bharathvishal.textfileviewer.textviewermodule-release-59:/drawable-v24/m3_focus_ring_list_selector_background.xml",
+        "source": "com.bharathvishal.textfileviewer.textviewermodule-material-1.14.0-16:/drawable-v24/m3_focus_ring_list_selector_background.xml"
+    },
+    {
+        "merged": "com.bharathvishal.textfileviewer.textviewermodule-release-59:/drawable-v24/m3_focus_ring_item_background_borderless.xml",
+        "source": "com.bharathvishal.textfileviewer.textviewermodule-material-1.14.0-16:/drawable-v24/m3_focus_ring_item_background_borderless.xml"
+    },
+    {
+        "merged": "com.bharathvishal.textfileviewer.textviewermodule-release-59:/drawable-v24/ic_launcher_foreground.xml",
+        "source": "com.bharathvishal.textfileviewer.textviewermodule-main-60:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.bharathvishal.textfileviewer.textviewermodule-release-59:/drawable-v24/m3_focus_ring_framework_checkbox_background.xml",
+        "source": "com.bharathvishal.textfileviewer.textviewermodule-material-1.14.0-16:/drawable-v24/m3_focus_ring_framework_checkbox_background.xml"
+    },
+    {
+        "merged": "com.bharathvishal.textfileviewer.textviewermodule-release-59:/drawable-v24/m3_focus_ring_toolbar_action_bar_item_background.xml",
+        "source": "com.bharathvishal.textfileviewer.textviewermodule-material-1.14.0-16:/drawable-v24/m3_focus_ring_toolbar_action_bar_item_background.xml"
+    },
+    {
+        "merged": "com.bharathvishal.textfileviewer.textviewermodule-release-59:/drawable-v24/m3_focus_ring_item_background.xml",
+        "source": "com.bharathvishal.textfileviewer.textviewermodule-material-1.14.0-16:/drawable-v24/m3_focus_ring_item_background.xml"
+    },
+    {
+        "merged": "com.bharathvishal.textfileviewer.textviewermodule-release-59:/drawable-v24/m3_focus_ring_action_bar_item_background.xml",
+        "source": "com.bharathvishal.textfileviewer.textviewermodule-material-1.14.0-16:/drawable-v24/m3_focus_ring_action_bar_item_background.xml"
+    },
+    {
+        "merged": "com.bharathvishal.textfileviewer.textviewermodule-release-59:/drawable-v24/m3_focus_ring_framework_button_background_borderless.xml",
+        "source": "com.bharathvishal.textfileviewer.textviewermodule-material-1.14.0-16:/drawable-v24/m3_focus_ring_framework_button_background_borderless.xml"
+    },
+    {
+        "merged": "com.bharathvishal.textfileviewer.textviewermodule-release-59:/drawable-v24/m3_focus_ring_framework_button_background_shape.xml",
+        "source": "com.bharathvishal.textfileviewer.textviewermodule-material-1.14.0-16:/drawable-v24/m3_focus_ring_framework_button_background_shape.xml"
+    },
+    {
+        "merged": "com.bharathvishal.textfileviewer.textviewermodule-release-59:/drawable-v24/m3_focus_ring_toolbar_selectable_item_background.xml",
+        "source": "com.bharathvishal.textfileviewer.textviewermodule-material-1.14.0-16:/drawable-v24/m3_focus_ring_toolbar_selectable_item_background.xml"
     }
 ]

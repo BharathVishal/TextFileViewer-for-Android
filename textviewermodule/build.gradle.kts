@@ -27,13 +27,13 @@ plugins {
 
 extensions.configure<LibraryExtension> {
     namespace = "com.bharathvishal.textfileviewer"
-    compileSdk = 36
+    compileSdk = 37
     defaultConfig {
         vectorDrawables {
             useSupportLibrary = true
         }
         minSdk = 23
-        testOptions.targetSdk = 36
+        testOptions.targetSdk = 37
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
     buildFeatures {
@@ -87,7 +87,6 @@ dependencies {
     implementation(libs.androidx.cardview)
     implementation(libs.androidx.compose.material3)
     implementation(libs.androidx.compose.material3.windowsize)
-    implementation(libs.androidx.compose.material3.windowsize)
     implementation(libs.androidx.lifecycle.runtime.ktx)
     implementation(libs.androidx.activity.compose)
     androidTestImplementation(libs.androidx.ui.test.junit4)
@@ -114,7 +113,7 @@ afterEvaluate {
                 from(components["release"])
                 groupId = "com.github.BharathVishal"
                 artifactId = "TextFileViewerAndroid"
-                version = "1.5.3"
+                version = "1.5.4"
             }
         }
     }

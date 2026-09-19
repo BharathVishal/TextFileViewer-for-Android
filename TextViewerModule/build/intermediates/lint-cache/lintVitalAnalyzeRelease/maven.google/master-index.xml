@@ -40,6 +40,7 @@
   <androidx.compose.material3/>
   <androidx.compose.material3.adaptive/>
   <androidx.compose.remote/>
+  <androidx.compose.remote.foundation/>
   <androidx.compose.runtime/>
   <androidx.compose.ui/>
   <androidx.concurrent/>
@@ -47,6 +48,7 @@
   <androidx.contentpager/>
   <androidx.coordinatorlayout/>
   <androidx.core/>
+  <androidx.core.locationbutton/>
   <androidx.core.uwb/>
   <androidx.credentials/>
   <androidx.credentials.providerevents/>
@@ -67,6 +69,7 @@
   <androidx.games/>
   <androidx.gaming/>
   <androidx.glance/>
+  <androidx.glance.adaptive/>
   <androidx.glance.wear/>
   <androidx.gradle/>
   <androidx.graphics/>
@@ -190,6 +193,7 @@
   <com.android.lint/>
   <com.android.ndk.thirdparty/>
   <com.android.privacy-sandbox-sdk/>
+  <com.android.r8/>
   <com.android.reporting/>
   <com.android.security.autorepro/>
   <com.android.security.autorepro.apptest/>
@@ -210,8 +214,10 @@
   <com.android.tools/>
   <com.android.tools.adblib/>
   <com.android.tools.analytics-library/>
+  <com.android.tools.androidtest/>
   <com.android.tools.apkdeployer/>
   <com.android.tools.apkparser/>
+  <com.android.tools.backup/>
   <com.android.tools.build/>
   <com.android.tools.build.jetifier/>
   <com.android.tools.chunkio/>
@@ -260,6 +266,7 @@
   <com.google.android.instantapps/>
   <com.google.android.instantapps.thirdpartycompat/>
   <com.google.android.libraries.ads.mobile.sdk/>
+  <com.google.android.libraries.bettertogether.fastpair/>
   <com.google.android.libraries.car/>
   <com.google.android.libraries.cloud.telco.subgraph/>
   <com.google.android.libraries.enterprise.amapi/>
@@ -273,6 +280,7 @@
   <com.google.android.libraries.play.games/>
   <com.google.android.libraries.sdkcoroutines/>
   <com.google.android.libraries.searchinapps/>
+  <com.google.android.libraries.verifier/>
   <com.google.android.livesharing/>
   <com.google.android.material/>
   <com.google.android.mdoc/>

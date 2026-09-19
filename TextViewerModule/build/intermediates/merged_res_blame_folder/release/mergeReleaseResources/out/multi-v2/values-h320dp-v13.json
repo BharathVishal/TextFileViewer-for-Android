@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.bharathvishal.textfileviewer.textviewermodule-release-59:/values-h320dp-v13/values-h320dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/bharathvishal/.gradle/caches/9.6.0/transforms/3016b6593935e193b398c0976003289a/transformed/material-1.14.0/res/values-h320dp-v13/values-h320dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.bharathvishal.textfileviewer.textviewermodule-mergeReleaseResources-57:/values-h320dp-v13/values-h320dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/bharathvishal/.gradle/caches/9.6.0/transforms/3016b6593935e193b398c0976003289a/transformed/material-1.14.0/res/values-h320dp-v13/values-h320dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}

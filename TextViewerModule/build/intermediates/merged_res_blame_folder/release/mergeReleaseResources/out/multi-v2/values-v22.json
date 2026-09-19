@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.bharathvishal.textfileviewer.textviewermodule-mergeReleaseResources-56:/values-v22/values-v22.xml",
+            "outputFile": "com.bharathvishal.textfileviewer.textviewermodule-mergeReleaseResources-57:/values-v22/values-v22.xml",
             "map": [
                 {
-                    "source": "/Users/bharathvishal/.gradle/caches/9.4.1/transforms/e78230387afdf11f8e9c6b8da1fd54df/transformed/appcompat-1.7.1/res/values-v22/values-v22.xml",
+                    "source": "/Users/bharathvishal/.gradle/caches/9.6.0/transforms/462644877f4eebe765f156cc72355c79/transformed/appcompat-1.8.0/res/values-v22/values-v22.xml",
                     "from": {
                         "startLines": "2,3,4,9",
                         "startColumns": "4,4,4,4",
@@ -17,10 +17,10 @@
             ]
         },
         {
-            "outputFile": "com.bharathvishal.textfileviewer.textviewermodule-release-58:/values-v22/values-v22.xml",
+            "outputFile": "com.bharathvishal.textfileviewer.textviewermodule-release-59:/values-v22/values-v22.xml",
             "map": [
                 {
-                    "source": "/Users/bharathvishal/.gradle/caches/9.4.1/transforms/e78230387afdf11f8e9c6b8da1fd54df/transformed/appcompat-1.7.1/res/values-v22/values-v22.xml",
+                    "source": "/Users/bharathvishal/.gradle/caches/9.6.0/transforms/462644877f4eebe765f156cc72355c79/transformed/appcompat-1.8.0/res/values-v22/values-v22.xml",
                     "from": {
                         "startLines": "2,3,4,9",
                         "startColumns": "4,4,4,4",

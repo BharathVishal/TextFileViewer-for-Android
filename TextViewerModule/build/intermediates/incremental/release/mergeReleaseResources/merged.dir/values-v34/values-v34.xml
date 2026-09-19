@@ -88,4 +88,8 @@
     <color name="material_dynamic_color_light_error_container">@color/m3_sys_color_dynamic_light_error_container</color>
     <color name="material_dynamic_color_light_on_error">@color/m3_sys_color_dynamic_light_on_error</color>
     <color name="material_dynamic_color_light_on_error_container">@color/m3_sys_color_dynamic_light_on_error_container</color>
+    <item format="float" name="m3_control_ripple_color_selector_default_alpha" type="dimen">0.2</item>
+    <item format="float" name="m3_control_ripple_color_selector_focused_alpha" type="dimen">0.17</item>
+    <item format="float" name="m3_control_ripple_color_selector_hovered_alpha" type="dimen">0.1</item>
+    <item format="float" name="m3_control_ripple_color_selector_pressed_alpha" type="dimen">0.12</item>
 </resources>

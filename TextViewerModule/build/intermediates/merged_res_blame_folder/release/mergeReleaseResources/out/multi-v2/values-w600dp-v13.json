@@ -1,8 +1,25 @@
 {
     "logs": [
         {
-            "outputFile": "com.bharathvishal.textfileviewer.textviewermodule-release-58:/values-w600dp-v13/values-w600dp-v13.xml",
+            "outputFile": "com.bharathvishal.textfileviewer.textviewermodule-release-59:/values-w600dp-v13/values-w600dp-v13.xml",
             "map": [
+                {
+                    "source": "/Users/bharathvishal/.gradle/caches/9.6.0/transforms/3016b6593935e193b398c0976003289a/transformed/material-1.14.0/res/values-w600dp-v13/values-w600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,124",
+                        "endColumns": "68,69",
+                        "endOffsets": "119,189"
+                    },
+                    "to": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "97,166",
+                        "endColumns": "68,69",
+                        "endOffsets": "161,231"
+                    }
+                },
                 {
                     "source": "/Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/res/values-w600dp/dimens.xml",
                     "from": {
@@ -23,8 +40,25 @@
             ]
         },
         {
-            "outputFile": "com.bharathvishal.textfileviewer.textviewermodule-mergeReleaseResources-56:/values-w600dp-v13/values-w600dp-v13.xml",
+            "outputFile": "com.bharathvishal.textfileviewer.textviewermodule-mergeReleaseResources-57:/values-w600dp-v13/values-w600dp-v13.xml",
             "map": [
+                {
+                    "source": "/Users/bharathvishal/.gradle/caches/9.6.0/transforms/3016b6593935e193b398c0976003289a/transformed/material-1.14.0/res/values-w600dp-v13/values-w600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,124",
+                        "endColumns": "68,69",
+                        "endOffsets": "119,189"
+                    },
+                    "to": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "97,166",
+                        "endColumns": "68,69",
+                        "endOffsets": "161,231"
+                    }
+                },
                 {
                     "source": "/Users/bharathvishal/Documents/GitHub/TextFileViewer-for-Android/textviewermodule/src/main/res/values-w600dp/dimens.xml",
                     "from": {
